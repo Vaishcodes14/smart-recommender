@@ -1,0 +1,1001 @@
+item_code,item_id,title,brand,category_id,price,list_price,discount_pct,image_url,avg_rating,sales_count,description
+0,p1000,"Samsung X1000 - 8GB RAM, 128GB Storage",Samsung,smartphone,26289,26289,0,https://picsum.photos/seed/p1000/300/200,3.57,4139,High-performance smartphone with excellent camera and display.
+1,p1001,Sony Game Console 1001 - 1TB,Sony,gaming_console,40561,42696,5,https://picsum.photos/seed/p1001/300/200,3.46,2757,Next-gen console delivering immersive gaming experiences.
+2,p1002,"Samsung X1002 - 8GB RAM, 128GB Storage",Samsung,smartphone,107174,119082,10,https://picsum.photos/seed/p1002/300/200,3.33,2401,High-performance smartphone with excellent camera and display.
+3,p1003,Microsoft Game Console 1003 - 1TB,Microsoft,gaming_console,35920,39911,10,https://picsum.photos/seed/p1003/300/200,4.28,2988,Next-gen console delivering immersive gaming experiences.
+4,p1004,"Lenovo Tab 1004 - 10.5"" Display, 64GB",Lenovo,tablet,49316,54796,10,https://picsum.photos/seed/p1004/300/200,3.66,4562,Portable tablet ideal for media and light productivity.
+5,p1005,"LG Smart TV 1005 - 4K UHD, 43""",LG,tv,112646,125162,10,https://picsum.photos/seed/p1005/300/200,3.87,3758,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+6,p1006,"Lenovo Tab 1006 - 10.5"" Display, 64GB",Lenovo,tablet,43480,48311,10,https://picsum.photos/seed/p1006/300/200,3.35,385,Portable tablet ideal for media and light productivity.
+7,p1007,"OnePlus X1007 - 8GB RAM, 128GB Storage",OnePlus,smartphone,86172,86172,0,https://picsum.photos/seed/p1007/300/200,4.36,4398,High-performance smartphone with excellent camera and display.
+8,p1008,"Sony Mirrorless 1008 - 24MP, 4K Video",Sony,camera,119646,119646,0,https://picsum.photos/seed/p1008/300/200,4.68,2444,High quality imaging for enthusiasts and vloggers.
+9,p1009,Boat Wireless Headphones 1009,Boat,headphones,22243,22243,0,https://picsum.photos/seed/p1009/300/200,4.78,2519,Comfortable headphones with active noise cancellation.
+10,p1010,"Samsung Smart TV 1010 - 4K UHD, 50""",Samsung,tv,132659,147399,10,https://picsum.photos/seed/p1010/300/200,4.81,1352,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+11,p1011,"Fujifilm Mirrorless 1011 - 24MP, 4K Video",Fujifilm,camera,113039,113039,0,https://picsum.photos/seed/p1011/300/200,3.58,2769,High quality imaging for enthusiasts and vloggers.
+12,p1012,"Acer UltraBook 1012 - 16GB RAM, 512GB SSD",Acer,laptop,97728,97728,0,https://picsum.photos/seed/p1012/300/200,3.67,3976,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+13,p1013,"Sony Smart TV 1013 - 4K UHD, 65""",Sony,tv,62923,69914,10,https://picsum.photos/seed/p1013/300/200,4.67,443,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+14,p1014,"Samsung X1014 - 8GB RAM, 128GB Storage",Samsung,smartphone,112935,112935,0,https://picsum.photos/seed/p1014/300/200,3.67,2046,High-performance smartphone with excellent camera and display.
+15,p1015,"Realme X1015 - 8GB RAM, 128GB Storage",Realme,smartphone,20224,20224,0,https://picsum.photos/seed/p1015/300/200,3.84,3198,High-performance smartphone with excellent camera and display.
+16,p1016,"Fujifilm Mirrorless 1016 - 24MP, 4K Video",Fujifilm,camera,53534,53534,0,https://picsum.photos/seed/p1016/300/200,4.19,4119,High quality imaging for enthusiasts and vloggers.
+17,p1017,Bose Wireless Headphones 1017,Bose,headphones,13952,16414,15,https://picsum.photos/seed/p1017/300/200,3.62,4870,Comfortable headphones with active noise cancellation.
+18,p1018,"Acer UltraBook 1018 - 16GB RAM, 512GB SSD",Acer,laptop,168192,177044,5,https://picsum.photos/seed/p1018/300/200,3.98,594,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+19,p1019,"Asus UltraBook 1019 - 16GB RAM, 512GB SSD",Asus,laptop,86289,95877,10,https://picsum.photos/seed/p1019/300/200,4.62,2478,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+20,p1020,Nintendo Game Console 1020 - 1TB,Nintendo,gaming_console,27921,32848,15,https://picsum.photos/seed/p1020/300/200,3.56,2808,Next-gen console delivering immersive gaming experiences.
+21,p1021,"LG Smart TV 1021 - 4K UHD, 65""",LG,tv,124485,131037,5,https://picsum.photos/seed/p1021/300/200,3.47,3619,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+22,p1022,Sennheiser Wireless Headphones 1022,Sennheiser,headphones,10705,10705,0,https://picsum.photos/seed/p1022/300/200,3.72,326,Comfortable headphones with active noise cancellation.
+23,p1023,HP InkJet 1023 - Wireless Printing,HP,printer,33662,33662,0,https://picsum.photos/seed/p1023/300/200,4.7,203,Reliable home-office printer with low-cost cartridges.
+24,p1024,"Lenovo Tab 1024 - 10.5"" Display, 64GB",Lenovo,tablet,19411,20433,5,https://picsum.photos/seed/p1024/300/200,3.72,1864,Portable tablet ideal for media and light productivity.
+25,p1025,"Samsung Smart TV 1025 - 4K UHD, 50""",Samsung,tv,32468,38198,15,https://picsum.photos/seed/p1025/300/200,3.76,226,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+26,p1026,"Xiaomi X1026 - 8GB RAM, 128GB Storage",Xiaomi,smartphone,11062,13014,15,https://picsum.photos/seed/p1026/300/200,3.4,4723,High-performance smartphone with excellent camera and display.
+27,p1027,"LG Smart TV 1027 - 4K UHD, 43""",LG,tv,161151,161151,0,https://picsum.photos/seed/p1027/300/200,4.81,2704,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+28,p1028,Microsoft Game Console 1028 - 1TB,Microsoft,gaming_console,51333,51333,0,https://picsum.photos/seed/p1028/300/200,3.91,3105,Next-gen console delivering immersive gaming experiences.
+29,p1029,"Lenovo Tab 1029 - 10.5"" Display, 64GB",Lenovo,tablet,25923,28803,10,https://picsum.photos/seed/p1029/300/200,4.35,4187,Portable tablet ideal for media and light productivity.
+30,p1030,"LG Curved Monitor 1030 - 27""",LG,monitor,57226,57226,0,https://picsum.photos/seed/p1030/300/200,4.57,1207,High-refresh IPS panel with thin bezels and adaptive-sync.
+31,p1031,"HP UltraBook 1031 - 16GB RAM, 512GB SSD",HP,laptop,59091,59091,0,https://picsum.photos/seed/p1031/300/200,3.45,45,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+32,p1032,"Oppo X1032 - 8GB RAM, 128GB Storage",Oppo,smartphone,102056,113396,10,https://picsum.photos/seed/p1032/300/200,4.33,4578,High-performance smartphone with excellent camera and display.
+33,p1033,Microsoft Game Console 1033 - 1TB,Microsoft,gaming_console,44495,44495,0,https://picsum.photos/seed/p1033/300/200,4.63,2271,Next-gen console delivering immersive gaming experiences.
+34,p1034,Sennheiser Wireless Headphones 1034,Sennheiser,headphones,6280,6280,0,https://picsum.photos/seed/p1034/300/200,3.85,1251,Comfortable headphones with active noise cancellation.
+35,p1035,"Samsung Smart TV 1035 - 4K UHD, 65""",Samsung,tv,116093,128992,10,https://picsum.photos/seed/p1035/300/200,3.21,2881,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+36,p1036,"Fujifilm Mirrorless 1036 - 24MP, 4K Video",Fujifilm,camera,73912,82125,10,https://picsum.photos/seed/p1036/300/200,4.43,3828,High quality imaging for enthusiasts and vloggers.
+37,p1037,"Apple Tab 1037 - 10.5"" Display, 64GB",Apple,tablet,49517,52123,5,https://picsum.photos/seed/p1037/300/200,3.56,2677,Portable tablet ideal for media and light productivity.
+38,p1038,Canon InkJet 1038 - Wireless Printing,Canon,printer,5635,5635,0,https://picsum.photos/seed/p1038/300/200,4.53,329,Reliable home-office printer with low-cost cartridges.
+39,p1039,"Dell UltraBook 1039 - 16GB RAM, 512GB SSD",Dell,laptop,43075,45342,5,https://picsum.photos/seed/p1039/300/200,4.5,1374,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+40,p1040,Nintendo Game Console 1040 - 1TB,Nintendo,gaming_console,40995,40995,0,https://picsum.photos/seed/p1040/300/200,3.33,1989,Next-gen console delivering immersive gaming experiences.
+41,p1041,"Vivo X1041 - 8GB RAM, 128GB Storage",Vivo,smartphone,106745,112363,5,https://picsum.photos/seed/p1041/300/200,3.22,3441,High-performance smartphone with excellent camera and display.
+42,p1042,"Dell Curved Monitor 1042 - 27""",Dell,monitor,17589,19543,10,https://picsum.photos/seed/p1042/300/200,3.99,4853,High-refresh IPS panel with thin bezels and adaptive-sync.
+43,p1043,"Sony Mirrorless 1043 - 24MP, 4K Video",Sony,camera,51267,56963,10,https://picsum.photos/seed/p1043/300/200,4.65,1489,High quality imaging for enthusiasts and vloggers.
+44,p1044,"LG Curved Monitor 1044 - 27""",LG,monitor,44424,44424,0,https://picsum.photos/seed/p1044/300/200,3.61,3329,High-refresh IPS panel with thin bezels and adaptive-sync.
+45,p1045,"LG Curved Monitor 1045 - 27""",LG,monitor,29327,34502,15,https://picsum.photos/seed/p1045/300/200,3.83,4534,High-refresh IPS panel with thin bezels and adaptive-sync.
+46,p1046,JBL Wireless Headphones 1046,JBL,headphones,8907,8907,0,https://picsum.photos/seed/p1046/300/200,4.46,1516,Comfortable headphones with active noise cancellation.
+47,p1047,"Sony Smart TV 1047 - 4K UHD, 65""",Sony,tv,46352,46352,0,https://picsum.photos/seed/p1047/300/200,4.4,1036,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+48,p1048,"Canon Mirrorless 1048 - 24MP, 4K Video",Canon,camera,124947,138830,10,https://picsum.photos/seed/p1048/300/200,4.01,2791,High quality imaging for enthusiasts and vloggers.
+49,p1049,"Apple Tab 1049 - 10.5"" Display, 64GB",Apple,tablet,54296,63878,15,https://picsum.photos/seed/p1049/300/200,4.81,697,Portable tablet ideal for media and light productivity.
+50,p1050,"Samsung Smart TV 1050 - 4K UHD, 65""",Samsung,tv,101756,119713,15,https://picsum.photos/seed/p1050/300/200,3.3,812,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+51,p1051,"Sony Smart TV 1051 - 4K UHD, 55""",Sony,tv,55729,65564,15,https://picsum.photos/seed/p1051/300/200,4.0,267,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+52,p1052,"LG Smart TV 1052 - 4K UHD, 55""",LG,tv,69012,81190,15,https://picsum.photos/seed/p1052/300/200,3.58,1220,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+53,p1053,"Nikon Mirrorless 1053 - 24MP, 4K Video",Nikon,camera,117009,123167,5,https://picsum.photos/seed/p1053/300/200,4.39,2230,High quality imaging for enthusiasts and vloggers.
+54,p1054,Boat Wireless Headphones 1054,Boat,headphones,2291,2695,15,https://picsum.photos/seed/p1054/300/200,4.2,169,Comfortable headphones with active noise cancellation.
+55,p1055,"Canon Mirrorless 1055 - 24MP, 4K Video",Canon,camera,46349,48788,5,https://picsum.photos/seed/p1055/300/200,3.89,2630,High quality imaging for enthusiasts and vloggers.
+56,p1056,"Oppo X1056 - 8GB RAM, 128GB Storage",Oppo,smartphone,93975,98921,5,https://picsum.photos/seed/p1056/300/200,3.63,949,High-performance smartphone with excellent camera and display.
+57,p1057,Netgear AC2546 Router 1057,Netgear,router,11701,11701,0,https://picsum.photos/seed/p1057/300/200,3.55,4499,Fast dual-band WiFi router with parental controls.
+58,p1058,"Lenovo Tab 1058 - 10.5"" Display, 64GB",Lenovo,tablet,11891,11891,0,https://picsum.photos/seed/p1058/300/200,4.14,763,Portable tablet ideal for media and light productivity.
+59,p1059,"Samsung Smart TV 1059 - 4K UHD, 65""",Samsung,tv,54326,60362,10,https://picsum.photos/seed/p1059/300/200,3.61,4515,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+60,p1060,"Xiaomi Tab 1060 - 10.5"" Display, 64GB",Xiaomi,tablet,64246,67627,5,https://picsum.photos/seed/p1060/300/200,4.59,2317,Portable tablet ideal for media and light productivity.
+61,p1061,"Fujifilm Mirrorless 1061 - 24MP, 4K Video",Fujifilm,camera,124991,124991,0,https://picsum.photos/seed/p1061/300/200,4.17,1913,High quality imaging for enthusiasts and vloggers.
+62,p1062,TP-Link AC2725 Router 1062,TP-Link,router,14482,14482,0,https://picsum.photos/seed/p1062/300/200,4.05,4834,Fast dual-band WiFi router with parental controls.
+63,p1063,HP InkJet 1063 - Wireless Printing,HP,printer,31861,33538,5,https://picsum.photos/seed/p1063/300/200,4.26,3256,Reliable home-office printer with low-cost cartridges.
+64,p1064,"Oppo X1064 - 8GB RAM, 128GB Storage",Oppo,smartphone,57808,57808,0,https://picsum.photos/seed/p1064/300/200,4.27,2354,High-performance smartphone with excellent camera and display.
+65,p1065,"Samsung Smart TV 1065 - 4K UHD, 65""",Samsung,tv,93578,98503,5,https://picsum.photos/seed/p1065/300/200,3.93,2000,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+66,p1066,Sennheiser Wireless Headphones 1066,Sennheiser,headphones,9860,10379,5,https://picsum.photos/seed/p1066/300/200,3.98,76,Comfortable headphones with active noise cancellation.
+67,p1067,"Samsung Curved Monitor 1067 - 27""",Samsung,monitor,21951,24390,10,https://picsum.photos/seed/p1067/300/200,4.65,873,High-refresh IPS panel with thin bezels and adaptive-sync.
+68,p1068,"Xiaomi Smart TV 1068 - 4K UHD, 55""",Xiaomi,tv,25751,25751,0,https://picsum.photos/seed/p1068/300/200,4.75,4069,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+69,p1069,"Nikon Mirrorless 1069 - 24MP, 4K Video",Nikon,camera,124035,124035,0,https://picsum.photos/seed/p1069/300/200,3.73,3611,High quality imaging for enthusiasts and vloggers.
+70,p1070,"Acer UltraBook 1070 - 16GB RAM, 512GB SSD",Acer,laptop,70726,74448,5,https://picsum.photos/seed/p1070/300/200,4.1,2232,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+71,p1071,"Lenovo Tab 1071 - 10.5"" Display, 64GB",Lenovo,tablet,60338,67042,10,https://picsum.photos/seed/p1071/300/200,4.84,4565,Portable tablet ideal for media and light productivity.
+72,p1072,HP InkJet 1072 - Wireless Printing,HP,printer,25695,27047,5,https://picsum.photos/seed/p1072/300/200,3.38,1915,Reliable home-office printer with low-cost cartridges.
+73,p1073,"Dell Curved Monitor 1073 - 27""",Dell,monitor,27804,27804,0,https://picsum.photos/seed/p1073/300/200,4.81,2493,High-refresh IPS panel with thin bezels and adaptive-sync.
+74,p1074,"Dell Curved Monitor 1074 - 27""",Dell,monitor,43402,43402,0,https://picsum.photos/seed/p1074/300/200,4.71,811,High-refresh IPS panel with thin bezels and adaptive-sync.
+75,p1075,"Asus Curved Monitor 1075 - 27""",Asus,monitor,13785,14511,5,https://picsum.photos/seed/p1075/300/200,3.3,2260,High-refresh IPS panel with thin bezels and adaptive-sync.
+76,p1076,"Samsung Smart TV 1076 - 4K UHD, 65""",Samsung,tv,176538,176538,0,https://picsum.photos/seed/p1076/300/200,3.32,4540,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+77,p1077,"Sony Smart TV 1077 - 4K UHD, 50""",Sony,tv,176233,176233,0,https://picsum.photos/seed/p1077/300/200,3.42,2934,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+78,p1078,"LG Smart TV 1078 - 4K UHD, 43""",LG,tv,110799,130352,15,https://picsum.photos/seed/p1078/300/200,4.21,3702,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+79,p1079,Bose Wireless Headphones 1079,Bose,headphones,26042,28936,10,https://picsum.photos/seed/p1079/300/200,4.41,3633,Comfortable headphones with active noise cancellation.
+80,p1080,"Samsung X1080 - 8GB RAM, 128GB Storage",Samsung,smartphone,14118,16609,15,https://picsum.photos/seed/p1080/300/200,3.7,4141,High-performance smartphone with excellent camera and display.
+81,p1081,Microsoft Game Console 1081 - 1TB,Microsoft,gaming_console,43185,43185,0,https://picsum.photos/seed/p1081/300/200,3.9,3715,Next-gen console delivering immersive gaming experiences.
+82,p1082,D-Link AC1840 Router 1082,D-Link,router,12752,12752,0,https://picsum.photos/seed/p1082/300/200,3.93,3052,Fast dual-band WiFi router with parental controls.
+83,p1083,"Apple Tab 1083 - 10.5"" Display, 64GB",Apple,tablet,31514,33173,5,https://picsum.photos/seed/p1083/300/200,3.8,4734,Portable tablet ideal for media and light productivity.
+84,p1084,Bose Wireless Headphones 1084,Bose,headphones,8529,8529,0,https://picsum.photos/seed/p1084/300/200,4.57,4595,Comfortable headphones with active noise cancellation.
+85,p1085,Nintendo Game Console 1085 - 1TB,Nintendo,gaming_console,15400,15400,0,https://picsum.photos/seed/p1085/300/200,4.16,3283,Next-gen console delivering immersive gaming experiences.
+86,p1086,"OnePlus X1086 - 8GB RAM, 128GB Storage",OnePlus,smartphone,30767,36197,15,https://picsum.photos/seed/p1086/300/200,3.34,430,High-performance smartphone with excellent camera and display.
+87,p1087,"Samsung Tab 1087 - 10.5"" Display, 64GB",Samsung,tablet,33183,39039,15,https://picsum.photos/seed/p1087/300/200,3.39,3521,Portable tablet ideal for media and light productivity.
+88,p1088,"Xiaomi X1088 - 8GB RAM, 128GB Storage",Xiaomi,smartphone,13254,13952,5,https://picsum.photos/seed/p1088/300/200,3.69,982,High-performance smartphone with excellent camera and display.
+89,p1089,"Asus UltraBook 1089 - 16GB RAM, 512GB SSD",Asus,laptop,73865,73865,0,https://picsum.photos/seed/p1089/300/200,3.94,3766,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+90,p1090,"Oppo X1090 - 8GB RAM, 128GB Storage",Oppo,smartphone,70683,83156,15,https://picsum.photos/seed/p1090/300/200,3.98,2964,High-performance smartphone with excellent camera and display.
+91,p1091,"Realme X1091 - 8GB RAM, 128GB Storage",Realme,smartphone,85184,85184,0,https://picsum.photos/seed/p1091/300/200,3.33,934,High-performance smartphone with excellent camera and display.
+92,p1092,Boat Wireless Headphones 1092,Boat,headphones,10597,10597,0,https://picsum.photos/seed/p1092/300/200,4.22,617,Comfortable headphones with active noise cancellation.
+93,p1093,"Xiaomi Tab 1093 - 10.5"" Display, 64GB",Xiaomi,tablet,67805,67805,0,https://picsum.photos/seed/p1093/300/200,4.0,2480,Portable tablet ideal for media and light productivity.
+94,p1094,"Canon Mirrorless 1094 - 24MP, 4K Video",Canon,camera,25440,29929,15,https://picsum.photos/seed/p1094/300/200,4.21,3149,High quality imaging for enthusiasts and vloggers.
+95,p1095,"Dell Curved Monitor 1095 - 27""",Dell,monitor,37525,37525,0,https://picsum.photos/seed/p1095/300/200,4.06,1413,High-refresh IPS panel with thin bezels and adaptive-sync.
+96,p1096,"Dell UltraBook 1096 - 16GB RAM, 512GB SSD",Dell,laptop,150774,177381,15,https://picsum.photos/seed/p1096/300/200,3.29,2741,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+97,p1097,"Xiaomi X1097 - 8GB RAM, 128GB Storage",Xiaomi,smartphone,45243,45243,0,https://picsum.photos/seed/p1097/300/200,4.76,2541,High-performance smartphone with excellent camera and display.
+98,p1098,TP-Link AC1834 Router 1098,TP-Link,router,11231,12479,10,https://picsum.photos/seed/p1098/300/200,4.06,149,Fast dual-band WiFi router with parental controls.
+99,p1099,Canon InkJet 1099 - Wireless Printing,Canon,printer,10560,12423,15,https://picsum.photos/seed/p1099/300/200,4.51,4313,Reliable home-office printer with low-cost cartridges.
+100,p1100,"Apple UltraBook 1100 - 16GB RAM, 512GB SSD",Apple,laptop,66918,74353,10,https://picsum.photos/seed/p1100/300/200,3.82,1945,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+101,p1101,"Samsung Curved Monitor 1101 - 27""",Samsung,monitor,28895,32106,10,https://picsum.photos/seed/p1101/300/200,4.05,3429,High-refresh IPS panel with thin bezels and adaptive-sync.
+102,p1102,"Samsung Tab 1102 - 10.5"" Display, 64GB",Samsung,tablet,52020,52020,0,https://picsum.photos/seed/p1102/300/200,4.5,2234,Portable tablet ideal for media and light productivity.
+103,p1103,"LG Curved Monitor 1103 - 27""",LG,monitor,11490,11490,0,https://picsum.photos/seed/p1103/300/200,3.86,668,High-refresh IPS panel with thin bezels and adaptive-sync.
+104,p1104,HP InkJet 1104 - Wireless Printing,HP,printer,30931,30931,0,https://picsum.photos/seed/p1104/300/200,4.49,3842,Reliable home-office printer with low-cost cartridges.
+105,p1105,"Dell Curved Monitor 1105 - 27""",Dell,monitor,42588,42588,0,https://picsum.photos/seed/p1105/300/200,3.71,391,High-refresh IPS panel with thin bezels and adaptive-sync.
+106,p1106,"Xiaomi Smart TV 1106 - 4K UHD, 65""",Xiaomi,tv,151027,151027,0,https://picsum.photos/seed/p1106/300/200,3.7,12,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+107,p1107,Microsoft Game Console 1107 - 1TB,Microsoft,gaming_console,48267,48267,0,https://picsum.photos/seed/p1107/300/200,3.86,3851,Next-gen console delivering immersive gaming experiences.
+108,p1108,"Apple UltraBook 1108 - 16GB RAM, 512GB SSD",Apple,laptop,101167,106492,5,https://picsum.photos/seed/p1108/300/200,3.43,2886,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+109,p1109,JBL Wireless Headphones 1109,JBL,headphones,30994,30994,0,https://picsum.photos/seed/p1109/300/200,3.27,1634,Comfortable headphones with active noise cancellation.
+110,p1110,"Lenovo UltraBook 1110 - 16GB RAM, 512GB SSD",Lenovo,laptop,144392,144392,0,https://picsum.photos/seed/p1110/300/200,4.67,2719,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+111,p1111,"Canon Mirrorless 1111 - 24MP, 4K Video",Canon,camera,65966,69438,5,https://picsum.photos/seed/p1111/300/200,4.56,3477,High quality imaging for enthusiasts and vloggers.
+112,p1112,"Realme X1112 - 8GB RAM, 128GB Storage",Realme,smartphone,45091,50101,10,https://picsum.photos/seed/p1112/300/200,3.48,3636,High-performance smartphone with excellent camera and display.
+113,p1113,Canon InkJet 1113 - Wireless Printing,Canon,printer,30935,30935,0,https://picsum.photos/seed/p1113/300/200,4.82,1169,Reliable home-office printer with low-cost cartridges.
+114,p1114,Nintendo Game Console 1114 - 1TB,Nintendo,gaming_console,49190,54655,10,https://picsum.photos/seed/p1114/300/200,4.81,3047,Next-gen console delivering immersive gaming experiences.
+115,p1115,"Dell Curved Monitor 1115 - 27""",Dell,monitor,8728,9698,10,https://picsum.photos/seed/p1115/300/200,4.75,964,High-refresh IPS panel with thin bezels and adaptive-sync.
+116,p1116,"Sony Mirrorless 1116 - 24MP, 4K Video",Sony,camera,39020,41074,5,https://picsum.photos/seed/p1116/300/200,4.34,531,High quality imaging for enthusiasts and vloggers.
+117,p1117,Boat Wireless Headphones 1117,Boat,headphones,15695,15695,0,https://picsum.photos/seed/p1117/300/200,3.6,4047,Comfortable headphones with active noise cancellation.
+118,p1118,"Lenovo UltraBook 1118 - 16GB RAM, 512GB SSD",Lenovo,laptop,66616,74018,10,https://picsum.photos/seed/p1118/300/200,4.6,604,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+119,p1119,"Lenovo Tab 1119 - 10.5"" Display, 64GB",Lenovo,tablet,37319,43905,15,https://picsum.photos/seed/p1119/300/200,4.75,453,Portable tablet ideal for media and light productivity.
+120,p1120,"Apple X1120 - 8GB RAM, 128GB Storage",Apple,smartphone,24845,29229,15,https://picsum.photos/seed/p1120/300/200,3.67,2480,High-performance smartphone with excellent camera and display.
+121,p1121,Nintendo Game Console 1121 - 1TB,Nintendo,gaming_console,51937,51937,0,https://picsum.photos/seed/p1121/300/200,3.34,4724,Next-gen console delivering immersive gaming experiences.
+122,p1122,"Nikon Mirrorless 1122 - 24MP, 4K Video",Nikon,camera,86858,96509,10,https://picsum.photos/seed/p1122/300/200,3.71,597,High quality imaging for enthusiasts and vloggers.
+123,p1123,"Dell UltraBook 1123 - 16GB RAM, 512GB SSD",Dell,laptop,166943,166943,0,https://picsum.photos/seed/p1123/300/200,4.49,4218,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+124,p1124,Sony Wireless Headphones 1124,Sony,headphones,18017,20019,10,https://picsum.photos/seed/p1124/300/200,3.62,1308,Comfortable headphones with active noise cancellation.
+125,p1125,Epson InkJet 1125 - Wireless Printing,Epson,printer,28734,33805,15,https://picsum.photos/seed/p1125/300/200,3.98,1972,Reliable home-office printer with low-cost cartridges.
+126,p1126,"LG Smart TV 1126 - 4K UHD, 43""",LG,tv,191510,191510,0,https://picsum.photos/seed/p1126/300/200,4.7,2996,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+127,p1127,D-Link AC2020 Router 1127,D-Link,router,5294,6228,15,https://picsum.photos/seed/p1127/300/200,3.68,973,Fast dual-band WiFi router with parental controls.
+128,p1128,"Apple Tab 1128 - 10.5"" Display, 64GB",Apple,tablet,33960,33960,0,https://picsum.photos/seed/p1128/300/200,3.43,2728,Portable tablet ideal for media and light productivity.
+129,p1129,"Asus Curved Monitor 1129 - 27""",Asus,monitor,41142,48402,15,https://picsum.photos/seed/p1129/300/200,4.61,4360,High-refresh IPS panel with thin bezels and adaptive-sync.
+130,p1130,"Samsung Curved Monitor 1130 - 27""",Samsung,monitor,26755,28163,5,https://picsum.photos/seed/p1130/300/200,4.84,4738,High-refresh IPS panel with thin bezels and adaptive-sync.
+131,p1131,Sony Game Console 1131 - 1TB,Sony,gaming_console,59612,59612,0,https://picsum.photos/seed/p1131/300/200,4.17,900,Next-gen console delivering immersive gaming experiences.
+132,p1132,"Samsung Smart TV 1132 - 4K UHD, 65""",Samsung,tv,73448,73448,0,https://picsum.photos/seed/p1132/300/200,4.08,4594,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+133,p1133,Epson InkJet 1133 - Wireless Printing,Epson,printer,21346,22469,5,https://picsum.photos/seed/p1133/300/200,4.24,1575,Reliable home-office printer with low-cost cartridges.
+134,p1134,"LG Smart TV 1134 - 4K UHD, 55""",LG,tv,70619,74336,5,https://picsum.photos/seed/p1134/300/200,3.69,4697,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+135,p1135,Sennheiser Wireless Headphones 1135,Sennheiser,headphones,5870,6179,5,https://picsum.photos/seed/p1135/300/200,4.47,1752,Comfortable headphones with active noise cancellation.
+136,p1136,"LG Smart TV 1136 - 4K UHD, 55""",LG,tv,173834,173834,0,https://picsum.photos/seed/p1136/300/200,3.37,2705,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+137,p1137,"Dell Curved Monitor 1137 - 27""",Dell,monitor,57539,57539,0,https://picsum.photos/seed/p1137/300/200,4.74,732,High-refresh IPS panel with thin bezels and adaptive-sync.
+138,p1138,Sony Game Console 1138 - 1TB,Sony,gaming_console,27210,27210,0,https://picsum.photos/seed/p1138/300/200,3.22,4652,Next-gen console delivering immersive gaming experiences.
+139,p1139,Sony Game Console 1139 - 1TB,Sony,gaming_console,32880,32880,0,https://picsum.photos/seed/p1139/300/200,3.76,3759,Next-gen console delivering immersive gaming experiences.
+140,p1140,"Nikon Mirrorless 1140 - 24MP, 4K Video",Nikon,camera,107725,113395,5,https://picsum.photos/seed/p1140/300/200,3.35,781,High quality imaging for enthusiasts and vloggers.
+141,p1141,"Samsung Tab 1141 - 10.5"" Display, 64GB",Samsung,tablet,23026,27090,15,https://picsum.photos/seed/p1141/300/200,3.22,2945,Portable tablet ideal for media and light productivity.
+142,p1142,"Samsung Smart TV 1142 - 4K UHD, 43""",Samsung,tv,189858,199850,5,https://picsum.photos/seed/p1142/300/200,3.82,1809,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+143,p1143,"Sony Smart TV 1143 - 4K UHD, 65""",Sony,tv,100252,117943,15,https://picsum.photos/seed/p1143/300/200,4.68,670,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+144,p1144,Sennheiser Wireless Headphones 1144,Sennheiser,headphones,9197,10820,15,https://picsum.photos/seed/p1144/300/200,3.95,1682,Comfortable headphones with active noise cancellation.
+145,p1145,Microsoft Game Console 1145 - 1TB,Microsoft,gaming_console,44163,51956,15,https://picsum.photos/seed/p1145/300/200,3.99,2524,Next-gen console delivering immersive gaming experiences.
+146,p1146,"Asus UltraBook 1146 - 16GB RAM, 512GB SSD",Asus,laptop,40790,40790,0,https://picsum.photos/seed/p1146/300/200,4.88,3867,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+147,p1147,"Lenovo UltraBook 1147 - 16GB RAM, 512GB SSD",Lenovo,laptop,64176,75501,15,https://picsum.photos/seed/p1147/300/200,3.43,2848,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+148,p1148,"OnePlus X1148 - 8GB RAM, 128GB Storage",OnePlus,smartphone,103401,103401,0,https://picsum.photos/seed/p1148/300/200,3.62,2835,High-performance smartphone with excellent camera and display.
+149,p1149,"Lenovo Tab 1149 - 10.5"" Display, 64GB",Lenovo,tablet,63049,63049,0,https://picsum.photos/seed/p1149/300/200,4.21,3657,Portable tablet ideal for media and light productivity.
+150,p1150,Nintendo Game Console 1150 - 1TB,Nintendo,gaming_console,22974,24183,5,https://picsum.photos/seed/p1150/300/200,3.6,4719,Next-gen console delivering immersive gaming experiences.
+151,p1151,Epson InkJet 1151 - Wireless Printing,Epson,printer,18551,18551,0,https://picsum.photos/seed/p1151/300/200,4.26,3499,Reliable home-office printer with low-cost cartridges.
+152,p1152,Sennheiser Wireless Headphones 1152,Sennheiser,headphones,26870,28284,5,https://picsum.photos/seed/p1152/300/200,3.84,4406,Comfortable headphones with active noise cancellation.
+153,p1153,"LG Curved Monitor 1153 - 27""",LG,monitor,42296,44522,5,https://picsum.photos/seed/p1153/300/200,3.55,647,High-refresh IPS panel with thin bezels and adaptive-sync.
+154,p1154,"Samsung Curved Monitor 1154 - 27""",Samsung,monitor,9002,10591,15,https://picsum.photos/seed/p1154/300/200,3.57,1711,High-refresh IPS panel with thin bezels and adaptive-sync.
+155,p1155,Canon InkJet 1155 - Wireless Printing,Canon,printer,11007,12949,15,https://picsum.photos/seed/p1155/300/200,3.75,2318,Reliable home-office printer with low-cost cartridges.
+156,p1156,D-Link AC1831 Router 1156,D-Link,router,13920,14653,5,https://picsum.photos/seed/p1156/300/200,3.73,374,Fast dual-band WiFi router with parental controls.
+157,p1157,Sony Game Console 1157 - 1TB,Sony,gaming_console,32956,36618,10,https://picsum.photos/seed/p1157/300/200,4.17,2013,Next-gen console delivering immersive gaming experiences.
+158,p1158,"Samsung Curved Monitor 1158 - 27""",Samsung,monitor,26418,31080,15,https://picsum.photos/seed/p1158/300/200,4.03,4441,High-refresh IPS panel with thin bezels and adaptive-sync.
+159,p1159,"Acer UltraBook 1159 - 16GB RAM, 512GB SSD",Acer,laptop,59485,59485,0,https://picsum.photos/seed/p1159/300/200,3.22,4142,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+160,p1160,"Samsung Curved Monitor 1160 - 27""",Samsung,monitor,33209,34957,5,https://picsum.photos/seed/p1160/300/200,4.11,2348,High-refresh IPS panel with thin bezels and adaptive-sync.
+161,p1161,"Acer UltraBook 1161 - 16GB RAM, 512GB SSD",Acer,laptop,78294,86993,10,https://picsum.photos/seed/p1161/300/200,3.33,3326,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+162,p1162,"LG Curved Monitor 1162 - 27""",LG,monitor,31104,34560,10,https://picsum.photos/seed/p1162/300/200,3.3,77,High-refresh IPS panel with thin bezels and adaptive-sync.
+163,p1163,"Apple Tab 1163 - 10.5"" Display, 64GB",Apple,tablet,52193,61404,15,https://picsum.photos/seed/p1163/300/200,4.01,381,Portable tablet ideal for media and light productivity.
+164,p1164,"Vivo X1164 - 8GB RAM, 128GB Storage",Vivo,smartphone,31508,31508,0,https://picsum.photos/seed/p1164/300/200,4.16,4642,High-performance smartphone with excellent camera and display.
+165,p1165,Netgear AC1986 Router 1165,Netgear,router,7166,7166,0,https://picsum.photos/seed/p1165/300/200,3.78,4879,Fast dual-band WiFi router with parental controls.
+166,p1166,D-Link AC2498 Router 1166,D-Link,router,8976,10560,15,https://picsum.photos/seed/p1166/300/200,4.32,702,Fast dual-band WiFi router with parental controls.
+167,p1167,Microsoft Game Console 1167 - 1TB,Microsoft,gaming_console,38507,40534,5,https://picsum.photos/seed/p1167/300/200,3.38,42,Next-gen console delivering immersive gaming experiences.
+168,p1168,"Fujifilm Mirrorless 1168 - 24MP, 4K Video",Fujifilm,camera,49561,49561,0,https://picsum.photos/seed/p1168/300/200,3.35,4540,High quality imaging for enthusiasts and vloggers.
+169,p1169,"Apple X1169 - 8GB RAM, 128GB Storage",Apple,smartphone,9617,9617,0,https://picsum.photos/seed/p1169/300/200,4.37,1388,High-performance smartphone with excellent camera and display.
+170,p1170,"Lenovo Tab 1170 - 10.5"" Display, 64GB",Lenovo,tablet,13439,14146,5,https://picsum.photos/seed/p1170/300/200,4.81,4061,Portable tablet ideal for media and light productivity.
+171,p1171,Nintendo Game Console 1171 - 1TB,Nintendo,gaming_console,34766,36596,5,https://picsum.photos/seed/p1171/300/200,3.93,4869,Next-gen console delivering immersive gaming experiences.
+172,p1172,"Lenovo Tab 1172 - 10.5"" Display, 64GB",Lenovo,tablet,29060,30590,5,https://picsum.photos/seed/p1172/300/200,3.84,3218,Portable tablet ideal for media and light productivity.
+173,p1173,HP InkJet 1173 - Wireless Printing,HP,printer,28829,28829,0,https://picsum.photos/seed/p1173/300/200,4.59,3351,Reliable home-office printer with low-cost cartridges.
+174,p1174,"LG Curved Monitor 1174 - 27""",LG,monitor,31816,37430,15,https://picsum.photos/seed/p1174/300/200,4.06,3426,High-refresh IPS panel with thin bezels and adaptive-sync.
+175,p1175,Sony Wireless Headphones 1175,Sony,headphones,3513,3903,10,https://picsum.photos/seed/p1175/300/200,4.84,2716,Comfortable headphones with active noise cancellation.
+176,p1176,TP-Link AC1401 Router 1176,TP-Link,router,11489,12766,10,https://picsum.photos/seed/p1176/300/200,3.99,4821,Fast dual-band WiFi router with parental controls.
+177,p1177,Bose Wireless Headphones 1177,Bose,headphones,9770,10284,5,https://picsum.photos/seed/p1177/300/200,3.97,1694,Comfortable headphones with active noise cancellation.
+178,p1178,Sennheiser Wireless Headphones 1178,Sennheiser,headphones,8542,8542,0,https://picsum.photos/seed/p1178/300/200,4.35,1346,Comfortable headphones with active noise cancellation.
+179,p1179,"Sony Smart TV 1179 - 4K UHD, 50""",Sony,tv,107253,126180,15,https://picsum.photos/seed/p1179/300/200,4.7,3682,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+180,p1180,Microsoft Game Console 1180 - 1TB,Microsoft,gaming_console,38972,38972,0,https://picsum.photos/seed/p1180/300/200,3.98,2149,Next-gen console delivering immersive gaming experiences.
+181,p1181,"Samsung Curved Monitor 1181 - 27""",Samsung,monitor,46036,48459,5,https://picsum.photos/seed/p1181/300/200,4.76,4834,High-refresh IPS panel with thin bezels and adaptive-sync.
+182,p1182,"Vivo X1182 - 8GB RAM, 128GB Storage",Vivo,smartphone,33380,39270,15,https://picsum.photos/seed/p1182/300/200,3.43,3143,High-performance smartphone with excellent camera and display.
+183,p1183,TP-Link AC2501 Router 1183,TP-Link,router,4337,4565,5,https://picsum.photos/seed/p1183/300/200,4.82,3969,Fast dual-band WiFi router with parental controls.
+184,p1184,"Samsung Tab 1184 - 10.5"" Display, 64GB",Samsung,tablet,42438,42438,0,https://picsum.photos/seed/p1184/300/200,4.16,1806,Portable tablet ideal for media and light productivity.
+185,p1185,"Canon Mirrorless 1185 - 24MP, 4K Video",Canon,camera,99140,99140,0,https://picsum.photos/seed/p1185/300/200,4.17,2194,High quality imaging for enthusiasts and vloggers.
+186,p1186,JBL Wireless Headphones 1186,JBL,headphones,15500,17222,10,https://picsum.photos/seed/p1186/300/200,3.65,712,Comfortable headphones with active noise cancellation.
+187,p1187,"Dell Curved Monitor 1187 - 27""",Dell,monitor,14555,17124,15,https://picsum.photos/seed/p1187/300/200,3.8,2302,High-refresh IPS panel with thin bezels and adaptive-sync.
+188,p1188,Nintendo Game Console 1188 - 1TB,Nintendo,gaming_console,23885,23885,0,https://picsum.photos/seed/p1188/300/200,4.89,1039,Next-gen console delivering immersive gaming experiences.
+189,p1189,"Samsung Tab 1189 - 10.5"" Display, 64GB",Samsung,tablet,23601,26223,10,https://picsum.photos/seed/p1189/300/200,3.97,762,Portable tablet ideal for media and light productivity.
+190,p1190,Netgear AC2622 Router 1190,Netgear,router,13474,14183,5,https://picsum.photos/seed/p1190/300/200,4.65,4378,Fast dual-band WiFi router with parental controls.
+191,p1191,TP-Link AC2889 Router 1191,TP-Link,router,6681,7033,5,https://picsum.photos/seed/p1191/300/200,4.72,396,Fast dual-band WiFi router with parental controls.
+192,p1192,"HP UltraBook 1192 - 16GB RAM, 512GB SSD",HP,laptop,72568,72568,0,https://picsum.photos/seed/p1192/300/200,4.69,2244,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+193,p1193,"Vivo X1193 - 8GB RAM, 128GB Storage",Vivo,smartphone,56738,56738,0,https://picsum.photos/seed/p1193/300/200,4.4,8,High-performance smartphone with excellent camera and display.
+194,p1194,"Xiaomi Smart TV 1194 - 4K UHD, 43""",Xiaomi,tv,136671,136671,0,https://picsum.photos/seed/p1194/300/200,4.01,1875,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+195,p1195,TP-Link AC1411 Router 1195,TP-Link,router,14172,14172,0,https://picsum.photos/seed/p1195/300/200,3.32,4614,Fast dual-band WiFi router with parental controls.
+196,p1196,"Acer UltraBook 1196 - 16GB RAM, 512GB SSD",Acer,laptop,132061,132061,0,https://picsum.photos/seed/p1196/300/200,3.44,1008,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+197,p1197,Nintendo Game Console 1197 - 1TB,Nintendo,gaming_console,43577,51267,15,https://picsum.photos/seed/p1197/300/200,4.43,2334,Next-gen console delivering immersive gaming experiences.
+198,p1198,"MSI UltraBook 1198 - 16GB RAM, 512GB SSD",MSI,laptop,158152,175724,10,https://picsum.photos/seed/p1198/300/200,3.39,4092,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+199,p1199,Sony Game Console 1199 - 1TB,Sony,gaming_console,45868,45868,0,https://picsum.photos/seed/p1199/300/200,4.2,112,Next-gen console delivering immersive gaming experiences.
+200,p1200,"Nikon Mirrorless 1200 - 24MP, 4K Video",Nikon,camera,56295,62550,10,https://picsum.photos/seed/p1200/300/200,3.34,4395,High quality imaging for enthusiasts and vloggers.
+201,p1201,Boat Wireless Headphones 1201,Boat,headphones,22413,22413,0,https://picsum.photos/seed/p1201/300/200,3.73,3583,Comfortable headphones with active noise cancellation.
+202,p1202,"Samsung Smart TV 1202 - 4K UHD, 50""",Samsung,tv,180509,180509,0,https://picsum.photos/seed/p1202/300/200,4.39,1342,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+203,p1203,"Samsung Curved Monitor 1203 - 27""",Samsung,monitor,55628,58556,5,https://picsum.photos/seed/p1203/300/200,4.09,2154,High-refresh IPS panel with thin bezels and adaptive-sync.
+204,p1204,Nintendo Game Console 1204 - 1TB,Nintendo,gaming_console,25309,25309,0,https://picsum.photos/seed/p1204/300/200,4.72,944,Next-gen console delivering immersive gaming experiences.
+205,p1205,"Samsung Smart TV 1205 - 4K UHD, 43""",Samsung,tv,129303,143670,10,https://picsum.photos/seed/p1205/300/200,3.58,2033,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+206,p1206,Netgear AC1755 Router 1206,Netgear,router,2126,2362,10,https://picsum.photos/seed/p1206/300/200,3.32,3810,Fast dual-band WiFi router with parental controls.
+207,p1207,"Sony Mirrorless 1207 - 24MP, 4K Video",Sony,camera,53736,63219,15,https://picsum.photos/seed/p1207/300/200,4.85,1600,High quality imaging for enthusiasts and vloggers.
+208,p1208,Bose Wireless Headphones 1208,Bose,headphones,20660,22955,10,https://picsum.photos/seed/p1208/300/200,4.64,2519,Comfortable headphones with active noise cancellation.
+209,p1209,"OnePlus X1209 - 8GB RAM, 128GB Storage",OnePlus,smartphone,15850,15850,0,https://picsum.photos/seed/p1209/300/200,4.19,4140,High-performance smartphone with excellent camera and display.
+210,p1210,"Xiaomi Tab 1210 - 10.5"" Display, 64GB",Xiaomi,tablet,48072,53413,10,https://picsum.photos/seed/p1210/300/200,3.66,611,Portable tablet ideal for media and light productivity.
+211,p1211,"Sony Smart TV 1211 - 4K UHD, 43""",Sony,tv,135064,142173,5,https://picsum.photos/seed/p1211/300/200,3.99,982,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+212,p1212,"OnePlus X1212 - 8GB RAM, 128GB Storage",OnePlus,smartphone,36183,36183,0,https://picsum.photos/seed/p1212/300/200,4.35,2131,High-performance smartphone with excellent camera and display.
+213,p1213,"Apple Tab 1213 - 10.5"" Display, 64GB",Apple,tablet,59026,59026,0,https://picsum.photos/seed/p1213/300/200,4.61,1820,Portable tablet ideal for media and light productivity.
+214,p1214,"Samsung Tab 1214 - 10.5"" Display, 64GB",Samsung,tablet,43570,48411,10,https://picsum.photos/seed/p1214/300/200,4.58,753,Portable tablet ideal for media and light productivity.
+215,p1215,HP InkJet 1215 - Wireless Printing,HP,printer,28732,31924,10,https://picsum.photos/seed/p1215/300/200,3.49,1758,Reliable home-office printer with low-cost cartridges.
+216,p1216,"Lenovo Tab 1216 - 10.5"" Display, 64GB",Lenovo,tablet,45221,50246,10,https://picsum.photos/seed/p1216/300/200,3.3,2291,Portable tablet ideal for media and light productivity.
+217,p1217,TP-Link AC1608 Router 1217,TP-Link,router,6989,7766,10,https://picsum.photos/seed/p1217/300/200,3.78,4633,Fast dual-band WiFi router with parental controls.
+218,p1218,JBL Wireless Headphones 1218,JBL,headphones,16499,19411,15,https://picsum.photos/seed/p1218/300/200,3.81,4784,Comfortable headphones with active noise cancellation.
+219,p1219,"Sony Smart TV 1219 - 4K UHD, 43""",Sony,tv,34656,34656,0,https://picsum.photos/seed/p1219/300/200,4.21,2939,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+220,p1220,Sony Game Console 1220 - 1TB,Sony,gaming_console,20915,20915,0,https://picsum.photos/seed/p1220/300/200,4.22,163,Next-gen console delivering immersive gaming experiences.
+221,p1221,Sennheiser Wireless Headphones 1221,Sennheiser,headphones,4168,4903,15,https://picsum.photos/seed/p1221/300/200,4.4,1160,Comfortable headphones with active noise cancellation.
+222,p1222,"Oppo X1222 - 8GB RAM, 128GB Storage",Oppo,smartphone,56967,56967,0,https://picsum.photos/seed/p1222/300/200,4.44,3578,High-performance smartphone with excellent camera and display.
+223,p1223,"Samsung Curved Monitor 1223 - 27""",Samsung,monitor,28107,28107,0,https://picsum.photos/seed/p1223/300/200,4.81,4692,High-refresh IPS panel with thin bezels and adaptive-sync.
+224,p1224,Netgear AC1572 Router 1224,Netgear,router,3205,3205,0,https://picsum.photos/seed/p1224/300/200,3.6,2617,Fast dual-band WiFi router with parental controls.
+225,p1225,"Apple Tab 1225 - 10.5"" Display, 64GB",Apple,tablet,21367,23741,10,https://picsum.photos/seed/p1225/300/200,3.94,3437,Portable tablet ideal for media and light productivity.
+226,p1226,"Xiaomi Tab 1226 - 10.5"" Display, 64GB",Xiaomi,tablet,45784,45784,0,https://picsum.photos/seed/p1226/300/200,4.56,273,Portable tablet ideal for media and light productivity.
+227,p1227,"Canon Mirrorless 1227 - 24MP, 4K Video",Canon,camera,134313,141382,5,https://picsum.photos/seed/p1227/300/200,4.21,3954,High quality imaging for enthusiasts and vloggers.
+228,p1228,"Asus UltraBook 1228 - 16GB RAM, 512GB SSD",Asus,laptop,146132,153823,5,https://picsum.photos/seed/p1228/300/200,3.6,406,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+229,p1229,Netgear AC1514 Router 1229,Netgear,router,14998,14998,0,https://picsum.photos/seed/p1229/300/200,3.55,2390,Fast dual-band WiFi router with parental controls.
+230,p1230,"Realme X1230 - 8GB RAM, 128GB Storage",Realme,smartphone,62754,69727,10,https://picsum.photos/seed/p1230/300/200,3.83,3651,High-performance smartphone with excellent camera and display.
+231,p1231,"Lenovo UltraBook 1231 - 16GB RAM, 512GB SSD",Lenovo,laptop,103596,109048,5,https://picsum.photos/seed/p1231/300/200,4.57,3391,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+232,p1232,Sony Game Console 1232 - 1TB,Sony,gaming_console,46212,46212,0,https://picsum.photos/seed/p1232/300/200,3.87,284,Next-gen console delivering immersive gaming experiences.
+233,p1233,Boat Wireless Headphones 1233,Boat,headphones,25871,28746,10,https://picsum.photos/seed/p1233/300/200,3.54,1211,Comfortable headphones with active noise cancellation.
+234,p1234,Microsoft Game Console 1234 - 1TB,Microsoft,gaming_console,13438,15810,15,https://picsum.photos/seed/p1234/300/200,4.2,3437,Next-gen console delivering immersive gaming experiences.
+235,p1235,"Realme X1235 - 8GB RAM, 128GB Storage",Realme,smartphone,19660,21845,10,https://picsum.photos/seed/p1235/300/200,4.17,3875,High-performance smartphone with excellent camera and display.
+236,p1236,"Dell UltraBook 1236 - 16GB RAM, 512GB SSD",Dell,laptop,69939,77710,10,https://picsum.photos/seed/p1236/300/200,4.77,3051,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+237,p1237,"Lenovo UltraBook 1237 - 16GB RAM, 512GB SSD",Lenovo,laptop,107816,113491,5,https://picsum.photos/seed/p1237/300/200,4.44,4955,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+238,p1238,"OnePlus X1238 - 8GB RAM, 128GB Storage",OnePlus,smartphone,99861,105117,5,https://picsum.photos/seed/p1238/300/200,4.41,3304,High-performance smartphone with excellent camera and display.
+239,p1239,"Apple Tab 1239 - 10.5"" Display, 64GB",Apple,tablet,12398,13776,10,https://picsum.photos/seed/p1239/300/200,4.06,1014,Portable tablet ideal for media and light productivity.
+240,p1240,"Dell UltraBook 1240 - 16GB RAM, 512GB SSD",Dell,laptop,156943,156943,0,https://picsum.photos/seed/p1240/300/200,3.68,3166,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+241,p1241,"Dell UltraBook 1241 - 16GB RAM, 512GB SSD",Dell,laptop,98025,98025,0,https://picsum.photos/seed/p1241/300/200,4.01,1083,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+242,p1242,"Apple Tab 1242 - 10.5"" Display, 64GB",Apple,tablet,50840,56489,10,https://picsum.photos/seed/p1242/300/200,3.71,4265,Portable tablet ideal for media and light productivity.
+243,p1243,Microsoft Game Console 1243 - 1TB,Microsoft,gaming_console,34560,34560,0,https://picsum.photos/seed/p1243/300/200,4.02,2754,Next-gen console delivering immersive gaming experiences.
+244,p1244,"Sony Mirrorless 1244 - 24MP, 4K Video",Sony,camera,125332,125332,0,https://picsum.photos/seed/p1244/300/200,4.43,4074,High quality imaging for enthusiasts and vloggers.
+245,p1245,"Sony Mirrorless 1245 - 24MP, 4K Video",Sony,camera,100137,117808,15,https://picsum.photos/seed/p1245/300/200,4.29,3897,High quality imaging for enthusiasts and vloggers.
+246,p1246,Epson InkJet 1246 - Wireless Printing,Epson,printer,12432,14626,15,https://picsum.photos/seed/p1246/300/200,4.5,1499,Reliable home-office printer with low-cost cartridges.
+247,p1247,Epson InkJet 1247 - Wireless Printing,Epson,printer,27742,30824,10,https://picsum.photos/seed/p1247/300/200,4.65,3854,Reliable home-office printer with low-cost cartridges.
+248,p1248,"MSI UltraBook 1248 - 16GB RAM, 512GB SSD",MSI,laptop,90998,90998,0,https://picsum.photos/seed/p1248/300/200,3.78,4664,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+249,p1249,"LG Curved Monitor 1249 - 27""",LG,monitor,27112,28539,5,https://picsum.photos/seed/p1249/300/200,3.56,1381,High-refresh IPS panel with thin bezels and adaptive-sync.
+250,p1250,Sony Game Console 1250 - 1TB,Sony,gaming_console,40121,40121,0,https://picsum.photos/seed/p1250/300/200,4.11,3056,Next-gen console delivering immersive gaming experiences.
+251,p1251,"Lenovo UltraBook 1251 - 16GB RAM, 512GB SSD",Lenovo,laptop,34919,41081,15,https://picsum.photos/seed/p1251/300/200,4.2,1368,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+252,p1252,"Oppo X1252 - 8GB RAM, 128GB Storage",Oppo,smartphone,64371,67759,5,https://picsum.photos/seed/p1252/300/200,4.48,1350,High-performance smartphone with excellent camera and display.
+253,p1253,TP-Link AC1659 Router 1253,TP-Link,router,3841,4268,10,https://picsum.photos/seed/p1253/300/200,4.69,2095,Fast dual-band WiFi router with parental controls.
+254,p1254,Boat Wireless Headphones 1254,Boat,headphones,7729,8588,10,https://picsum.photos/seed/p1254/300/200,3.41,2070,Comfortable headphones with active noise cancellation.
+255,p1255,"LG Curved Monitor 1255 - 27""",LG,monitor,21839,25693,15,https://picsum.photos/seed/p1255/300/200,4.42,964,High-refresh IPS panel with thin bezels and adaptive-sync.
+256,p1256,"Canon Mirrorless 1256 - 24MP, 4K Video",Canon,camera,133986,133986,0,https://picsum.photos/seed/p1256/300/200,4.13,1701,High quality imaging for enthusiasts and vloggers.
+257,p1257,"Samsung Curved Monitor 1257 - 27""",Samsung,monitor,40381,40381,0,https://picsum.photos/seed/p1257/300/200,4.43,829,High-refresh IPS panel with thin bezels and adaptive-sync.
+258,p1258,"Nikon Mirrorless 1258 - 24MP, 4K Video",Nikon,camera,118426,131584,10,https://picsum.photos/seed/p1258/300/200,4.46,778,High quality imaging for enthusiasts and vloggers.
+259,p1259,"HP UltraBook 1259 - 16GB RAM, 512GB SSD",HP,laptop,84698,84698,0,https://picsum.photos/seed/p1259/300/200,3.88,3739,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+260,p1260,"Fujifilm Mirrorless 1260 - 24MP, 4K Video",Fujifilm,camera,35836,39818,10,https://picsum.photos/seed/p1260/300/200,4.75,3954,High quality imaging for enthusiasts and vloggers.
+261,p1261,Nintendo Game Console 1261 - 1TB,Nintendo,gaming_console,46659,46659,0,https://picsum.photos/seed/p1261/300/200,4.71,3610,Next-gen console delivering immersive gaming experiences.
+262,p1262,"HP UltraBook 1262 - 16GB RAM, 512GB SSD",HP,laptop,104019,122375,15,https://picsum.photos/seed/p1262/300/200,4.09,780,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+263,p1263,Netgear AC2186 Router 1263,Netgear,router,10647,10647,0,https://picsum.photos/seed/p1263/300/200,4.06,3844,Fast dual-band WiFi router with parental controls.
+264,p1264,"LG Curved Monitor 1264 - 27""",LG,monitor,22595,22595,0,https://picsum.photos/seed/p1264/300/200,3.98,4694,High-refresh IPS panel with thin bezels and adaptive-sync.
+265,p1265,"Dell Curved Monitor 1265 - 27""",Dell,monitor,35023,35023,0,https://picsum.photos/seed/p1265/300/200,4.6,4949,High-refresh IPS panel with thin bezels and adaptive-sync.
+266,p1266,Nintendo Game Console 1266 - 1TB,Nintendo,gaming_console,28129,29609,5,https://picsum.photos/seed/p1266/300/200,4.15,4914,Next-gen console delivering immersive gaming experiences.
+267,p1267,"Samsung Curved Monitor 1267 - 27""",Samsung,monitor,47051,49527,5,https://picsum.photos/seed/p1267/300/200,4.39,375,High-refresh IPS panel with thin bezels and adaptive-sync.
+268,p1268,"Xiaomi Tab 1268 - 10.5"" Display, 64GB",Xiaomi,tablet,25332,26665,5,https://picsum.photos/seed/p1268/300/200,3.38,3395,Portable tablet ideal for media and light productivity.
+269,p1269,"Apple UltraBook 1269 - 16GB RAM, 512GB SSD",Apple,laptop,134382,158097,15,https://picsum.photos/seed/p1269/300/200,4.02,4164,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+270,p1270,"Samsung Tab 1270 - 10.5"" Display, 64GB",Samsung,tablet,49357,49357,0,https://picsum.photos/seed/p1270/300/200,3.67,2808,Portable tablet ideal for media and light productivity.
+271,p1271,"Fujifilm Mirrorless 1271 - 24MP, 4K Video",Fujifilm,camera,64179,64179,0,https://picsum.photos/seed/p1271/300/200,3.54,2380,High quality imaging for enthusiasts and vloggers.
+272,p1272,Epson InkJet 1272 - Wireless Printing,Epson,printer,24035,28276,15,https://picsum.photos/seed/p1272/300/200,4.17,3419,Reliable home-office printer with low-cost cartridges.
+273,p1273,JBL Wireless Headphones 1273,JBL,headphones,4709,4709,0,https://picsum.photos/seed/p1273/300/200,4.87,2052,Comfortable headphones with active noise cancellation.
+274,p1274,"Apple Tab 1274 - 10.5"" Display, 64GB",Apple,tablet,57013,63348,10,https://picsum.photos/seed/p1274/300/200,3.6,2356,Portable tablet ideal for media and light productivity.
+275,p1275,"Asus UltraBook 1275 - 16GB RAM, 512GB SSD",Asus,laptop,115862,121960,5,https://picsum.photos/seed/p1275/300/200,4.48,4477,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+276,p1276,Sony Game Console 1276 - 1TB,Sony,gaming_console,35748,39720,10,https://picsum.photos/seed/p1276/300/200,3.67,2164,Next-gen console delivering immersive gaming experiences.
+277,p1277,"Samsung Tab 1277 - 10.5"" Display, 64GB",Samsung,tablet,53684,56510,5,https://picsum.photos/seed/p1277/300/200,4.03,4691,Portable tablet ideal for media and light productivity.
+278,p1278,JBL Wireless Headphones 1278,JBL,headphones,9727,11444,15,https://picsum.photos/seed/p1278/300/200,3.89,2862,Comfortable headphones with active noise cancellation.
+279,p1279,"Sony Smart TV 1279 - 4K UHD, 55""",Sony,tv,172974,182078,5,https://picsum.photos/seed/p1279/300/200,3.96,1997,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+280,p1280,"Apple UltraBook 1280 - 16GB RAM, 512GB SSD",Apple,laptop,62748,69720,10,https://picsum.photos/seed/p1280/300/200,4.03,2428,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+281,p1281,"LG Smart TV 1281 - 4K UHD, 43""",LG,tv,161026,161026,0,https://picsum.photos/seed/p1281/300/200,4.67,3475,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+282,p1282,"OnePlus X1282 - 8GB RAM, 128GB Storage",OnePlus,smartphone,105896,105896,0,https://picsum.photos/seed/p1282/300/200,3.5,2063,High-performance smartphone with excellent camera and display.
+283,p1283,Sony Wireless Headphones 1283,Sony,headphones,2106,2106,0,https://picsum.photos/seed/p1283/300/200,4.11,518,Comfortable headphones with active noise cancellation.
+284,p1284,Sony Game Console 1284 - 1TB,Sony,gaming_console,39996,39996,0,https://picsum.photos/seed/p1284/300/200,4.01,4370,Next-gen console delivering immersive gaming experiences.
+285,p1285,"Sony Smart TV 1285 - 4K UHD, 65""",Sony,tv,83413,98133,15,https://picsum.photos/seed/p1285/300/200,3.44,342,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+286,p1286,"Acer UltraBook 1286 - 16GB RAM, 512GB SSD",Acer,laptop,62315,62315,0,https://picsum.photos/seed/p1286/300/200,4.25,2070,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+287,p1287,"Samsung Smart TV 1287 - 4K UHD, 50""",Samsung,tv,155684,163878,5,https://picsum.photos/seed/p1287/300/200,3.37,4756,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+288,p1288,"Samsung Curved Monitor 1288 - 27""",Samsung,monitor,24502,28826,15,https://picsum.photos/seed/p1288/300/200,4.32,4785,High-refresh IPS panel with thin bezels and adaptive-sync.
+289,p1289,"Lenovo Tab 1289 - 10.5"" Display, 64GB",Lenovo,tablet,10316,10316,0,https://picsum.photos/seed/p1289/300/200,4.36,2716,Portable tablet ideal for media and light productivity.
+290,p1290,"Asus Curved Monitor 1290 - 27""",Asus,monitor,13372,13372,0,https://picsum.photos/seed/p1290/300/200,3.65,626,High-refresh IPS panel with thin bezels and adaptive-sync.
+291,p1291,"Samsung X1291 - 8GB RAM, 128GB Storage",Samsung,smartphone,103379,108820,5,https://picsum.photos/seed/p1291/300/200,3.87,4830,High-performance smartphone with excellent camera and display.
+292,p1292,"Nikon Mirrorless 1292 - 24MP, 4K Video",Nikon,camera,81738,90820,10,https://picsum.photos/seed/p1292/300/200,3.47,4639,High quality imaging for enthusiasts and vloggers.
+293,p1293,Nintendo Game Console 1293 - 1TB,Nintendo,gaming_console,39211,39211,0,https://picsum.photos/seed/p1293/300/200,4.34,4242,Next-gen console delivering immersive gaming experiences.
+294,p1294,Canon InkJet 1294 - Wireless Printing,Canon,printer,7125,8382,15,https://picsum.photos/seed/p1294/300/200,4.17,3085,Reliable home-office printer with low-cost cartridges.
+295,p1295,D-Link AC2258 Router 1295,D-Link,router,7281,7281,0,https://picsum.photos/seed/p1295/300/200,4.05,1138,Fast dual-band WiFi router with parental controls.
+296,p1296,"LG Curved Monitor 1296 - 27""",LG,monitor,28564,31738,10,https://picsum.photos/seed/p1296/300/200,4.58,928,High-refresh IPS panel with thin bezels and adaptive-sync.
+297,p1297,"Asus Curved Monitor 1297 - 27""",Asus,monitor,13924,16381,15,https://picsum.photos/seed/p1297/300/200,3.27,4688,High-refresh IPS panel with thin bezels and adaptive-sync.
+298,p1298,"Apple Tab 1298 - 10.5"" Display, 64GB",Apple,tablet,32914,36571,10,https://picsum.photos/seed/p1298/300/200,4.23,3861,Portable tablet ideal for media and light productivity.
+299,p1299,"LG Curved Monitor 1299 - 27""",LG,monitor,46400,48842,5,https://picsum.photos/seed/p1299/300/200,4.77,4886,High-refresh IPS panel with thin bezels and adaptive-sync.
+300,p1300,Sony Game Console 1300 - 1TB,Sony,gaming_console,24801,24801,0,https://picsum.photos/seed/p1300/300/200,3.5,4913,Next-gen console delivering immersive gaming experiences.
+301,p1301,"MSI UltraBook 1301 - 16GB RAM, 512GB SSD",MSI,laptop,158095,166416,5,https://picsum.photos/seed/p1301/300/200,4.69,4340,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+302,p1302,TP-Link AC2817 Router 1302,TP-Link,router,3508,3693,5,https://picsum.photos/seed/p1302/300/200,4.22,4454,Fast dual-band WiFi router with parental controls.
+303,p1303,D-Link AC1211 Router 1303,D-Link,router,7262,7644,5,https://picsum.photos/seed/p1303/300/200,3.38,3490,Fast dual-band WiFi router with parental controls.
+304,p1304,Microsoft Game Console 1304 - 1TB,Microsoft,gaming_console,35769,42081,15,https://picsum.photos/seed/p1304/300/200,4.02,3032,Next-gen console delivering immersive gaming experiences.
+305,p1305,Boat Wireless Headphones 1305,Boat,headphones,16058,16058,0,https://picsum.photos/seed/p1305/300/200,3.37,4164,Comfortable headphones with active noise cancellation.
+306,p1306,D-Link AC1529 Router 1306,D-Link,router,8766,9227,5,https://picsum.photos/seed/p1306/300/200,3.58,655,Fast dual-band WiFi router with parental controls.
+307,p1307,Sony Game Console 1307 - 1TB,Sony,gaming_console,51266,56962,10,https://picsum.photos/seed/p1307/300/200,3.22,4244,Next-gen console delivering immersive gaming experiences.
+308,p1308,"Nikon Mirrorless 1308 - 24MP, 4K Video",Nikon,camera,105634,105634,0,https://picsum.photos/seed/p1308/300/200,4.86,711,High quality imaging for enthusiasts and vloggers.
+309,p1309,"Fujifilm Mirrorless 1309 - 24MP, 4K Video",Fujifilm,camera,88218,92861,5,https://picsum.photos/seed/p1309/300/200,4.43,4580,High quality imaging for enthusiasts and vloggers.
+310,p1310,Microsoft Game Console 1310 - 1TB,Microsoft,gaming_console,22500,26471,15,https://picsum.photos/seed/p1310/300/200,3.38,592,Next-gen console delivering immersive gaming experiences.
+311,p1311,JBL Wireless Headphones 1311,JBL,headphones,14784,17393,15,https://picsum.photos/seed/p1311/300/200,4.02,1992,Comfortable headphones with active noise cancellation.
+312,p1312,Canon InkJet 1312 - Wireless Printing,Canon,printer,17539,17539,0,https://picsum.photos/seed/p1312/300/200,4.56,3378,Reliable home-office printer with low-cost cartridges.
+313,p1313,Epson InkJet 1313 - Wireless Printing,Epson,printer,24368,27075,10,https://picsum.photos/seed/p1313/300/200,3.73,1790,Reliable home-office printer with low-cost cartridges.
+314,p1314,Microsoft Game Console 1314 - 1TB,Microsoft,gaming_console,30021,30021,0,https://picsum.photos/seed/p1314/300/200,4.62,2916,Next-gen console delivering immersive gaming experiences.
+315,p1315,"Apple Tab 1315 - 10.5"" Display, 64GB",Apple,tablet,45456,53478,15,https://picsum.photos/seed/p1315/300/200,3.74,4706,Portable tablet ideal for media and light productivity.
+316,p1316,"Fujifilm Mirrorless 1316 - 24MP, 4K Video",Fujifilm,camera,123326,123326,0,https://picsum.photos/seed/p1316/300/200,4.05,3225,High quality imaging for enthusiasts and vloggers.
+317,p1317,"Xiaomi Tab 1317 - 10.5"" Display, 64GB",Xiaomi,tablet,26083,30686,15,https://picsum.photos/seed/p1317/300/200,4.67,1533,Portable tablet ideal for media and light productivity.
+318,p1318,JBL Wireless Headphones 1318,JBL,headphones,25618,28465,10,https://picsum.photos/seed/p1318/300/200,3.68,1473,Comfortable headphones with active noise cancellation.
+319,p1319,Sony Game Console 1319 - 1TB,Sony,gaming_console,24800,24800,0,https://picsum.photos/seed/p1319/300/200,3.5,4092,Next-gen console delivering immersive gaming experiences.
+320,p1320,"Lenovo Tab 1320 - 10.5"" Display, 64GB",Lenovo,tablet,62949,66262,5,https://picsum.photos/seed/p1320/300/200,4.01,788,Portable tablet ideal for media and light productivity.
+321,p1321,"Samsung Curved Monitor 1321 - 27""",Samsung,monitor,15945,15945,0,https://picsum.photos/seed/p1321/300/200,4.18,4410,High-refresh IPS panel with thin bezels and adaptive-sync.
+322,p1322,"Lenovo Tab 1322 - 10.5"" Display, 64GB",Lenovo,tablet,60773,60773,0,https://picsum.photos/seed/p1322/300/200,4.68,2763,Portable tablet ideal for media and light productivity.
+323,p1323,Netgear AC2938 Router 1323,Netgear,router,6022,6691,10,https://picsum.photos/seed/p1323/300/200,3.66,3644,Fast dual-band WiFi router with parental controls.
+324,p1324,Epson InkJet 1324 - Wireless Printing,Epson,printer,28847,28847,0,https://picsum.photos/seed/p1324/300/200,3.87,782,Reliable home-office printer with low-cost cartridges.
+325,p1325,"Realme X1325 - 8GB RAM, 128GB Storage",Realme,smartphone,72845,76679,5,https://picsum.photos/seed/p1325/300/200,3.59,2327,High-performance smartphone with excellent camera and display.
+326,p1326,"LG Curved Monitor 1326 - 27""",LG,monitor,33324,39205,15,https://picsum.photos/seed/p1326/300/200,3.96,4417,High-refresh IPS panel with thin bezels and adaptive-sync.
+327,p1327,"Xiaomi Tab 1327 - 10.5"" Display, 64GB",Xiaomi,tablet,62610,69567,10,https://picsum.photos/seed/p1327/300/200,3.64,2486,Portable tablet ideal for media and light productivity.
+328,p1328,"HP UltraBook 1328 - 16GB RAM, 512GB SSD",HP,laptop,109414,115173,5,https://picsum.photos/seed/p1328/300/200,4.21,59,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+329,p1329,JBL Wireless Headphones 1329,JBL,headphones,25796,25796,0,https://picsum.photos/seed/p1329/300/200,3.92,1962,Comfortable headphones with active noise cancellation.
+330,p1330,Boat Wireless Headphones 1330,Boat,headphones,8958,9953,10,https://picsum.photos/seed/p1330/300/200,4.25,2229,Comfortable headphones with active noise cancellation.
+331,p1331,Microsoft Game Console 1331 - 1TB,Microsoft,gaming_console,20875,23194,10,https://picsum.photos/seed/p1331/300/200,4.44,1907,Next-gen console delivering immersive gaming experiences.
+332,p1332,"OnePlus X1332 - 8GB RAM, 128GB Storage",OnePlus,smartphone,52815,52815,0,https://picsum.photos/seed/p1332/300/200,4.63,1196,High-performance smartphone with excellent camera and display.
+333,p1333,"Lenovo UltraBook 1333 - 16GB RAM, 512GB SSD",Lenovo,laptop,163246,163246,0,https://picsum.photos/seed/p1333/300/200,4.45,274,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+334,p1334,"Xiaomi Smart TV 1334 - 4K UHD, 43""",Xiaomi,tv,198636,198636,0,https://picsum.photos/seed/p1334/300/200,3.63,2447,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+335,p1335,"LG Smart TV 1335 - 4K UHD, 43""",LG,tv,167322,185913,10,https://picsum.photos/seed/p1335/300/200,4.54,73,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+336,p1336,"Acer UltraBook 1336 - 16GB RAM, 512GB SSD",Acer,laptop,80630,80630,0,https://picsum.photos/seed/p1336/300/200,3.8,1260,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+337,p1337,Sony Wireless Headphones 1337,Sony,headphones,12281,13646,10,https://picsum.photos/seed/p1337/300/200,3.81,1103,Comfortable headphones with active noise cancellation.
+338,p1338,"Canon Mirrorless 1338 - 24MP, 4K Video",Canon,camera,110544,116362,5,https://picsum.photos/seed/p1338/300/200,4.45,2255,High quality imaging for enthusiasts and vloggers.
+339,p1339,Nintendo Game Console 1339 - 1TB,Nintendo,gaming_console,12790,15047,15,https://picsum.photos/seed/p1339/300/200,3.84,1519,Next-gen console delivering immersive gaming experiences.
+340,p1340,"Acer UltraBook 1340 - 16GB RAM, 512GB SSD",Acer,laptop,92336,102596,10,https://picsum.photos/seed/p1340/300/200,4.5,1262,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+341,p1341,Microsoft Game Console 1341 - 1TB,Microsoft,gaming_console,17049,17049,0,https://picsum.photos/seed/p1341/300/200,4.03,808,Next-gen console delivering immersive gaming experiences.
+342,p1342,"Acer UltraBook 1342 - 16GB RAM, 512GB SSD",Acer,laptop,151583,168426,10,https://picsum.photos/seed/p1342/300/200,4.78,655,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+343,p1343,"Dell Curved Monitor 1343 - 27""",Dell,monitor,42669,42669,0,https://picsum.photos/seed/p1343/300/200,4.81,4255,High-refresh IPS panel with thin bezels and adaptive-sync.
+344,p1344,"Samsung X1344 - 8GB RAM, 128GB Storage",Samsung,smartphone,29549,32832,10,https://picsum.photos/seed/p1344/300/200,4.47,4723,High-performance smartphone with excellent camera and display.
+345,p1345,Epson InkJet 1345 - Wireless Printing,Epson,printer,16342,18158,10,https://picsum.photos/seed/p1345/300/200,4.79,2581,Reliable home-office printer with low-cost cartridges.
+346,p1346,JBL Wireless Headphones 1346,JBL,headphones,14268,15019,5,https://picsum.photos/seed/p1346/300/200,3.81,3706,Comfortable headphones with active noise cancellation.
+347,p1347,"Asus Curved Monitor 1347 - 27""",Asus,monitor,8008,8430,5,https://picsum.photos/seed/p1347/300/200,3.24,2260,High-refresh IPS panel with thin bezels and adaptive-sync.
+348,p1348,Boat Wireless Headphones 1348,Boat,headphones,16505,17374,5,https://picsum.photos/seed/p1348/300/200,3.36,3275,Comfortable headphones with active noise cancellation.
+349,p1349,Sony Game Console 1349 - 1TB,Sony,gaming_console,51309,54009,5,https://picsum.photos/seed/p1349/300/200,3.26,4720,Next-gen console delivering immersive gaming experiences.
+350,p1350,TP-Link AC3087 Router 1350,TP-Link,router,3474,3474,0,https://picsum.photos/seed/p1350/300/200,4.28,3133,Fast dual-band WiFi router with parental controls.
+351,p1351,"Lenovo UltraBook 1351 - 16GB RAM, 512GB SSD",Lenovo,laptop,67329,79211,15,https://picsum.photos/seed/p1351/300/200,4.06,1819,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+352,p1352,D-Link AC1503 Router 1352,D-Link,router,2076,2307,10,https://picsum.photos/seed/p1352/300/200,4.05,1068,Fast dual-band WiFi router with parental controls.
+353,p1353,"Xiaomi Tab 1353 - 10.5"" Display, 64GB",Xiaomi,tablet,45070,47442,5,https://picsum.photos/seed/p1353/300/200,4.52,2649,Portable tablet ideal for media and light productivity.
+354,p1354,Sony Game Console 1354 - 1TB,Sony,gaming_console,33227,34976,5,https://picsum.photos/seed/p1354/300/200,4.25,3622,Next-gen console delivering immersive gaming experiences.
+355,p1355,Sony Game Console 1355 - 1TB,Sony,gaming_console,15788,18574,15,https://picsum.photos/seed/p1355/300/200,4.78,2356,Next-gen console delivering immersive gaming experiences.
+356,p1356,"Lenovo UltraBook 1356 - 16GB RAM, 512GB SSD",Lenovo,laptop,150081,157980,5,https://picsum.photos/seed/p1356/300/200,4.13,1157,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+357,p1357,"Asus UltraBook 1357 - 16GB RAM, 512GB SSD",Asus,laptop,84648,84648,0,https://picsum.photos/seed/p1357/300/200,3.31,2222,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+358,p1358,HP InkJet 1358 - Wireless Printing,HP,printer,7024,8263,15,https://picsum.photos/seed/p1358/300/200,4.84,4593,Reliable home-office printer with low-cost cartridges.
+359,p1359,"HP UltraBook 1359 - 16GB RAM, 512GB SSD",HP,laptop,169844,178783,5,https://picsum.photos/seed/p1359/300/200,4.26,1934,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+360,p1360,JBL Wireless Headphones 1360,JBL,headphones,10942,10942,0,https://picsum.photos/seed/p1360/300/200,3.35,3131,Comfortable headphones with active noise cancellation.
+361,p1361,Boat Wireless Headphones 1361,Boat,headphones,30436,30436,0,https://picsum.photos/seed/p1361/300/200,4.31,4759,Comfortable headphones with active noise cancellation.
+362,p1362,Bose Wireless Headphones 1362,Bose,headphones,5444,5444,0,https://picsum.photos/seed/p1362/300/200,3.51,1192,Comfortable headphones with active noise cancellation.
+363,p1363,"MSI UltraBook 1363 - 16GB RAM, 512GB SSD",MSI,laptop,148538,148538,0,https://picsum.photos/seed/p1363/300/200,3.42,214,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+364,p1364,Nintendo Game Console 1364 - 1TB,Nintendo,gaming_console,20219,23787,15,https://picsum.photos/seed/p1364/300/200,4.0,3063,Next-gen console delivering immersive gaming experiences.
+365,p1365,"Xiaomi Tab 1365 - 10.5"" Display, 64GB",Xiaomi,tablet,22665,22665,0,https://picsum.photos/seed/p1365/300/200,4.49,541,Portable tablet ideal for media and light productivity.
+366,p1366,"Xiaomi Tab 1366 - 10.5"" Display, 64GB",Xiaomi,tablet,57943,68168,15,https://picsum.photos/seed/p1366/300/200,4.8,4685,Portable tablet ideal for media and light productivity.
+367,p1367,Nintendo Game Console 1367 - 1TB,Nintendo,gaming_console,15815,17572,10,https://picsum.photos/seed/p1367/300/200,4.08,403,Next-gen console delivering immersive gaming experiences.
+368,p1368,"LG Smart TV 1368 - 4K UHD, 65""",LG,tv,85455,94950,10,https://picsum.photos/seed/p1368/300/200,4.61,3700,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+369,p1369,"Vivo X1369 - 8GB RAM, 128GB Storage",Vivo,smartphone,56544,59520,5,https://picsum.photos/seed/p1369/300/200,3.75,1343,High-performance smartphone with excellent camera and display.
+370,p1370,"Samsung X1370 - 8GB RAM, 128GB Storage",Samsung,smartphone,81998,91109,10,https://picsum.photos/seed/p1370/300/200,4.14,359,High-performance smartphone with excellent camera and display.
+371,p1371,"Lenovo Tab 1371 - 10.5"" Display, 64GB",Lenovo,tablet,60407,60407,0,https://picsum.photos/seed/p1371/300/200,3.4,1077,Portable tablet ideal for media and light productivity.
+372,p1372,"Samsung Smart TV 1372 - 4K UHD, 55""",Samsung,tv,128109,150716,15,https://picsum.photos/seed/p1372/300/200,4.32,3717,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+373,p1373,D-Link AC2431 Router 1373,D-Link,router,11799,11799,0,https://picsum.photos/seed/p1373/300/200,3.29,2859,Fast dual-band WiFi router with parental controls.
+374,p1374,"Dell UltraBook 1374 - 16GB RAM, 512GB SSD",Dell,laptop,100499,118234,15,https://picsum.photos/seed/p1374/300/200,4.17,4605,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+375,p1375,"Xiaomi Tab 1375 - 10.5"" Display, 64GB",Xiaomi,tablet,57347,60365,5,https://picsum.photos/seed/p1375/300/200,4.0,999,Portable tablet ideal for media and light productivity.
+376,p1376,"Sony Mirrorless 1376 - 24MP, 4K Video",Sony,camera,27732,32626,15,https://picsum.photos/seed/p1376/300/200,4.79,2352,High quality imaging for enthusiasts and vloggers.
+377,p1377,Netgear AC1731 Router 1377,Netgear,router,10408,11564,10,https://picsum.photos/seed/p1377/300/200,4.04,1473,Fast dual-band WiFi router with parental controls.
+378,p1378,Sony Game Console 1378 - 1TB,Sony,gaming_console,49792,55324,10,https://picsum.photos/seed/p1378/300/200,3.28,2864,Next-gen console delivering immersive gaming experiences.
+379,p1379,Bose Wireless Headphones 1379,Bose,headphones,34206,34206,0,https://picsum.photos/seed/p1379/300/200,3.39,2730,Comfortable headphones with active noise cancellation.
+380,p1380,Canon InkJet 1380 - Wireless Printing,Canon,printer,24332,27035,10,https://picsum.photos/seed/p1380/300/200,3.46,3773,Reliable home-office printer with low-cost cartridges.
+381,p1381,JBL Wireless Headphones 1381,JBL,headphones,21676,21676,0,https://picsum.photos/seed/p1381/300/200,3.55,2717,Comfortable headphones with active noise cancellation.
+382,p1382,HP InkJet 1382 - Wireless Printing,HP,printer,32603,32603,0,https://picsum.photos/seed/p1382/300/200,4.67,2525,Reliable home-office printer with low-cost cartridges.
+383,p1383,Epson InkJet 1383 - Wireless Printing,Epson,printer,18818,19808,5,https://picsum.photos/seed/p1383/300/200,4.53,1655,Reliable home-office printer with low-cost cartridges.
+384,p1384,"Realme X1384 - 8GB RAM, 128GB Storage",Realme,smartphone,73543,73543,0,https://picsum.photos/seed/p1384/300/200,4.6,4228,High-performance smartphone with excellent camera and display.
+385,p1385,"Samsung Tab 1385 - 10.5"" Display, 64GB",Samsung,tablet,66676,66676,0,https://picsum.photos/seed/p1385/300/200,3.38,2559,Portable tablet ideal for media and light productivity.
+386,p1386,"Acer UltraBook 1386 - 16GB RAM, 512GB SSD",Acer,laptop,90259,95009,5,https://picsum.photos/seed/p1386/300/200,3.45,2241,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+387,p1387,"Samsung X1387 - 8GB RAM, 128GB Storage",Samsung,smartphone,76006,80006,5,https://picsum.photos/seed/p1387/300/200,4.24,2774,High-performance smartphone with excellent camera and display.
+388,p1388,Sennheiser Wireless Headphones 1388,Sennheiser,headphones,6643,6643,0,https://picsum.photos/seed/p1388/300/200,4.4,4855,Comfortable headphones with active noise cancellation.
+389,p1389,"Samsung Curved Monitor 1389 - 27""",Samsung,monitor,57528,57528,0,https://picsum.photos/seed/p1389/300/200,4.58,3836,High-refresh IPS panel with thin bezels and adaptive-sync.
+390,p1390,"Realme X1390 - 8GB RAM, 128GB Storage",Realme,smartphone,66191,69675,5,https://picsum.photos/seed/p1390/300/200,4.54,2660,High-performance smartphone with excellent camera and display.
+391,p1391,"Asus Curved Monitor 1391 - 27""",Asus,monitor,26498,26498,0,https://picsum.photos/seed/p1391/300/200,4.06,3323,High-refresh IPS panel with thin bezels and adaptive-sync.
+392,p1392,"Xiaomi X1392 - 8GB RAM, 128GB Storage",Xiaomi,smartphone,70045,77828,10,https://picsum.photos/seed/p1392/300/200,3.85,2791,High-performance smartphone with excellent camera and display.
+393,p1393,"Xiaomi Smart TV 1393 - 4K UHD, 65""",Xiaomi,tv,69620,81906,15,https://picsum.photos/seed/p1393/300/200,3.99,4547,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+394,p1394,"Oppo X1394 - 8GB RAM, 128GB Storage",Oppo,smartphone,61188,61188,0,https://picsum.photos/seed/p1394/300/200,3.35,1138,High-performance smartphone with excellent camera and display.
+395,p1395,Nintendo Game Console 1395 - 1TB,Nintendo,gaming_console,26432,27823,5,https://picsum.photos/seed/p1395/300/200,3.71,2494,Next-gen console delivering immersive gaming experiences.
+396,p1396,Netgear AC1382 Router 1396,Netgear,router,6319,6319,0,https://picsum.photos/seed/p1396/300/200,4.4,2942,Fast dual-band WiFi router with parental controls.
+397,p1397,"Oppo X1397 - 8GB RAM, 128GB Storage",Oppo,smartphone,34950,38833,10,https://picsum.photos/seed/p1397/300/200,4.13,1420,High-performance smartphone with excellent camera and display.
+398,p1398,"LG Curved Monitor 1398 - 27""",LG,monitor,16227,16227,0,https://picsum.photos/seed/p1398/300/200,3.44,3987,High-refresh IPS panel with thin bezels and adaptive-sync.
+399,p1399,TP-Link AC1481 Router 1399,TP-Link,router,9954,11711,15,https://picsum.photos/seed/p1399/300/200,4.59,3151,Fast dual-band WiFi router with parental controls.
+400,p1400,HP InkJet 1400 - Wireless Printing,HP,printer,18224,21440,15,https://picsum.photos/seed/p1400/300/200,4.02,3019,Reliable home-office printer with low-cost cartridges.
+401,p1401,"Apple X1401 - 8GB RAM, 128GB Storage",Apple,smartphone,22630,26623,15,https://picsum.photos/seed/p1401/300/200,4.71,724,High-performance smartphone with excellent camera and display.
+402,p1402,"Xiaomi Smart TV 1402 - 4K UHD, 43""",Xiaomi,tv,93549,110058,15,https://picsum.photos/seed/p1402/300/200,4.45,3448,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+403,p1403,Canon InkJet 1403 - Wireless Printing,Canon,printer,26115,30723,15,https://picsum.photos/seed/p1403/300/200,3.49,422,Reliable home-office printer with low-cost cartridges.
+404,p1404,"Canon Mirrorless 1404 - 24MP, 4K Video",Canon,camera,129770,136600,5,https://picsum.photos/seed/p1404/300/200,4.66,116,High quality imaging for enthusiasts and vloggers.
+405,p1405,"Apple X1405 - 8GB RAM, 128GB Storage",Apple,smartphone,80237,94396,15,https://picsum.photos/seed/p1405/300/200,4.67,2808,High-performance smartphone with excellent camera and display.
+406,p1406,"OnePlus X1406 - 8GB RAM, 128GB Storage",OnePlus,smartphone,101332,106665,5,https://picsum.photos/seed/p1406/300/200,3.29,2165,High-performance smartphone with excellent camera and display.
+407,p1407,"Samsung X1407 - 8GB RAM, 128GB Storage",Samsung,smartphone,63378,70420,10,https://picsum.photos/seed/p1407/300/200,4.01,1189,High-performance smartphone with excellent camera and display.
+408,p1408,Sennheiser Wireless Headphones 1408,Sennheiser,headphones,22979,24188,5,https://picsum.photos/seed/p1408/300/200,3.77,2187,Comfortable headphones with active noise cancellation.
+409,p1409,"Xiaomi X1409 - 8GB RAM, 128GB Storage",Xiaomi,smartphone,104247,104247,0,https://picsum.photos/seed/p1409/300/200,4.34,556,High-performance smartphone with excellent camera and display.
+410,p1410,"Asus UltraBook 1410 - 16GB RAM, 512GB SSD",Asus,laptop,57152,67238,15,https://picsum.photos/seed/p1410/300/200,3.36,4867,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+411,p1411,"Samsung Smart TV 1411 - 4K UHD, 43""",Samsung,tv,170860,189844,10,https://picsum.photos/seed/p1411/300/200,4.32,620,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+412,p1412,"Samsung Curved Monitor 1412 - 27""",Samsung,monitor,31433,33087,5,https://picsum.photos/seed/p1412/300/200,4.82,2168,High-refresh IPS panel with thin bezels and adaptive-sync.
+413,p1413,"Xiaomi Tab 1413 - 10.5"" Display, 64GB",Xiaomi,tablet,35731,35731,0,https://picsum.photos/seed/p1413/300/200,4.75,2121,Portable tablet ideal for media and light productivity.
+414,p1414,"Samsung X1414 - 8GB RAM, 128GB Storage",Samsung,smartphone,98887,109874,10,https://picsum.photos/seed/p1414/300/200,3.65,2701,High-performance smartphone with excellent camera and display.
+415,p1415,Netgear AC2255 Router 1415,Netgear,router,14294,14294,0,https://picsum.photos/seed/p1415/300/200,3.85,3949,Fast dual-band WiFi router with parental controls.
+416,p1416,"Apple X1416 - 8GB RAM, 128GB Storage",Apple,smartphone,57484,60509,5,https://picsum.photos/seed/p1416/300/200,4.3,1446,High-performance smartphone with excellent camera and display.
+417,p1417,Sony Wireless Headphones 1417,Sony,headphones,22090,24544,10,https://picsum.photos/seed/p1417/300/200,4.45,1146,Comfortable headphones with active noise cancellation.
+418,p1418,"Dell UltraBook 1418 - 16GB RAM, 512GB SSD",Dell,laptop,102517,102517,0,https://picsum.photos/seed/p1418/300/200,3.26,459,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+419,p1419,Epson InkJet 1419 - Wireless Printing,Epson,printer,22141,22141,0,https://picsum.photos/seed/p1419/300/200,3.26,1159,Reliable home-office printer with low-cost cartridges.
+420,p1420,"Dell Curved Monitor 1420 - 27""",Dell,monitor,44516,49462,10,https://picsum.photos/seed/p1420/300/200,4.24,4841,High-refresh IPS panel with thin bezels and adaptive-sync.
+421,p1421,"Oppo X1421 - 8GB RAM, 128GB Storage",Oppo,smartphone,77386,85984,10,https://picsum.photos/seed/p1421/300/200,3.75,4718,High-performance smartphone with excellent camera and display.
+422,p1422,Bose Wireless Headphones 1422,Bose,headphones,18949,18949,0,https://picsum.photos/seed/p1422/300/200,4.38,4533,Comfortable headphones with active noise cancellation.
+423,p1423,"Xiaomi Tab 1423 - 10.5"" Display, 64GB",Xiaomi,tablet,16551,16551,0,https://picsum.photos/seed/p1423/300/200,3.21,730,Portable tablet ideal for media and light productivity.
+424,p1424,Microsoft Game Console 1424 - 1TB,Microsoft,gaming_console,42002,42002,0,https://picsum.photos/seed/p1424/300/200,4.24,308,Next-gen console delivering immersive gaming experiences.
+425,p1425,Sony Game Console 1425 - 1TB,Sony,gaming_console,23440,27576,15,https://picsum.photos/seed/p1425/300/200,4.86,2964,Next-gen console delivering immersive gaming experiences.
+426,p1426,Boat Wireless Headphones 1426,Boat,headphones,32091,32091,0,https://picsum.photos/seed/p1426/300/200,4.34,353,Comfortable headphones with active noise cancellation.
+427,p1427,"Apple UltraBook 1427 - 16GB RAM, 512GB SSD",Apple,laptop,94942,94942,0,https://picsum.photos/seed/p1427/300/200,4.77,1440,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+428,p1428,"Apple Tab 1428 - 10.5"" Display, 64GB",Apple,tablet,65226,68659,5,https://picsum.photos/seed/p1428/300/200,3.59,902,Portable tablet ideal for media and light productivity.
+429,p1429,HP InkJet 1429 - Wireless Printing,HP,printer,20433,20433,0,https://picsum.photos/seed/p1429/300/200,4.78,3727,Reliable home-office printer with low-cost cartridges.
+430,p1430,"Xiaomi Tab 1430 - 10.5"" Display, 64GB",Xiaomi,tablet,19315,22724,15,https://picsum.photos/seed/p1430/300/200,3.3,1118,Portable tablet ideal for media and light productivity.
+431,p1431,"Oppo X1431 - 8GB RAM, 128GB Storage",Oppo,smartphone,30439,30439,0,https://picsum.photos/seed/p1431/300/200,4.18,4528,High-performance smartphone with excellent camera and display.
+432,p1432,"Samsung Smart TV 1432 - 4K UHD, 65""",Samsung,tv,76739,76739,0,https://picsum.photos/seed/p1432/300/200,3.62,3557,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+433,p1433,Sony Game Console 1433 - 1TB,Sony,gaming_console,38608,42898,10,https://picsum.photos/seed/p1433/300/200,4.01,802,Next-gen console delivering immersive gaming experiences.
+434,p1434,"Asus Curved Monitor 1434 - 27""",Asus,monitor,31488,31488,0,https://picsum.photos/seed/p1434/300/200,3.23,2497,High-refresh IPS panel with thin bezels and adaptive-sync.
+435,p1435,"Xiaomi Tab 1435 - 10.5"" Display, 64GB",Xiaomi,tablet,60582,60582,0,https://picsum.photos/seed/p1435/300/200,4.66,579,Portable tablet ideal for media and light productivity.
+436,p1436,Netgear AC2287 Router 1436,Netgear,router,8829,10387,15,https://picsum.photos/seed/p1436/300/200,4.7,449,Fast dual-band WiFi router with parental controls.
+437,p1437,JBL Wireless Headphones 1437,JBL,headphones,5391,5391,0,https://picsum.photos/seed/p1437/300/200,3.44,2743,Comfortable headphones with active noise cancellation.
+438,p1438,"Samsung Smart TV 1438 - 4K UHD, 65""",Samsung,tv,79097,79097,0,https://picsum.photos/seed/p1438/300/200,3.83,3706,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+439,p1439,"Dell Curved Monitor 1439 - 27""",Dell,monitor,48694,48694,0,https://picsum.photos/seed/p1439/300/200,3.52,3750,High-refresh IPS panel with thin bezels and adaptive-sync.
+440,p1440,"Samsung X1440 - 8GB RAM, 128GB Storage",Samsung,smartphone,45797,45797,0,https://picsum.photos/seed/p1440/300/200,4.09,185,High-performance smartphone with excellent camera and display.
+441,p1441,"Fujifilm Mirrorless 1441 - 24MP, 4K Video",Fujifilm,camera,26424,27815,5,https://picsum.photos/seed/p1441/300/200,3.9,2808,High quality imaging for enthusiasts and vloggers.
+442,p1442,Canon InkJet 1442 - Wireless Printing,Canon,printer,30862,30862,0,https://picsum.photos/seed/p1442/300/200,3.45,2329,Reliable home-office printer with low-cost cartridges.
+443,p1443,"LG Curved Monitor 1443 - 27""",LG,monitor,20052,23591,15,https://picsum.photos/seed/p1443/300/200,3.42,2133,High-refresh IPS panel with thin bezels and adaptive-sync.
+444,p1444,HP InkJet 1444 - Wireless Printing,HP,printer,17219,17219,0,https://picsum.photos/seed/p1444/300/200,4.76,3314,Reliable home-office printer with low-cost cartridges.
+445,p1445,"LG Curved Monitor 1445 - 27""",LG,monitor,46097,54232,15,https://picsum.photos/seed/p1445/300/200,4.33,4630,High-refresh IPS panel with thin bezels and adaptive-sync.
+446,p1446,"Samsung Curved Monitor 1446 - 27""",Samsung,monitor,8662,9625,10,https://picsum.photos/seed/p1446/300/200,3.81,2673,High-refresh IPS panel with thin bezels and adaptive-sync.
+447,p1447,"Acer UltraBook 1447 - 16GB RAM, 512GB SSD",Acer,laptop,178001,178001,0,https://picsum.photos/seed/p1447/300/200,4.86,3231,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+448,p1448,"Xiaomi Smart TV 1448 - 4K UHD, 55""",Xiaomi,tv,185049,194788,5,https://picsum.photos/seed/p1448/300/200,3.22,2825,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+449,p1449,Canon InkJet 1449 - Wireless Printing,Canon,printer,16756,18618,10,https://picsum.photos/seed/p1449/300/200,4.44,3393,Reliable home-office printer with low-cost cartridges.
+450,p1450,"Apple Tab 1450 - 10.5"" Display, 64GB",Apple,tablet,60169,66854,10,https://picsum.photos/seed/p1450/300/200,4.29,2239,Portable tablet ideal for media and light productivity.
+451,p1451,TP-Link AC2654 Router 1451,TP-Link,router,8583,9537,10,https://picsum.photos/seed/p1451/300/200,4.15,3796,Fast dual-band WiFi router with parental controls.
+452,p1452,"Samsung Smart TV 1452 - 4K UHD, 43""",Samsung,tv,168183,186870,10,https://picsum.photos/seed/p1452/300/200,4.74,2004,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+453,p1453,"HP UltraBook 1453 - 16GB RAM, 512GB SSD",HP,laptop,51742,57491,10,https://picsum.photos/seed/p1453/300/200,4.86,979,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+454,p1454,Epson InkJet 1454 - Wireless Printing,Epson,printer,15475,15475,0,https://picsum.photos/seed/p1454/300/200,3.66,3436,Reliable home-office printer with low-cost cartridges.
+455,p1455,HP InkJet 1455 - Wireless Printing,HP,printer,25597,30114,15,https://picsum.photos/seed/p1455/300/200,3.75,2590,Reliable home-office printer with low-cost cartridges.
+456,p1456,"Sony Mirrorless 1456 - 24MP, 4K Video",Sony,camera,42950,42950,0,https://picsum.photos/seed/p1456/300/200,3.37,1266,High quality imaging for enthusiasts and vloggers.
+457,p1457,Bose Wireless Headphones 1457,Bose,headphones,28351,28351,0,https://picsum.photos/seed/p1457/300/200,4.59,142,Comfortable headphones with active noise cancellation.
+458,p1458,"Samsung Curved Monitor 1458 - 27""",Samsung,monitor,55140,58042,5,https://picsum.photos/seed/p1458/300/200,3.25,971,High-refresh IPS panel with thin bezels and adaptive-sync.
+459,p1459,"Sony Smart TV 1459 - 4K UHD, 50""",Sony,tv,67507,75008,10,https://picsum.photos/seed/p1459/300/200,4.49,348,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+460,p1460,"Samsung Smart TV 1460 - 4K UHD, 43""",Samsung,tv,142967,142967,0,https://picsum.photos/seed/p1460/300/200,4.48,1014,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+461,p1461,Sony Game Console 1461 - 1TB,Sony,gaming_console,32369,38081,15,https://picsum.photos/seed/p1461/300/200,4.53,1981,Next-gen console delivering immersive gaming experiences.
+462,p1462,Boat Wireless Headphones 1462,Boat,headphones,1091,1283,15,https://picsum.photos/seed/p1462/300/200,4.65,3888,Comfortable headphones with active noise cancellation.
+463,p1463,Epson InkJet 1463 - Wireless Printing,Epson,printer,17951,18896,5,https://picsum.photos/seed/p1463/300/200,3.41,903,Reliable home-office printer with low-cost cartridges.
+464,p1464,Bose Wireless Headphones 1464,Bose,headphones,31687,33355,5,https://picsum.photos/seed/p1464/300/200,3.98,2555,Comfortable headphones with active noise cancellation.
+465,p1465,"LG Curved Monitor 1465 - 27""",LG,monitor,35256,39173,10,https://picsum.photos/seed/p1465/300/200,4.34,3247,High-refresh IPS panel with thin bezels and adaptive-sync.
+466,p1466,"Dell Curved Monitor 1466 - 27""",Dell,monitor,12240,12240,0,https://picsum.photos/seed/p1466/300/200,4.21,3311,High-refresh IPS panel with thin bezels and adaptive-sync.
+467,p1467,"OnePlus X1467 - 8GB RAM, 128GB Storage",OnePlus,smartphone,37829,44505,15,https://picsum.photos/seed/p1467/300/200,4.82,3969,High-performance smartphone with excellent camera and display.
+468,p1468,JBL Wireless Headphones 1468,JBL,headphones,9821,9821,0,https://picsum.photos/seed/p1468/300/200,4.61,4080,Comfortable headphones with active noise cancellation.
+469,p1469,"Dell UltraBook 1469 - 16GB RAM, 512GB SSD",Dell,laptop,119424,125709,5,https://picsum.photos/seed/p1469/300/200,4.33,4016,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+470,p1470,JBL Wireless Headphones 1470,JBL,headphones,27448,30498,10,https://picsum.photos/seed/p1470/300/200,3.98,269,Comfortable headphones with active noise cancellation.
+471,p1471,"Lenovo Tab 1471 - 10.5"" Display, 64GB",Lenovo,tablet,25905,30477,15,https://picsum.photos/seed/p1471/300/200,4.17,3898,Portable tablet ideal for media and light productivity.
+472,p1472,Bose Wireless Headphones 1472,Bose,headphones,19640,19640,0,https://picsum.photos/seed/p1472/300/200,4.2,1050,Comfortable headphones with active noise cancellation.
+473,p1473,Canon InkJet 1473 - Wireless Printing,Canon,printer,16710,16710,0,https://picsum.photos/seed/p1473/300/200,3.6,2556,Reliable home-office printer with low-cost cartridges.
+474,p1474,Sony Game Console 1474 - 1TB,Sony,gaming_console,49391,58107,15,https://picsum.photos/seed/p1474/300/200,4.08,3450,Next-gen console delivering immersive gaming experiences.
+475,p1475,"Canon Mirrorless 1475 - 24MP, 4K Video",Canon,camera,76157,76157,0,https://picsum.photos/seed/p1475/300/200,3.77,4118,High quality imaging for enthusiasts and vloggers.
+476,p1476,HP InkJet 1476 - Wireless Printing,HP,printer,30793,30793,0,https://picsum.photos/seed/p1476/300/200,3.71,4698,Reliable home-office printer with low-cost cartridges.
+477,p1477,TP-Link AC2669 Router 1477,TP-Link,router,13895,14626,5,https://picsum.photos/seed/p1477/300/200,4.55,2472,Fast dual-band WiFi router with parental controls.
+478,p1478,JBL Wireless Headphones 1478,JBL,headphones,10910,12835,15,https://picsum.photos/seed/p1478/300/200,4.67,4725,Comfortable headphones with active noise cancellation.
+479,p1479,"LG Curved Monitor 1479 - 27""",LG,monitor,46621,49075,5,https://picsum.photos/seed/p1479/300/200,3.99,1969,High-refresh IPS panel with thin bezels and adaptive-sync.
+480,p1480,"Lenovo Tab 1480 - 10.5"" Display, 64GB",Lenovo,tablet,66226,69712,5,https://picsum.photos/seed/p1480/300/200,4.37,1934,Portable tablet ideal for media and light productivity.
+481,p1481,TP-Link AC1507 Router 1481,TP-Link,router,10672,10672,0,https://picsum.photos/seed/p1481/300/200,3.47,1117,Fast dual-band WiFi router with parental controls.
+482,p1482,"Lenovo UltraBook 1482 - 16GB RAM, 512GB SSD",Lenovo,laptop,73213,86133,15,https://picsum.photos/seed/p1482/300/200,3.71,520,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+483,p1483,D-Link AC2012 Router 1483,D-Link,router,3476,3476,0,https://picsum.photos/seed/p1483/300/200,4.22,2567,Fast dual-band WiFi router with parental controls.
+484,p1484,Epson InkJet 1484 - Wireless Printing,Epson,printer,9128,10739,15,https://picsum.photos/seed/p1484/300/200,3.3,4370,Reliable home-office printer with low-cost cartridges.
+485,p1485,Epson InkJet 1485 - Wireless Printing,Epson,printer,32126,33817,5,https://picsum.photos/seed/p1485/300/200,4.6,172,Reliable home-office printer with low-cost cartridges.
+486,p1486,Sony Game Console 1486 - 1TB,Sony,gaming_console,45050,50055,10,https://picsum.photos/seed/p1486/300/200,3.86,3219,Next-gen console delivering immersive gaming experiences.
+487,p1487,"Sony Mirrorless 1487 - 24MP, 4K Video",Sony,camera,145047,145047,0,https://picsum.photos/seed/p1487/300/200,4.6,4027,High quality imaging for enthusiasts and vloggers.
+488,p1488,"Asus Curved Monitor 1488 - 27""",Asus,monitor,10497,12349,15,https://picsum.photos/seed/p1488/300/200,4.45,3713,High-refresh IPS panel with thin bezels and adaptive-sync.
+489,p1489,"MSI UltraBook 1489 - 16GB RAM, 512GB SSD",MSI,laptop,88166,88166,0,https://picsum.photos/seed/p1489/300/200,3.39,2044,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+490,p1490,Bose Wireless Headphones 1490,Bose,headphones,22468,22468,0,https://picsum.photos/seed/p1490/300/200,3.9,1490,Comfortable headphones with active noise cancellation.
+491,p1491,D-Link AC1242 Router 1491,D-Link,router,2957,2957,0,https://picsum.photos/seed/p1491/300/200,3.28,3513,Fast dual-band WiFi router with parental controls.
+492,p1492,Microsoft Game Console 1492 - 1TB,Microsoft,gaming_console,59145,59145,0,https://picsum.photos/seed/p1492/300/200,3.58,1664,Next-gen console delivering immersive gaming experiences.
+493,p1493,"LG Smart TV 1493 - 4K UHD, 55""",LG,tv,119758,133064,10,https://picsum.photos/seed/p1493/300/200,3.51,1195,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+494,p1494,"Lenovo UltraBook 1494 - 16GB RAM, 512GB SSD",Lenovo,laptop,150309,158220,5,https://picsum.photos/seed/p1494/300/200,4.86,3256,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+495,p1495,"Xiaomi Smart TV 1495 - 4K UHD, 65""",Xiaomi,tv,141112,166014,15,https://picsum.photos/seed/p1495/300/200,4.41,372,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+496,p1496,"Lenovo UltraBook 1496 - 16GB RAM, 512GB SSD",Lenovo,laptop,121947,143467,15,https://picsum.photos/seed/p1496/300/200,4.04,2778,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+497,p1497,"LG Curved Monitor 1497 - 27""",LG,monitor,14742,16380,10,https://picsum.photos/seed/p1497/300/200,3.68,2156,High-refresh IPS panel with thin bezels and adaptive-sync.
+498,p1498,Microsoft Game Console 1498 - 1TB,Microsoft,gaming_console,18487,18487,0,https://picsum.photos/seed/p1498/300/200,3.29,1500,Next-gen console delivering immersive gaming experiences.
+499,p1499,"Asus UltraBook 1499 - 16GB RAM, 512GB SSD",Asus,laptop,162456,162456,0,https://picsum.photos/seed/p1499/300/200,4.64,1212,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+500,p1500,"Xiaomi X1500 - 8GB RAM, 128GB Storage",Xiaomi,smartphone,26926,31678,15,https://picsum.photos/seed/p1500/300/200,4.5,1479,High-performance smartphone with excellent camera and display.
+501,p1501,TP-Link AC2773 Router 1501,TP-Link,router,10763,12662,15,https://picsum.photos/seed/p1501/300/200,4.78,868,Fast dual-band WiFi router with parental controls.
+502,p1502,HP InkJet 1502 - Wireless Printing,HP,printer,16896,19878,15,https://picsum.photos/seed/p1502/300/200,4.82,2661,Reliable home-office printer with low-cost cartridges.
+503,p1503,Sony Game Console 1503 - 1TB,Sony,gaming_console,45772,50858,10,https://picsum.photos/seed/p1503/300/200,3.36,2090,Next-gen console delivering immersive gaming experiences.
+504,p1504,"Samsung Tab 1504 - 10.5"" Display, 64GB",Samsung,tablet,21281,23646,10,https://picsum.photos/seed/p1504/300/200,4.56,2540,Portable tablet ideal for media and light productivity.
+505,p1505,Sony Game Console 1505 - 1TB,Sony,gaming_console,27706,32595,15,https://picsum.photos/seed/p1505/300/200,3.92,3461,Next-gen console delivering immersive gaming experiences.
+506,p1506,Epson InkJet 1506 - Wireless Printing,Epson,printer,17160,20188,15,https://picsum.photos/seed/p1506/300/200,3.34,3835,Reliable home-office printer with low-cost cartridges.
+507,p1507,TP-Link AC1815 Router 1507,TP-Link,router,8560,10070,15,https://picsum.photos/seed/p1507/300/200,3.33,369,Fast dual-band WiFi router with parental controls.
+508,p1508,Sony Wireless Headphones 1508,Sony,headphones,6358,6358,0,https://picsum.photos/seed/p1508/300/200,4.46,3791,Comfortable headphones with active noise cancellation.
+509,p1509,"Samsung Tab 1509 - 10.5"" Display, 64GB",Samsung,tablet,64086,67459,5,https://picsum.photos/seed/p1509/300/200,4.84,1533,Portable tablet ideal for media and light productivity.
+510,p1510,"Sony Smart TV 1510 - 4K UHD, 43""",Sony,tv,120345,133717,10,https://picsum.photos/seed/p1510/300/200,3.98,3318,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+511,p1511,Nintendo Game Console 1511 - 1TB,Nintendo,gaming_console,23854,23854,0,https://picsum.photos/seed/p1511/300/200,3.39,130,Next-gen console delivering immersive gaming experiences.
+512,p1512,"Samsung Smart TV 1512 - 4K UHD, 50""",Samsung,tv,120815,134239,10,https://picsum.photos/seed/p1512/300/200,3.45,3456,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+513,p1513,"HP UltraBook 1513 - 16GB RAM, 512GB SSD",HP,laptop,67963,79956,15,https://picsum.photos/seed/p1513/300/200,4.61,3209,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+514,p1514,"Lenovo UltraBook 1514 - 16GB RAM, 512GB SSD",Lenovo,laptop,137871,153190,10,https://picsum.photos/seed/p1514/300/200,4.03,4841,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+515,p1515,Nintendo Game Console 1515 - 1TB,Nintendo,gaming_console,51738,57487,10,https://picsum.photos/seed/p1515/300/200,3.4,2840,Next-gen console delivering immersive gaming experiences.
+516,p1516,"Asus Curved Monitor 1516 - 27""",Asus,monitor,39205,41268,5,https://picsum.photos/seed/p1516/300/200,4.77,3837,High-refresh IPS panel with thin bezels and adaptive-sync.
+517,p1517,"Lenovo Tab 1517 - 10.5"" Display, 64GB",Lenovo,tablet,51406,54112,5,https://picsum.photos/seed/p1517/300/200,4.37,706,Portable tablet ideal for media and light productivity.
+518,p1518,"LG Curved Monitor 1518 - 27""",LG,monitor,27900,27900,0,https://picsum.photos/seed/p1518/300/200,4.9,2939,High-refresh IPS panel with thin bezels and adaptive-sync.
+519,p1519,"Sony Mirrorless 1519 - 24MP, 4K Video",Sony,camera,69267,69267,0,https://picsum.photos/seed/p1519/300/200,4.03,2787,High quality imaging for enthusiasts and vloggers.
+520,p1520,HP InkJet 1520 - Wireless Printing,HP,printer,26937,26937,0,https://picsum.photos/seed/p1520/300/200,4.86,4994,Reliable home-office printer with low-cost cartridges.
+521,p1521,"Oppo X1521 - 8GB RAM, 128GB Storage",Oppo,smartphone,26906,29895,10,https://picsum.photos/seed/p1521/300/200,4.45,813,High-performance smartphone with excellent camera and display.
+522,p1522,"Lenovo Tab 1522 - 10.5"" Display, 64GB",Lenovo,tablet,62332,65613,5,https://picsum.photos/seed/p1522/300/200,3.69,1402,Portable tablet ideal for media and light productivity.
+523,p1523,"Xiaomi X1523 - 8GB RAM, 128GB Storage",Xiaomi,smartphone,49743,55270,10,https://picsum.photos/seed/p1523/300/200,3.9,3353,High-performance smartphone with excellent camera and display.
+524,p1524,"Samsung Curved Monitor 1524 - 27""",Samsung,monitor,27154,30171,10,https://picsum.photos/seed/p1524/300/200,3.3,303,High-refresh IPS panel with thin bezels and adaptive-sync.
+525,p1525,"Apple Tab 1525 - 10.5"" Display, 64GB",Apple,tablet,53130,55926,5,https://picsum.photos/seed/p1525/300/200,4.73,5000,Portable tablet ideal for media and light productivity.
+526,p1526,"Xiaomi Tab 1526 - 10.5"" Display, 64GB",Xiaomi,tablet,50918,50918,0,https://picsum.photos/seed/p1526/300/200,3.26,2740,Portable tablet ideal for media and light productivity.
+527,p1527,Netgear AC2265 Router 1527,Netgear,router,8535,10041,15,https://picsum.photos/seed/p1527/300/200,4.21,1977,Fast dual-band WiFi router with parental controls.
+528,p1528,"Fujifilm Mirrorless 1528 - 24MP, 4K Video",Fujifilm,camera,96462,107180,10,https://picsum.photos/seed/p1528/300/200,3.71,42,High quality imaging for enthusiasts and vloggers.
+529,p1529,"Samsung Curved Monitor 1529 - 27""",Samsung,monitor,51707,51707,0,https://picsum.photos/seed/p1529/300/200,3.38,4230,High-refresh IPS panel with thin bezels and adaptive-sync.
+530,p1530,Sony Game Console 1530 - 1TB,Sony,gaming_console,38560,42845,10,https://picsum.photos/seed/p1530/300/200,3.57,639,Next-gen console delivering immersive gaming experiences.
+531,p1531,Epson InkJet 1531 - Wireless Printing,Epson,printer,19210,21345,10,https://picsum.photos/seed/p1531/300/200,4.6,1182,Reliable home-office printer with low-cost cartridges.
+532,p1532,Bose Wireless Headphones 1532,Bose,headphones,14935,14935,0,https://picsum.photos/seed/p1532/300/200,4.47,4579,Comfortable headphones with active noise cancellation.
+533,p1533,HP InkJet 1533 - Wireless Printing,HP,printer,21024,22130,5,https://picsum.photos/seed/p1533/300/200,3.7,229,Reliable home-office printer with low-cost cartridges.
+534,p1534,"Samsung Tab 1534 - 10.5"" Display, 64GB",Samsung,tablet,24128,24128,0,https://picsum.photos/seed/p1534/300/200,4.68,3420,Portable tablet ideal for media and light productivity.
+535,p1535,"Samsung Curved Monitor 1535 - 27""",Samsung,monitor,15033,16703,10,https://picsum.photos/seed/p1535/300/200,4.49,3678,High-refresh IPS panel with thin bezels and adaptive-sync.
+536,p1536,"Lenovo Tab 1536 - 10.5"" Display, 64GB",Lenovo,tablet,25258,25258,0,https://picsum.photos/seed/p1536/300/200,4.67,203,Portable tablet ideal for media and light productivity.
+537,p1537,Nintendo Game Console 1537 - 1TB,Nintendo,gaming_console,52371,52371,0,https://picsum.photos/seed/p1537/300/200,4.48,4117,Next-gen console delivering immersive gaming experiences.
+538,p1538,"HP UltraBook 1538 - 16GB RAM, 512GB SSD",HP,laptop,38227,44973,15,https://picsum.photos/seed/p1538/300/200,3.74,4824,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+539,p1539,"Asus UltraBook 1539 - 16GB RAM, 512GB SSD",Asus,laptop,154561,154561,0,https://picsum.photos/seed/p1539/300/200,4.12,2337,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+540,p1540,"Samsung Tab 1540 - 10.5"" Display, 64GB",Samsung,tablet,30106,30106,0,https://picsum.photos/seed/p1540/300/200,3.71,808,Portable tablet ideal for media and light productivity.
+541,p1541,HP InkJet 1541 - Wireless Printing,HP,printer,9891,11637,15,https://picsum.photos/seed/p1541/300/200,3.85,942,Reliable home-office printer with low-cost cartridges.
+542,p1542,"Canon Mirrorless 1542 - 24MP, 4K Video",Canon,camera,78411,78411,0,https://picsum.photos/seed/p1542/300/200,3.62,4544,High quality imaging for enthusiasts and vloggers.
+543,p1543,"Lenovo Tab 1543 - 10.5"" Display, 64GB",Lenovo,tablet,46500,51667,10,https://picsum.photos/seed/p1543/300/200,4.83,4547,Portable tablet ideal for media and light productivity.
+544,p1544,"Dell Curved Monitor 1544 - 27""",Dell,monitor,11346,11943,5,https://picsum.photos/seed/p1544/300/200,4.63,3114,High-refresh IPS panel with thin bezels and adaptive-sync.
+545,p1545,Epson InkJet 1545 - Wireless Printing,Epson,printer,22501,22501,0,https://picsum.photos/seed/p1545/300/200,4.61,4558,Reliable home-office printer with low-cost cartridges.
+546,p1546,"Fujifilm Mirrorless 1546 - 24MP, 4K Video",Fujifilm,camera,141470,148916,5,https://picsum.photos/seed/p1546/300/200,3.78,3766,High quality imaging for enthusiasts and vloggers.
+547,p1547,Microsoft Game Console 1547 - 1TB,Microsoft,gaming_console,37869,42077,10,https://picsum.photos/seed/p1547/300/200,4.5,4408,Next-gen console delivering immersive gaming experiences.
+548,p1548,"Oppo X1548 - 8GB RAM, 128GB Storage",Oppo,smartphone,105356,117062,10,https://picsum.photos/seed/p1548/300/200,3.5,69,High-performance smartphone with excellent camera and display.
+549,p1549,"Realme X1549 - 8GB RAM, 128GB Storage",Realme,smartphone,56330,66271,15,https://picsum.photos/seed/p1549/300/200,4.26,1811,High-performance smartphone with excellent camera and display.
+550,p1550,"Xiaomi Smart TV 1550 - 4K UHD, 55""",Xiaomi,tv,152036,178866,15,https://picsum.photos/seed/p1550/300/200,4.05,1396,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+551,p1551,Bose Wireless Headphones 1551,Bose,headphones,18978,18978,0,https://picsum.photos/seed/p1551/300/200,4.89,4365,Comfortable headphones with active noise cancellation.
+552,p1552,Microsoft Game Console 1552 - 1TB,Microsoft,gaming_console,28015,32959,15,https://picsum.photos/seed/p1552/300/200,3.99,2961,Next-gen console delivering immersive gaming experiences.
+553,p1553,Sony Wireless Headphones 1553,Sony,headphones,22935,22935,0,https://picsum.photos/seed/p1553/300/200,4.88,1848,Comfortable headphones with active noise cancellation.
+554,p1554,TP-Link AC1603 Router 1554,TP-Link,router,2621,3084,15,https://picsum.photos/seed/p1554/300/200,4.56,2738,Fast dual-band WiFi router with parental controls.
+555,p1555,"Nikon Mirrorless 1555 - 24MP, 4K Video",Nikon,camera,119424,132693,10,https://picsum.photos/seed/p1555/300/200,4.5,3657,High quality imaging for enthusiasts and vloggers.
+556,p1556,Sony Game Console 1556 - 1TB,Sony,gaming_console,19063,19063,0,https://picsum.photos/seed/p1556/300/200,3.71,3537,Next-gen console delivering immersive gaming experiences.
+557,p1557,"Samsung X1557 - 8GB RAM, 128GB Storage",Samsung,smartphone,39657,46655,15,https://picsum.photos/seed/p1557/300/200,3.22,3145,High-performance smartphone with excellent camera and display.
+558,p1558,"Asus Curved Monitor 1558 - 27""",Asus,monitor,14729,14729,0,https://picsum.photos/seed/p1558/300/200,4.21,1586,High-refresh IPS panel with thin bezels and adaptive-sync.
+559,p1559,Sony Game Console 1559 - 1TB,Sony,gaming_console,18016,18964,5,https://picsum.photos/seed/p1559/300/200,4.19,4203,Next-gen console delivering immersive gaming experiences.
+560,p1560,Canon InkJet 1560 - Wireless Printing,Canon,printer,14522,17085,15,https://picsum.photos/seed/p1560/300/200,4.59,4583,Reliable home-office printer with low-cost cartridges.
+561,p1561,"Asus UltraBook 1561 - 16GB RAM, 512GB SSD",Asus,laptop,87900,92526,5,https://picsum.photos/seed/p1561/300/200,4.65,4637,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+562,p1562,Epson InkJet 1562 - Wireless Printing,Epson,printer,30860,30860,0,https://picsum.photos/seed/p1562/300/200,4.38,3821,Reliable home-office printer with low-cost cartridges.
+563,p1563,Sony Game Console 1563 - 1TB,Sony,gaming_console,14866,15648,5,https://picsum.photos/seed/p1563/300/200,3.25,943,Next-gen console delivering immersive gaming experiences.
+564,p1564,"Lenovo Tab 1564 - 10.5"" Display, 64GB",Lenovo,tablet,10153,11945,15,https://picsum.photos/seed/p1564/300/200,3.62,1605,Portable tablet ideal for media and light productivity.
+565,p1565,"Dell UltraBook 1565 - 16GB RAM, 512GB SSD",Dell,laptop,63200,66526,5,https://picsum.photos/seed/p1565/300/200,3.98,3028,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+566,p1566,Epson InkJet 1566 - Wireless Printing,Epson,printer,28296,28296,0,https://picsum.photos/seed/p1566/300/200,4.11,3065,Reliable home-office printer with low-cost cartridges.
+567,p1567,Epson InkJet 1567 - Wireless Printing,Epson,printer,11196,11196,0,https://picsum.photos/seed/p1567/300/200,4.27,2294,Reliable home-office printer with low-cost cartridges.
+568,p1568,"Xiaomi Tab 1568 - 10.5"" Display, 64GB",Xiaomi,tablet,38803,40845,5,https://picsum.photos/seed/p1568/300/200,4.05,3803,Portable tablet ideal for media and light productivity.
+569,p1569,"Lenovo Tab 1569 - 10.5"" Display, 64GB",Lenovo,tablet,42426,42426,0,https://picsum.photos/seed/p1569/300/200,3.97,1920,Portable tablet ideal for media and light productivity.
+570,p1570,TP-Link AC2070 Router 1570,TP-Link,router,2455,2888,15,https://picsum.photos/seed/p1570/300/200,3.8,4783,Fast dual-band WiFi router with parental controls.
+571,p1571,"Asus UltraBook 1571 - 16GB RAM, 512GB SSD",Asus,laptop,158266,158266,0,https://picsum.photos/seed/p1571/300/200,3.95,2175,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+572,p1572,"Xiaomi X1572 - 8GB RAM, 128GB Storage",Xiaomi,smartphone,71451,75212,5,https://picsum.photos/seed/p1572/300/200,3.27,1640,High-performance smartphone with excellent camera and display.
+573,p1573,HP InkJet 1573 - Wireless Printing,HP,printer,13993,13993,0,https://picsum.photos/seed/p1573/300/200,4.51,2308,Reliable home-office printer with low-cost cartridges.
+574,p1574,Canon InkJet 1574 - Wireless Printing,Canon,printer,9891,9891,0,https://picsum.photos/seed/p1574/300/200,4.08,4527,Reliable home-office printer with low-cost cartridges.
+575,p1575,"Asus Curved Monitor 1575 - 27""",Asus,monitor,30067,35373,15,https://picsum.photos/seed/p1575/300/200,3.25,1138,High-refresh IPS panel with thin bezels and adaptive-sync.
+576,p1576,Sony Game Console 1576 - 1TB,Sony,gaming_console,38609,42899,10,https://picsum.photos/seed/p1576/300/200,4.5,4404,Next-gen console delivering immersive gaming experiences.
+577,p1577,"Sony Mirrorless 1577 - 24MP, 4K Video",Sony,camera,89526,99473,10,https://picsum.photos/seed/p1577/300/200,3.31,3165,High quality imaging for enthusiasts and vloggers.
+578,p1578,"Xiaomi Smart TV 1578 - 4K UHD, 43""",Xiaomi,tv,84881,99860,15,https://picsum.photos/seed/p1578/300/200,4.03,1529,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+579,p1579,"Samsung Smart TV 1579 - 4K UHD, 65""",Samsung,tv,192902,192902,0,https://picsum.photos/seed/p1579/300/200,3.76,3365,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+580,p1580,TP-Link AC1464 Router 1580,TP-Link,router,4394,4882,10,https://picsum.photos/seed/p1580/300/200,3.47,4711,Fast dual-band WiFi router with parental controls.
+581,p1581,"Nikon Mirrorless 1581 - 24MP, 4K Video",Nikon,camera,28376,33384,15,https://picsum.photos/seed/p1581/300/200,4.69,3769,High quality imaging for enthusiasts and vloggers.
+582,p1582,"Dell Curved Monitor 1582 - 27""",Dell,monitor,16555,19477,15,https://picsum.photos/seed/p1582/300/200,4.45,3750,High-refresh IPS panel with thin bezels and adaptive-sync.
+583,p1583,Netgear AC2630 Router 1583,Netgear,router,4087,4087,0,https://picsum.photos/seed/p1583/300/200,4.74,3369,Fast dual-band WiFi router with parental controls.
+584,p1584,Sony Wireless Headphones 1584,Sony,headphones,13131,14590,10,https://picsum.photos/seed/p1584/300/200,3.25,3783,Comfortable headphones with active noise cancellation.
+585,p1585,D-Link AC2952 Router 1585,D-Link,router,11805,13117,10,https://picsum.photos/seed/p1585/300/200,3.98,676,Fast dual-band WiFi router with parental controls.
+586,p1586,Bose Wireless Headphones 1586,Bose,headphones,7587,7587,0,https://picsum.photos/seed/p1586/300/200,4.11,3201,Comfortable headphones with active noise cancellation.
+587,p1587,"Apple Tab 1587 - 10.5"" Display, 64GB",Apple,tablet,38878,38878,0,https://picsum.photos/seed/p1587/300/200,4.62,4283,Portable tablet ideal for media and light productivity.
+588,p1588,"Realme X1588 - 8GB RAM, 128GB Storage",Realme,smartphone,86407,86407,0,https://picsum.photos/seed/p1588/300/200,3.36,3454,High-performance smartphone with excellent camera and display.
+589,p1589,"HP UltraBook 1589 - 16GB RAM, 512GB SSD",HP,laptop,81334,90371,10,https://picsum.photos/seed/p1589/300/200,4.07,2679,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+590,p1590,Epson InkJet 1590 - Wireless Printing,Epson,printer,12615,12615,0,https://picsum.photos/seed/p1590/300/200,3.88,2590,Reliable home-office printer with low-cost cartridges.
+591,p1591,"Asus UltraBook 1591 - 16GB RAM, 512GB SSD",Asus,laptop,92811,97696,5,https://picsum.photos/seed/p1591/300/200,4.5,4092,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+592,p1592,"Vivo X1592 - 8GB RAM, 128GB Storage",Vivo,smartphone,82294,86625,5,https://picsum.photos/seed/p1592/300/200,4.86,3949,High-performance smartphone with excellent camera and display.
+593,p1593,"Xiaomi X1593 - 8GB RAM, 128GB Storage",Xiaomi,smartphone,49400,58118,15,https://picsum.photos/seed/p1593/300/200,4.49,1016,High-performance smartphone with excellent camera and display.
+594,p1594,"Nikon Mirrorless 1594 - 24MP, 4K Video",Nikon,camera,43029,43029,0,https://picsum.photos/seed/p1594/300/200,4.29,1950,High quality imaging for enthusiasts and vloggers.
+595,p1595,Microsoft Game Console 1595 - 1TB,Microsoft,gaming_console,15724,16552,5,https://picsum.photos/seed/p1595/300/200,3.78,1686,Next-gen console delivering immersive gaming experiences.
+596,p1596,Sony Wireless Headphones 1596,Sony,headphones,1396,1396,0,https://picsum.photos/seed/p1596/300/200,4.82,426,Comfortable headphones with active noise cancellation.
+597,p1597,"Samsung Tab 1597 - 10.5"" Display, 64GB",Samsung,tablet,45969,45969,0,https://picsum.photos/seed/p1597/300/200,3.62,1445,Portable tablet ideal for media and light productivity.
+598,p1598,Sony Game Console 1598 - 1TB,Sony,gaming_console,41099,41099,0,https://picsum.photos/seed/p1598/300/200,4.0,3462,Next-gen console delivering immersive gaming experiences.
+599,p1599,Boat Wireless Headphones 1599,Boat,headphones,5486,6454,15,https://picsum.photos/seed/p1599/300/200,3.46,1439,Comfortable headphones with active noise cancellation.
+600,p1600,"Fujifilm Mirrorless 1600 - 24MP, 4K Video",Fujifilm,camera,104432,104432,0,https://picsum.photos/seed/p1600/300/200,4.76,34,High quality imaging for enthusiasts and vloggers.
+601,p1601,"MSI UltraBook 1601 - 16GB RAM, 512GB SSD",MSI,laptop,146051,146051,0,https://picsum.photos/seed/p1601/300/200,3.85,4633,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+602,p1602,"Samsung Tab 1602 - 10.5"" Display, 64GB",Samsung,tablet,62856,69840,10,https://picsum.photos/seed/p1602/300/200,4.78,2021,Portable tablet ideal for media and light productivity.
+603,p1603,"Xiaomi Smart TV 1603 - 4K UHD, 43""",Xiaomi,tv,177588,197320,10,https://picsum.photos/seed/p1603/300/200,4.81,1207,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+604,p1604,"Nikon Mirrorless 1604 - 24MP, 4K Video",Nikon,camera,106445,118272,10,https://picsum.photos/seed/p1604/300/200,3.48,3496,High quality imaging for enthusiasts and vloggers.
+605,p1605,"Sony Mirrorless 1605 - 24MP, 4K Video",Sony,camera,39322,39322,0,https://picsum.photos/seed/p1605/300/200,4.78,3260,High quality imaging for enthusiasts and vloggers.
+606,p1606,"Canon Mirrorless 1606 - 24MP, 4K Video",Canon,camera,113774,126416,10,https://picsum.photos/seed/p1606/300/200,3.49,3069,High quality imaging for enthusiasts and vloggers.
+607,p1607,"Samsung Tab 1607 - 10.5"" Display, 64GB",Samsung,tablet,17224,17224,0,https://picsum.photos/seed/p1607/300/200,3.64,3348,Portable tablet ideal for media and light productivity.
+608,p1608,"Dell Curved Monitor 1608 - 27""",Dell,monitor,9944,9944,0,https://picsum.photos/seed/p1608/300/200,3.22,2179,High-refresh IPS panel with thin bezels and adaptive-sync.
+609,p1609,"Apple UltraBook 1609 - 16GB RAM, 512GB SSD",Apple,laptop,90564,95330,5,https://picsum.photos/seed/p1609/300/200,4.23,2757,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+610,p1610,Epson InkJet 1610 - Wireless Printing,Epson,printer,22513,25014,10,https://picsum.photos/seed/p1610/300/200,4.68,3291,Reliable home-office printer with low-cost cartridges.
+611,p1611,"Apple Tab 1611 - 10.5"" Display, 64GB",Apple,tablet,55827,55827,0,https://picsum.photos/seed/p1611/300/200,3.21,2639,Portable tablet ideal for media and light productivity.
+612,p1612,"Apple UltraBook 1612 - 16GB RAM, 512GB SSD",Apple,laptop,44195,51994,15,https://picsum.photos/seed/p1612/300/200,4.55,2853,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+613,p1613,D-Link AC2703 Router 1613,D-Link,router,9018,10020,10,https://picsum.photos/seed/p1613/300/200,4.55,2468,Fast dual-band WiFi router with parental controls.
+614,p1614,Sennheiser Wireless Headphones 1614,Sennheiser,headphones,12169,12169,0,https://picsum.photos/seed/p1614/300/200,3.38,239,Comfortable headphones with active noise cancellation.
+615,p1615,"Lenovo Tab 1615 - 10.5"" Display, 64GB",Lenovo,tablet,51418,57131,10,https://picsum.photos/seed/p1615/300/200,3.35,2726,Portable tablet ideal for media and light productivity.
+616,p1616,"Samsung Smart TV 1616 - 4K UHD, 55""",Samsung,tv,158933,167298,5,https://picsum.photos/seed/p1616/300/200,3.35,730,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+617,p1617,Epson InkJet 1617 - Wireless Printing,Epson,printer,12978,15268,15,https://picsum.photos/seed/p1617/300/200,4.11,3179,Reliable home-office printer with low-cost cartridges.
+618,p1618,D-Link AC2833 Router 1618,D-Link,router,3084,3246,5,https://picsum.photos/seed/p1618/300/200,3.45,2431,Fast dual-band WiFi router with parental controls.
+619,p1619,"Xiaomi Smart TV 1619 - 4K UHD, 65""",Xiaomi,tv,194417,194417,0,https://picsum.photos/seed/p1619/300/200,3.66,4701,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+620,p1620,"LG Curved Monitor 1620 - 27""",LG,monitor,19622,21802,10,https://picsum.photos/seed/p1620/300/200,4.44,2450,High-refresh IPS panel with thin bezels and adaptive-sync.
+621,p1621,"Apple Tab 1621 - 10.5"" Display, 64GB",Apple,tablet,41026,41026,0,https://picsum.photos/seed/p1621/300/200,4.39,4489,Portable tablet ideal for media and light productivity.
+622,p1622,TP-Link AC1862 Router 1622,TP-Link,router,3763,4181,10,https://picsum.photos/seed/p1622/300/200,3.69,1186,Fast dual-band WiFi router with parental controls.
+623,p1623,"Sony Smart TV 1623 - 4K UHD, 50""",Sony,tv,170911,170911,0,https://picsum.photos/seed/p1623/300/200,4.77,786,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+624,p1624,Canon InkJet 1624 - Wireless Printing,Canon,printer,24444,24444,0,https://picsum.photos/seed/p1624/300/200,3.61,4002,Reliable home-office printer with low-cost cartridges.
+625,p1625,"Nikon Mirrorless 1625 - 24MP, 4K Video",Nikon,camera,75082,75082,0,https://picsum.photos/seed/p1625/300/200,3.4,999,High quality imaging for enthusiasts and vloggers.
+626,p1626,"LG Curved Monitor 1626 - 27""",LG,monitor,29847,33163,10,https://picsum.photos/seed/p1626/300/200,3.71,1025,High-refresh IPS panel with thin bezels and adaptive-sync.
+627,p1627,"Xiaomi X1627 - 8GB RAM, 128GB Storage",Xiaomi,smartphone,51958,61127,15,https://picsum.photos/seed/p1627/300/200,4.12,1016,High-performance smartphone with excellent camera and display.
+628,p1628,"Samsung Smart TV 1628 - 4K UHD, 50""",Samsung,tv,137239,137239,0,https://picsum.photos/seed/p1628/300/200,3.35,2103,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+629,p1629,"HP UltraBook 1629 - 16GB RAM, 512GB SSD",HP,laptop,112356,118270,5,https://picsum.photos/seed/p1629/300/200,4.32,3644,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+630,p1630,"Xiaomi Tab 1630 - 10.5"" Display, 64GB",Xiaomi,tablet,45272,45272,0,https://picsum.photos/seed/p1630/300/200,3.44,1763,Portable tablet ideal for media and light productivity.
+631,p1631,"Samsung Tab 1631 - 10.5"" Display, 64GB",Samsung,tablet,45705,50783,10,https://picsum.photos/seed/p1631/300/200,3.98,2082,Portable tablet ideal for media and light productivity.
+632,p1632,Netgear AC2297 Router 1632,Netgear,router,10265,12077,15,https://picsum.photos/seed/p1632/300/200,4.23,3438,Fast dual-band WiFi router with parental controls.
+633,p1633,"Lenovo Tab 1633 - 10.5"" Display, 64GB",Lenovo,tablet,26220,26220,0,https://picsum.photos/seed/p1633/300/200,3.82,2732,Portable tablet ideal for media and light productivity.
+634,p1634,"Nikon Mirrorless 1634 - 24MP, 4K Video",Nikon,camera,70897,74628,5,https://picsum.photos/seed/p1634/300/200,4.2,4010,High quality imaging for enthusiasts and vloggers.
+635,p1635,"Apple X1635 - 8GB RAM, 128GB Storage",Apple,smartphone,76276,80291,5,https://picsum.photos/seed/p1635/300/200,4.57,4355,High-performance smartphone with excellent camera and display.
+636,p1636,Boat Wireless Headphones 1636,Boat,headphones,9832,10350,5,https://picsum.photos/seed/p1636/300/200,3.29,3032,Comfortable headphones with active noise cancellation.
+637,p1637,"Xiaomi Smart TV 1637 - 4K UHD, 65""",Xiaomi,tv,142857,142857,0,https://picsum.photos/seed/p1637/300/200,4.81,3330,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+638,p1638,HP InkJet 1638 - Wireless Printing,HP,printer,6605,7771,15,https://picsum.photos/seed/p1638/300/200,4.79,1117,Reliable home-office printer with low-cost cartridges.
+639,p1639,"Asus Curved Monitor 1639 - 27""",Asus,monitor,36564,43017,15,https://picsum.photos/seed/p1639/300/200,4.36,346,High-refresh IPS panel with thin bezels and adaptive-sync.
+640,p1640,Microsoft Game Console 1640 - 1TB,Microsoft,gaming_console,16502,18336,10,https://picsum.photos/seed/p1640/300/200,3.84,3057,Next-gen console delivering immersive gaming experiences.
+641,p1641,"Xiaomi X1641 - 8GB RAM, 128GB Storage",Xiaomi,smartphone,39116,46019,15,https://picsum.photos/seed/p1641/300/200,4.6,290,High-performance smartphone with excellent camera and display.
+642,p1642,"Asus Curved Monitor 1642 - 27""",Asus,monitor,7920,8337,5,https://picsum.photos/seed/p1642/300/200,3.22,3529,High-refresh IPS panel with thin bezels and adaptive-sync.
+643,p1643,"LG Curved Monitor 1643 - 27""",LG,monitor,16379,18199,10,https://picsum.photos/seed/p1643/300/200,3.84,2985,High-refresh IPS panel with thin bezels and adaptive-sync.
+644,p1644,TP-Link AC1422 Router 1644,TP-Link,router,7295,7295,0,https://picsum.photos/seed/p1644/300/200,3.39,2333,Fast dual-band WiFi router with parental controls.
+645,p1645,"Dell UltraBook 1645 - 16GB RAM, 512GB SSD",Dell,laptop,107801,126825,15,https://picsum.photos/seed/p1645/300/200,4.04,1043,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+646,p1646,Canon InkJet 1646 - Wireless Printing,Canon,printer,10096,10096,0,https://picsum.photos/seed/p1646/300/200,4.35,2802,Reliable home-office printer with low-cost cartridges.
+647,p1647,Netgear AC2089 Router 1647,Netgear,router,8527,8527,0,https://picsum.photos/seed/p1647/300/200,3.68,942,Fast dual-band WiFi router with parental controls.
+648,p1648,"Nikon Mirrorless 1648 - 24MP, 4K Video",Nikon,camera,116900,116900,0,https://picsum.photos/seed/p1648/300/200,3.59,1083,High quality imaging for enthusiasts and vloggers.
+649,p1649,TP-Link AC1593 Router 1649,TP-Link,router,2334,2334,0,https://picsum.photos/seed/p1649/300/200,3.58,3490,Fast dual-band WiFi router with parental controls.
+650,p1650,"Dell Curved Monitor 1650 - 27""",Dell,monitor,54634,54634,0,https://picsum.photos/seed/p1650/300/200,3.51,4,High-refresh IPS panel with thin bezels and adaptive-sync.
+651,p1651,"Apple UltraBook 1651 - 16GB RAM, 512GB SSD",Apple,laptop,109054,114794,5,https://picsum.photos/seed/p1651/300/200,3.39,111,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+652,p1652,Bose Wireless Headphones 1652,Bose,headphones,17176,19084,10,https://picsum.photos/seed/p1652/300/200,3.35,871,Comfortable headphones with active noise cancellation.
+653,p1653,"Apple Tab 1653 - 10.5"" Display, 64GB",Apple,tablet,50562,56180,10,https://picsum.photos/seed/p1653/300/200,4.88,1654,Portable tablet ideal for media and light productivity.
+654,p1654,Bose Wireless Headphones 1654,Bose,headphones,23763,23763,0,https://picsum.photos/seed/p1654/300/200,4.75,554,Comfortable headphones with active noise cancellation.
+655,p1655,"Asus Curved Monitor 1655 - 27""",Asus,monitor,45449,53469,15,https://picsum.photos/seed/p1655/300/200,4.68,614,High-refresh IPS panel with thin bezels and adaptive-sync.
+656,p1656,"Xiaomi Tab 1656 - 10.5"" Display, 64GB",Xiaomi,tablet,49794,49794,0,https://picsum.photos/seed/p1656/300/200,4.69,4200,Portable tablet ideal for media and light productivity.
+657,p1657,"Samsung Curved Monitor 1657 - 27""",Samsung,monitor,21541,22675,5,https://picsum.photos/seed/p1657/300/200,3.27,1213,High-refresh IPS panel with thin bezels and adaptive-sync.
+658,p1658,"Nikon Mirrorless 1658 - 24MP, 4K Video",Nikon,camera,90316,95070,5,https://picsum.photos/seed/p1658/300/200,3.75,4499,High quality imaging for enthusiasts and vloggers.
+659,p1659,"Nikon Mirrorless 1659 - 24MP, 4K Video",Nikon,camera,125347,131944,5,https://picsum.photos/seed/p1659/300/200,4.85,4402,High quality imaging for enthusiasts and vloggers.
+660,p1660,Sony Game Console 1660 - 1TB,Sony,gaming_console,36250,36250,0,https://picsum.photos/seed/p1660/300/200,4.19,3239,Next-gen console delivering immersive gaming experiences.
+661,p1661,"Xiaomi Tab 1661 - 10.5"" Display, 64GB",Xiaomi,tablet,16763,19721,15,https://picsum.photos/seed/p1661/300/200,4.03,1477,Portable tablet ideal for media and light productivity.
+662,p1662,"Canon Mirrorless 1662 - 24MP, 4K Video",Canon,camera,44659,49621,10,https://picsum.photos/seed/p1662/300/200,3.37,4315,High quality imaging for enthusiasts and vloggers.
+663,p1663,"Apple Tab 1663 - 10.5"" Display, 64GB",Apple,tablet,16350,17211,5,https://picsum.photos/seed/p1663/300/200,3.44,4912,Portable tablet ideal for media and light productivity.
+664,p1664,"MSI UltraBook 1664 - 16GB RAM, 512GB SSD",MSI,laptop,61088,67876,10,https://picsum.photos/seed/p1664/300/200,4.59,2518,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+665,p1665,Canon InkJet 1665 - Wireless Printing,Canon,printer,21672,22813,5,https://picsum.photos/seed/p1665/300/200,3.37,3402,Reliable home-office printer with low-cost cartridges.
+666,p1666,"Apple Tab 1666 - 10.5"" Display, 64GB",Apple,tablet,35256,35256,0,https://picsum.photos/seed/p1666/300/200,4.88,1839,Portable tablet ideal for media and light productivity.
+667,p1667,"Xiaomi X1667 - 8GB RAM, 128GB Storage",Xiaomi,smartphone,22336,23512,5,https://picsum.photos/seed/p1667/300/200,4.22,3483,High-performance smartphone with excellent camera and display.
+668,p1668,"Lenovo Tab 1668 - 10.5"" Display, 64GB",Lenovo,tablet,42718,42718,0,https://picsum.photos/seed/p1668/300/200,3.74,3199,Portable tablet ideal for media and light productivity.
+669,p1669,"Asus Curved Monitor 1669 - 27""",Asus,monitor,17927,19919,10,https://picsum.photos/seed/p1669/300/200,3.92,3391,High-refresh IPS panel with thin bezels and adaptive-sync.
+670,p1670,Nintendo Game Console 1670 - 1TB,Nintendo,gaming_console,34175,40206,15,https://picsum.photos/seed/p1670/300/200,4.42,4316,Next-gen console delivering immersive gaming experiences.
+671,p1671,Nintendo Game Console 1671 - 1TB,Nintendo,gaming_console,23755,23755,0,https://picsum.photos/seed/p1671/300/200,4.75,2956,Next-gen console delivering immersive gaming experiences.
+672,p1672,"Lenovo Tab 1672 - 10.5"" Display, 64GB",Lenovo,tablet,23810,23810,0,https://picsum.photos/seed/p1672/300/200,4.38,3479,Portable tablet ideal for media and light productivity.
+673,p1673,HP InkJet 1673 - Wireless Printing,HP,printer,10183,10183,0,https://picsum.photos/seed/p1673/300/200,3.33,4662,Reliable home-office printer with low-cost cartridges.
+674,p1674,TP-Link AC2162 Router 1674,TP-Link,router,13338,13338,0,https://picsum.photos/seed/p1674/300/200,3.69,1277,Fast dual-band WiFi router with parental controls.
+675,p1675,"Apple UltraBook 1675 - 16GB RAM, 512GB SSD",Apple,laptop,81228,85503,5,https://picsum.photos/seed/p1675/300/200,4.76,4111,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+676,p1676,"Nikon Mirrorless 1676 - 24MP, 4K Video",Nikon,camera,74487,74487,0,https://picsum.photos/seed/p1676/300/200,3.87,4581,High quality imaging for enthusiasts and vloggers.
+677,p1677,Sony Game Console 1677 - 1TB,Sony,gaming_console,57378,57378,0,https://picsum.photos/seed/p1677/300/200,3.66,855,Next-gen console delivering immersive gaming experiences.
+678,p1678,"Xiaomi X1678 - 8GB RAM, 128GB Storage",Xiaomi,smartphone,38241,44989,15,https://picsum.photos/seed/p1678/300/200,3.54,265,High-performance smartphone with excellent camera and display.
+679,p1679,"LG Smart TV 1679 - 4K UHD, 43""",LG,tv,139486,146827,5,https://picsum.photos/seed/p1679/300/200,4.83,4097,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+680,p1680,"LG Smart TV 1680 - 4K UHD, 65""",LG,tv,196864,196864,0,https://picsum.photos/seed/p1680/300/200,3.24,3130,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+681,p1681,"Dell Curved Monitor 1681 - 27""",Dell,monitor,55085,55085,0,https://picsum.photos/seed/p1681/300/200,4.51,1319,High-refresh IPS panel with thin bezels and adaptive-sync.
+682,p1682,Boat Wireless Headphones 1682,Boat,headphones,22443,26403,15,https://picsum.photos/seed/p1682/300/200,4.23,1248,Comfortable headphones with active noise cancellation.
+683,p1683,Nintendo Game Console 1683 - 1TB,Nintendo,gaming_console,42926,47696,10,https://picsum.photos/seed/p1683/300/200,3.73,2421,Next-gen console delivering immersive gaming experiences.
+684,p1684,"Apple Tab 1684 - 10.5"" Display, 64GB",Apple,tablet,14262,15847,10,https://picsum.photos/seed/p1684/300/200,4.31,1150,Portable tablet ideal for media and light productivity.
+685,p1685,"Apple X1685 - 8GB RAM, 128GB Storage",Apple,smartphone,38733,45568,15,https://picsum.photos/seed/p1685/300/200,4.82,3061,High-performance smartphone with excellent camera and display.
+686,p1686,"Vivo X1686 - 8GB RAM, 128GB Storage",Vivo,smartphone,42449,42449,0,https://picsum.photos/seed/p1686/300/200,4.65,2381,High-performance smartphone with excellent camera and display.
+687,p1687,TP-Link AC2948 Router 1687,TP-Link,router,6494,7216,10,https://picsum.photos/seed/p1687/300/200,3.39,1476,Fast dual-band WiFi router with parental controls.
+688,p1688,"Realme X1688 - 8GB RAM, 128GB Storage",Realme,smartphone,45977,51086,10,https://picsum.photos/seed/p1688/300/200,3.27,1275,High-performance smartphone with excellent camera and display.
+689,p1689,"LG Curved Monitor 1689 - 27""",LG,monitor,59744,59744,0,https://picsum.photos/seed/p1689/300/200,3.56,187,High-refresh IPS panel with thin bezels and adaptive-sync.
+690,p1690,D-Link AC2501 Router 1690,D-Link,router,2838,2838,0,https://picsum.photos/seed/p1690/300/200,4.34,2125,Fast dual-band WiFi router with parental controls.
+691,p1691,"Apple Tab 1691 - 10.5"" Display, 64GB",Apple,tablet,59360,59360,0,https://picsum.photos/seed/p1691/300/200,4.84,3578,Portable tablet ideal for media and light productivity.
+692,p1692,Epson InkJet 1692 - Wireless Printing,Epson,printer,7172,7549,5,https://picsum.photos/seed/p1692/300/200,3.22,3757,Reliable home-office printer with low-cost cartridges.
+693,p1693,"Xiaomi Tab 1693 - 10.5"" Display, 64GB",Xiaomi,tablet,44124,44124,0,https://picsum.photos/seed/p1693/300/200,3.26,1537,Portable tablet ideal for media and light productivity.
+694,p1694,Netgear AC2430 Router 1694,Netgear,router,12635,12635,0,https://picsum.photos/seed/p1694/300/200,3.71,2514,Fast dual-band WiFi router with parental controls.
+695,p1695,Sony Wireless Headphones 1695,Sony,headphones,20707,23008,10,https://picsum.photos/seed/p1695/300/200,3.93,1449,Comfortable headphones with active noise cancellation.
+696,p1696,Boat Wireless Headphones 1696,Boat,headphones,19562,19562,0,https://picsum.photos/seed/p1696/300/200,4.57,850,Comfortable headphones with active noise cancellation.
+697,p1697,"Vivo X1697 - 8GB RAM, 128GB Storage",Vivo,smartphone,21588,21588,0,https://picsum.photos/seed/p1697/300/200,4.34,3445,High-performance smartphone with excellent camera and display.
+698,p1698,"Sony Smart TV 1698 - 4K UHD, 65""",Sony,tv,128786,143096,10,https://picsum.photos/seed/p1698/300/200,3.21,3069,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+699,p1699,"LG Smart TV 1699 - 4K UHD, 55""",LG,tv,128715,128715,0,https://picsum.photos/seed/p1699/300/200,4.54,4251,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+700,p1700,Microsoft Game Console 1700 - 1TB,Microsoft,gaming_console,52870,52870,0,https://picsum.photos/seed/p1700/300/200,4.8,3198,Next-gen console delivering immersive gaming experiences.
+701,p1701,"Xiaomi Tab 1701 - 10.5"" Display, 64GB",Xiaomi,tablet,22622,25136,10,https://picsum.photos/seed/p1701/300/200,4.63,2131,Portable tablet ideal for media and light productivity.
+702,p1702,Bose Wireless Headphones 1702,Bose,headphones,9376,11030,15,https://picsum.photos/seed/p1702/300/200,4.77,645,Comfortable headphones with active noise cancellation.
+703,p1703,Microsoft Game Console 1703 - 1TB,Microsoft,gaming_console,29290,34459,15,https://picsum.photos/seed/p1703/300/200,4.63,3097,Next-gen console delivering immersive gaming experiences.
+704,p1704,"Canon Mirrorless 1704 - 24MP, 4K Video",Canon,camera,100937,100937,0,https://picsum.photos/seed/p1704/300/200,3.44,2146,High quality imaging for enthusiasts and vloggers.
+705,p1705,"Apple Tab 1705 - 10.5"" Display, 64GB",Apple,tablet,23629,23629,0,https://picsum.photos/seed/p1705/300/200,3.56,3439,Portable tablet ideal for media and light productivity.
+706,p1706,D-Link AC2855 Router 1706,D-Link,router,11692,12307,5,https://picsum.photos/seed/p1706/300/200,4.02,4915,Fast dual-band WiFi router with parental controls.
+707,p1707,Sony Wireless Headphones 1707,Sony,headphones,32810,34537,5,https://picsum.photos/seed/p1707/300/200,3.4,1777,Comfortable headphones with active noise cancellation.
+708,p1708,"Lenovo UltraBook 1708 - 16GB RAM, 512GB SSD",Lenovo,laptop,52593,61874,15,https://picsum.photos/seed/p1708/300/200,4.31,3826,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+709,p1709,"Asus Curved Monitor 1709 - 27""",Asus,monitor,22458,26421,15,https://picsum.photos/seed/p1709/300/200,3.73,1686,High-refresh IPS panel with thin bezels and adaptive-sync.
+710,p1710,"Asus Curved Monitor 1710 - 27""",Asus,monitor,34328,36135,5,https://picsum.photos/seed/p1710/300/200,4.73,526,High-refresh IPS panel with thin bezels and adaptive-sync.
+711,p1711,"LG Curved Monitor 1711 - 27""",LG,monitor,42766,42766,0,https://picsum.photos/seed/p1711/300/200,3.51,2643,High-refresh IPS panel with thin bezels and adaptive-sync.
+712,p1712,TP-Link AC1702 Router 1712,TP-Link,router,14271,14271,0,https://picsum.photos/seed/p1712/300/200,4.42,1751,Fast dual-band WiFi router with parental controls.
+713,p1713,"Samsung Curved Monitor 1713 - 27""",Samsung,monitor,14744,14744,0,https://picsum.photos/seed/p1713/300/200,4.18,3454,High-refresh IPS panel with thin bezels and adaptive-sync.
+714,p1714,D-Link AC1605 Router 1714,D-Link,router,5996,5996,0,https://picsum.photos/seed/p1714/300/200,4.22,4842,Fast dual-band WiFi router with parental controls.
+715,p1715,TP-Link AC1783 Router 1715,TP-Link,router,7705,9065,15,https://picsum.photos/seed/p1715/300/200,4.76,320,Fast dual-band WiFi router with parental controls.
+716,p1716,Epson InkJet 1716 - Wireless Printing,Epson,printer,12634,14863,15,https://picsum.photos/seed/p1716/300/200,4.52,4045,Reliable home-office printer with low-cost cartridges.
+717,p1717,Sony Game Console 1717 - 1TB,Sony,gaming_console,16919,16919,0,https://picsum.photos/seed/p1717/300/200,4.6,1136,Next-gen console delivering immersive gaming experiences.
+718,p1718,"Xiaomi X1718 - 8GB RAM, 128GB Storage",Xiaomi,smartphone,19536,19536,0,https://picsum.photos/seed/p1718/300/200,3.28,2492,High-performance smartphone with excellent camera and display.
+719,p1719,"Xiaomi X1719 - 8GB RAM, 128GB Storage",Xiaomi,smartphone,43377,43377,0,https://picsum.photos/seed/p1719/300/200,4.48,3385,High-performance smartphone with excellent camera and display.
+720,p1720,"Dell Curved Monitor 1720 - 27""",Dell,monitor,37652,39634,5,https://picsum.photos/seed/p1720/300/200,4.41,2891,High-refresh IPS panel with thin bezels and adaptive-sync.
+721,p1721,Bose Wireless Headphones 1721,Bose,headphones,28512,31680,10,https://picsum.photos/seed/p1721/300/200,3.38,1709,Comfortable headphones with active noise cancellation.
+722,p1722,Nintendo Game Console 1722 - 1TB,Nintendo,gaming_console,26404,29338,10,https://picsum.photos/seed/p1722/300/200,4.86,4206,Next-gen console delivering immersive gaming experiences.
+723,p1723,"Xiaomi Smart TV 1723 - 4K UHD, 50""",Xiaomi,tv,199900,199900,0,https://picsum.photos/seed/p1723/300/200,4.47,1970,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+724,p1724,"Asus UltraBook 1724 - 16GB RAM, 512GB SSD",Asus,laptop,47493,47493,0,https://picsum.photos/seed/p1724/300/200,3.46,4113,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+725,p1725,Netgear AC1308 Router 1725,Netgear,router,7767,7767,0,https://picsum.photos/seed/p1725/300/200,3.88,4866,Fast dual-band WiFi router with parental controls.
+726,p1726,"Fujifilm Mirrorless 1726 - 24MP, 4K Video",Fujifilm,camera,45713,53780,15,https://picsum.photos/seed/p1726/300/200,3.37,1855,High quality imaging for enthusiasts and vloggers.
+727,p1727,Nintendo Game Console 1727 - 1TB,Nintendo,gaming_console,35893,37782,5,https://picsum.photos/seed/p1727/300/200,4.4,2359,Next-gen console delivering immersive gaming experiences.
+728,p1728,"HP UltraBook 1728 - 16GB RAM, 512GB SSD",HP,laptop,148481,164979,10,https://picsum.photos/seed/p1728/300/200,3.44,104,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+729,p1729,"Asus Curved Monitor 1729 - 27""",Asus,monitor,8637,8637,0,https://picsum.photos/seed/p1729/300/200,4.03,2027,High-refresh IPS panel with thin bezels and adaptive-sync.
+730,p1730,"Dell Curved Monitor 1730 - 27""",Dell,monitor,40974,40974,0,https://picsum.photos/seed/p1730/300/200,3.72,2749,High-refresh IPS panel with thin bezels and adaptive-sync.
+731,p1731,"Asus Curved Monitor 1731 - 27""",Asus,monitor,26443,31109,15,https://picsum.photos/seed/p1731/300/200,4.02,2211,High-refresh IPS panel with thin bezels and adaptive-sync.
+732,p1732,Sony Wireless Headphones 1732,Sony,headphones,29227,29227,0,https://picsum.photos/seed/p1732/300/200,3.53,3094,Comfortable headphones with active noise cancellation.
+733,p1733,"Xiaomi X1733 - 8GB RAM, 128GB Storage",Xiaomi,smartphone,30931,30931,0,https://picsum.photos/seed/p1733/300/200,3.27,4260,High-performance smartphone with excellent camera and display.
+734,p1734,Epson InkJet 1734 - Wireless Printing,Epson,printer,8610,8610,0,https://picsum.photos/seed/p1734/300/200,4.09,2373,Reliable home-office printer with low-cost cartridges.
+735,p1735,Nintendo Game Console 1735 - 1TB,Nintendo,gaming_console,53867,53867,0,https://picsum.photos/seed/p1735/300/200,4.03,41,Next-gen console delivering immersive gaming experiences.
+736,p1736,D-Link AC1302 Router 1736,D-Link,router,9238,9724,5,https://picsum.photos/seed/p1736/300/200,3.44,1611,Fast dual-band WiFi router with parental controls.
+737,p1737,Netgear AC1795 Router 1737,Netgear,router,12616,12616,0,https://picsum.photos/seed/p1737/300/200,4.72,2474,Fast dual-band WiFi router with parental controls.
+738,p1738,Microsoft Game Console 1738 - 1TB,Microsoft,gaming_console,28246,31385,10,https://picsum.photos/seed/p1738/300/200,4.14,2466,Next-gen console delivering immersive gaming experiences.
+739,p1739,"Canon Mirrorless 1739 - 24MP, 4K Video",Canon,camera,121173,127551,5,https://picsum.photos/seed/p1739/300/200,4.06,2929,High quality imaging for enthusiasts and vloggers.
+740,p1740,"Samsung Curved Monitor 1740 - 27""",Samsung,monitor,49513,58251,15,https://picsum.photos/seed/p1740/300/200,4.74,1987,High-refresh IPS panel with thin bezels and adaptive-sync.
+741,p1741,Nintendo Game Console 1741 - 1TB,Nintendo,gaming_console,48948,48948,0,https://picsum.photos/seed/p1741/300/200,3.34,2213,Next-gen console delivering immersive gaming experiences.
+742,p1742,"Xiaomi X1742 - 8GB RAM, 128GB Storage",Xiaomi,smartphone,82113,82113,0,https://picsum.photos/seed/p1742/300/200,4.08,4604,High-performance smartphone with excellent camera and display.
+743,p1743,"LG Curved Monitor 1743 - 27""",LG,monitor,39782,39782,0,https://picsum.photos/seed/p1743/300/200,3.46,991,High-refresh IPS panel with thin bezels and adaptive-sync.
+744,p1744,Sony Wireless Headphones 1744,Sony,headphones,20655,20655,0,https://picsum.photos/seed/p1744/300/200,4.59,4478,Comfortable headphones with active noise cancellation.
+745,p1745,"Fujifilm Mirrorless 1745 - 24MP, 4K Video",Fujifilm,camera,37035,43571,15,https://picsum.photos/seed/p1745/300/200,3.54,3935,High quality imaging for enthusiasts and vloggers.
+746,p1746,"Sony Mirrorless 1746 - 24MP, 4K Video",Sony,camera,76273,76273,0,https://picsum.photos/seed/p1746/300/200,3.25,3744,High quality imaging for enthusiasts and vloggers.
+747,p1747,"Apple X1747 - 8GB RAM, 128GB Storage",Apple,smartphone,11220,12467,10,https://picsum.photos/seed/p1747/300/200,4.7,3754,High-performance smartphone with excellent camera and display.
+748,p1748,"Canon Mirrorless 1748 - 24MP, 4K Video",Canon,camera,143299,143299,0,https://picsum.photos/seed/p1748/300/200,3.8,4613,High quality imaging for enthusiasts and vloggers.
+749,p1749,Canon InkJet 1749 - Wireless Printing,Canon,printer,14736,17337,15,https://picsum.photos/seed/p1749/300/200,4.52,4304,Reliable home-office printer with low-cost cartridges.
+750,p1750,"Nikon Mirrorless 1750 - 24MP, 4K Video",Nikon,camera,33856,33856,0,https://picsum.photos/seed/p1750/300/200,4.05,3902,High quality imaging for enthusiasts and vloggers.
+751,p1751,HP InkJet 1751 - Wireless Printing,HP,printer,18764,18764,0,https://picsum.photos/seed/p1751/300/200,3.95,3066,Reliable home-office printer with low-cost cartridges.
+752,p1752,Nintendo Game Console 1752 - 1TB,Nintendo,gaming_console,25043,27826,10,https://picsum.photos/seed/p1752/300/200,3.94,2343,Next-gen console delivering immersive gaming experiences.
+753,p1753,"Sony Smart TV 1753 - 4K UHD, 50""",Sony,tv,70409,70409,0,https://picsum.photos/seed/p1753/300/200,4.72,2945,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+754,p1754,Netgear AC1897 Router 1754,Netgear,router,4384,4615,5,https://picsum.photos/seed/p1754/300/200,4.25,4576,Fast dual-band WiFi router with parental controls.
+755,p1755,"Apple Tab 1755 - 10.5"" Display, 64GB",Apple,tablet,47299,47299,0,https://picsum.photos/seed/p1755/300/200,3.29,4428,Portable tablet ideal for media and light productivity.
+756,p1756,HP InkJet 1756 - Wireless Printing,HP,printer,14218,16727,15,https://picsum.photos/seed/p1756/300/200,3.61,4241,Reliable home-office printer with low-cost cartridges.
+757,p1757,Nintendo Game Console 1757 - 1TB,Nintendo,gaming_console,15404,17115,10,https://picsum.photos/seed/p1757/300/200,3.64,2740,Next-gen console delivering immersive gaming experiences.
+758,p1758,"Dell UltraBook 1758 - 16GB RAM, 512GB SSD",Dell,laptop,113764,126405,10,https://picsum.photos/seed/p1758/300/200,4.22,660,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+759,p1759,Sennheiser Wireless Headphones 1759,Sennheiser,headphones,29279,29279,0,https://picsum.photos/seed/p1759/300/200,3.24,453,Comfortable headphones with active noise cancellation.
+760,p1760,"MSI UltraBook 1760 - 16GB RAM, 512GB SSD",MSI,laptop,125509,139454,10,https://picsum.photos/seed/p1760/300/200,4.13,946,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+761,p1761,"Dell Curved Monitor 1761 - 27""",Dell,monitor,39589,46575,15,https://picsum.photos/seed/p1761/300/200,4.17,122,High-refresh IPS panel with thin bezels and adaptive-sync.
+762,p1762,"Samsung Smart TV 1762 - 4K UHD, 43""",Samsung,tv,79968,94080,15,https://picsum.photos/seed/p1762/300/200,3.88,1002,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+763,p1763,"Samsung X1763 - 8GB RAM, 128GB Storage",Samsung,smartphone,69227,72871,5,https://picsum.photos/seed/p1763/300/200,4.68,2000,High-performance smartphone with excellent camera and display.
+764,p1764,JBL Wireless Headphones 1764,JBL,headphones,32864,32864,0,https://picsum.photos/seed/p1764/300/200,4.75,4267,Comfortable headphones with active noise cancellation.
+765,p1765,"LG Smart TV 1765 - 4K UHD, 50""",LG,tv,51493,57214,10,https://picsum.photos/seed/p1765/300/200,4.62,2214,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+766,p1766,"Fujifilm Mirrorless 1766 - 24MP, 4K Video",Fujifilm,camera,75323,75323,0,https://picsum.photos/seed/p1766/300/200,3.55,1510,High quality imaging for enthusiasts and vloggers.
+767,p1767,Netgear AC2552 Router 1767,Netgear,router,11473,11473,0,https://picsum.photos/seed/p1767/300/200,4.49,2793,Fast dual-band WiFi router with parental controls.
+768,p1768,Microsoft Game Console 1768 - 1TB,Microsoft,gaming_console,36360,42776,15,https://picsum.photos/seed/p1768/300/200,4.51,2130,Next-gen console delivering immersive gaming experiences.
+769,p1769,"Xiaomi Tab 1769 - 10.5"" Display, 64GB",Xiaomi,tablet,66013,69487,5,https://picsum.photos/seed/p1769/300/200,3.77,3232,Portable tablet ideal for media and light productivity.
+770,p1770,"Acer UltraBook 1770 - 16GB RAM, 512GB SSD",Acer,laptop,104928,110450,5,https://picsum.photos/seed/p1770/300/200,4.62,1464,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+771,p1771,"Asus Curved Monitor 1771 - 27""",Asus,monitor,22276,22276,0,https://picsum.photos/seed/p1771/300/200,3.67,4999,High-refresh IPS panel with thin bezels and adaptive-sync.
+772,p1772,JBL Wireless Headphones 1772,JBL,headphones,15904,15904,0,https://picsum.photos/seed/p1772/300/200,4.68,406,Comfortable headphones with active noise cancellation.
+773,p1773,"Samsung Smart TV 1773 - 4K UHD, 43""",Samsung,tv,103187,103187,0,https://picsum.photos/seed/p1773/300/200,4.35,2894,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+774,p1774,Sony Wireless Headphones 1774,Sony,headphones,13653,14372,5,https://picsum.photos/seed/p1774/300/200,4.61,3407,Comfortable headphones with active noise cancellation.
+775,p1775,"Vivo X1775 - 8GB RAM, 128GB Storage",Vivo,smartphone,24078,26753,10,https://picsum.photos/seed/p1775/300/200,4.8,2408,High-performance smartphone with excellent camera and display.
+776,p1776,Sony Game Console 1776 - 1TB,Sony,gaming_console,41204,48475,15,https://picsum.photos/seed/p1776/300/200,4.53,2818,Next-gen console delivering immersive gaming experiences.
+777,p1777,"Xiaomi Smart TV 1777 - 4K UHD, 43""",Xiaomi,tv,161659,190187,15,https://picsum.photos/seed/p1777/300/200,4.45,4415,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+778,p1778,"Oppo X1778 - 8GB RAM, 128GB Storage",Oppo,smartphone,94402,94402,0,https://picsum.photos/seed/p1778/300/200,4.56,2965,High-performance smartphone with excellent camera and display.
+779,p1779,"Xiaomi Smart TV 1779 - 4K UHD, 55""",Xiaomi,tv,116158,136656,15,https://picsum.photos/seed/p1779/300/200,3.33,2967,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+780,p1780,"LG Curved Monitor 1780 - 27""",LG,monitor,58885,58885,0,https://picsum.photos/seed/p1780/300/200,4.23,2350,High-refresh IPS panel with thin bezels and adaptive-sync.
+781,p1781,Canon InkJet 1781 - Wireless Printing,Canon,printer,21193,21193,0,https://picsum.photos/seed/p1781/300/200,3.48,3429,Reliable home-office printer with low-cost cartridges.
+782,p1782,"Fujifilm Mirrorless 1782 - 24MP, 4K Video",Fujifilm,camera,103900,115445,10,https://picsum.photos/seed/p1782/300/200,3.8,3295,High quality imaging for enthusiasts and vloggers.
+783,p1783,Bose Wireless Headphones 1783,Bose,headphones,3766,3964,5,https://picsum.photos/seed/p1783/300/200,4.81,3349,Comfortable headphones with active noise cancellation.
+784,p1784,"Asus Curved Monitor 1784 - 27""",Asus,monitor,35175,41382,15,https://picsum.photos/seed/p1784/300/200,4.21,3715,High-refresh IPS panel with thin bezels and adaptive-sync.
+785,p1785,D-Link AC1561 Router 1785,D-Link,router,3087,3087,0,https://picsum.photos/seed/p1785/300/200,4.16,4302,Fast dual-band WiFi router with parental controls.
+786,p1786,Nintendo Game Console 1786 - 1TB,Nintendo,gaming_console,41054,43215,5,https://picsum.photos/seed/p1786/300/200,4.18,2575,Next-gen console delivering immersive gaming experiences.
+787,p1787,"Xiaomi X1787 - 8GB RAM, 128GB Storage",Xiaomi,smartphone,45728,45728,0,https://picsum.photos/seed/p1787/300/200,4.33,1155,High-performance smartphone with excellent camera and display.
+788,p1788,"OnePlus X1788 - 8GB RAM, 128GB Storage",OnePlus,smartphone,66943,78756,15,https://picsum.photos/seed/p1788/300/200,3.93,3644,High-performance smartphone with excellent camera and display.
+789,p1789,Bose Wireless Headphones 1789,Bose,headphones,17327,18239,5,https://picsum.photos/seed/p1789/300/200,4.44,954,Comfortable headphones with active noise cancellation.
+790,p1790,HP InkJet 1790 - Wireless Printing,HP,printer,13345,14047,5,https://picsum.photos/seed/p1790/300/200,4.72,314,Reliable home-office printer with low-cost cartridges.
+791,p1791,TP-Link AC1589 Router 1791,TP-Link,router,10551,11106,5,https://picsum.photos/seed/p1791/300/200,4.0,3969,Fast dual-band WiFi router with parental controls.
+792,p1792,"Xiaomi Tab 1792 - 10.5"" Display, 64GB",Xiaomi,tablet,67400,67400,0,https://picsum.photos/seed/p1792/300/200,4.03,1708,Portable tablet ideal for media and light productivity.
+793,p1793,"Apple Tab 1793 - 10.5"" Display, 64GB",Apple,tablet,34922,34922,0,https://picsum.photos/seed/p1793/300/200,4.69,1899,Portable tablet ideal for media and light productivity.
+794,p1794,"Fujifilm Mirrorless 1794 - 24MP, 4K Video",Fujifilm,camera,79236,88040,10,https://picsum.photos/seed/p1794/300/200,3.75,3480,High quality imaging for enthusiasts and vloggers.
+795,p1795,"OnePlus X1795 - 8GB RAM, 128GB Storage",OnePlus,smartphone,85128,94587,10,https://picsum.photos/seed/p1795/300/200,4.37,237,High-performance smartphone with excellent camera and display.
+796,p1796,"Sony Mirrorless 1796 - 24MP, 4K Video",Sony,camera,53360,59289,10,https://picsum.photos/seed/p1796/300/200,3.64,447,High quality imaging for enthusiasts and vloggers.
+797,p1797,"Fujifilm Mirrorless 1797 - 24MP, 4K Video",Fujifilm,camera,45906,54007,15,https://picsum.photos/seed/p1797/300/200,4.24,1058,High quality imaging for enthusiasts and vloggers.
+798,p1798,Nintendo Game Console 1798 - 1TB,Nintendo,gaming_console,49233,57921,15,https://picsum.photos/seed/p1798/300/200,3.56,4386,Next-gen console delivering immersive gaming experiences.
+799,p1799,"Sony Smart TV 1799 - 4K UHD, 65""",Sony,tv,62311,62311,0,https://picsum.photos/seed/p1799/300/200,4.8,295,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+800,p1800,"MSI UltraBook 1800 - 16GB RAM, 512GB SSD",MSI,laptop,144316,144316,0,https://picsum.photos/seed/p1800/300/200,3.26,1012,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+801,p1801,Netgear AC1468 Router 1801,Netgear,router,11071,13025,15,https://picsum.photos/seed/p1801/300/200,4.23,1243,Fast dual-band WiFi router with parental controls.
+802,p1802,"Vivo X1802 - 8GB RAM, 128GB Storage",Vivo,smartphone,110861,110861,0,https://picsum.photos/seed/p1802/300/200,3.65,4720,High-performance smartphone with excellent camera and display.
+803,p1803,"Asus Curved Monitor 1803 - 27""",Asus,monitor,54063,54063,0,https://picsum.photos/seed/p1803/300/200,4.89,3224,High-refresh IPS panel with thin bezels and adaptive-sync.
+804,p1804,Epson InkJet 1804 - Wireless Printing,Epson,printer,11975,12605,5,https://picsum.photos/seed/p1804/300/200,3.77,685,Reliable home-office printer with low-cost cartridges.
+805,p1805,"Apple X1805 - 8GB RAM, 128GB Storage",Apple,smartphone,81490,85779,5,https://picsum.photos/seed/p1805/300/200,3.9,2767,High-performance smartphone with excellent camera and display.
+806,p1806,"Apple Tab 1806 - 10.5"" Display, 64GB",Apple,tablet,27573,27573,0,https://picsum.photos/seed/p1806/300/200,3.75,3956,Portable tablet ideal for media and light productivity.
+807,p1807,Boat Wireless Headphones 1807,Boat,headphones,11622,11622,0,https://picsum.photos/seed/p1807/300/200,3.54,931,Comfortable headphones with active noise cancellation.
+808,p1808,"Asus UltraBook 1808 - 16GB RAM, 512GB SSD",Asus,laptop,168641,177517,5,https://picsum.photos/seed/p1808/300/200,4.09,3044,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+809,p1809,Nintendo Game Console 1809 - 1TB,Nintendo,gaming_console,45940,45940,0,https://picsum.photos/seed/p1809/300/200,4.79,1108,Next-gen console delivering immersive gaming experiences.
+810,p1810,"Xiaomi Tab 1810 - 10.5"" Display, 64GB",Xiaomi,tablet,19853,19853,0,https://picsum.photos/seed/p1810/300/200,4.11,2711,Portable tablet ideal for media and light productivity.
+811,p1811,"Samsung X1811 - 8GB RAM, 128GB Storage",Samsung,smartphone,15913,16751,5,https://picsum.photos/seed/p1811/300/200,4.6,3491,High-performance smartphone with excellent camera and display.
+812,p1812,Nintendo Game Console 1812 - 1TB,Nintendo,gaming_console,21748,21748,0,https://picsum.photos/seed/p1812/300/200,3.68,2153,Next-gen console delivering immersive gaming experiences.
+813,p1813,Sony Game Console 1813 - 1TB,Sony,gaming_console,49826,55362,10,https://picsum.photos/seed/p1813/300/200,3.56,21,Next-gen console delivering immersive gaming experiences.
+814,p1814,"Sony Smart TV 1814 - 4K UHD, 43""",Sony,tv,130176,144640,10,https://picsum.photos/seed/p1814/300/200,3.92,3864,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+815,p1815,Canon InkJet 1815 - Wireless Printing,Canon,printer,17465,20547,15,https://picsum.photos/seed/p1815/300/200,4.63,1360,Reliable home-office printer with low-cost cartridges.
+816,p1816,"Nikon Mirrorless 1816 - 24MP, 4K Video",Nikon,camera,109090,114832,5,https://picsum.photos/seed/p1816/300/200,4.65,2834,High quality imaging for enthusiasts and vloggers.
+817,p1817,TP-Link AC1983 Router 1817,TP-Link,router,7043,7414,5,https://picsum.photos/seed/p1817/300/200,3.76,3021,Fast dual-band WiFi router with parental controls.
+818,p1818,"Canon Mirrorless 1818 - 24MP, 4K Video",Canon,camera,26143,30756,15,https://picsum.photos/seed/p1818/300/200,4.6,3856,High quality imaging for enthusiasts and vloggers.
+819,p1819,Nintendo Game Console 1819 - 1TB,Nintendo,gaming_console,33334,39217,15,https://picsum.photos/seed/p1819/300/200,4.72,1254,Next-gen console delivering immersive gaming experiences.
+820,p1820,"Samsung Tab 1820 - 10.5"" Display, 64GB",Samsung,tablet,33198,39057,15,https://picsum.photos/seed/p1820/300/200,4.45,2725,Portable tablet ideal for media and light productivity.
+821,p1821,Epson InkJet 1821 - Wireless Printing,Epson,printer,15847,18643,15,https://picsum.photos/seed/p1821/300/200,3.45,2184,Reliable home-office printer with low-cost cartridges.
+822,p1822,"OnePlus X1822 - 8GB RAM, 128GB Storage",OnePlus,smartphone,74597,87761,15,https://picsum.photos/seed/p1822/300/200,3.8,2797,High-performance smartphone with excellent camera and display.
+823,p1823,"Dell Curved Monitor 1823 - 27""",Dell,monitor,49066,49066,0,https://picsum.photos/seed/p1823/300/200,4.28,3771,High-refresh IPS panel with thin bezels and adaptive-sync.
+824,p1824,"Vivo X1824 - 8GB RAM, 128GB Storage",Vivo,smartphone,105964,105964,0,https://picsum.photos/seed/p1824/300/200,4.16,3391,High-performance smartphone with excellent camera and display.
+825,p1825,"Sony Smart TV 1825 - 4K UHD, 55""",Sony,tv,83589,87988,5,https://picsum.photos/seed/p1825/300/200,3.79,4284,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+826,p1826,"LG Curved Monitor 1826 - 27""",LG,monitor,26125,30735,15,https://picsum.photos/seed/p1826/300/200,4.14,2203,High-refresh IPS panel with thin bezels and adaptive-sync.
+827,p1827,"Apple X1827 - 8GB RAM, 128GB Storage",Apple,smartphone,62370,69300,10,https://picsum.photos/seed/p1827/300/200,4.2,3049,High-performance smartphone with excellent camera and display.
+828,p1828,Microsoft Game Console 1828 - 1TB,Microsoft,gaming_console,57459,57459,0,https://picsum.photos/seed/p1828/300/200,4.75,2509,Next-gen console delivering immersive gaming experiences.
+829,p1829,"Xiaomi Tab 1829 - 10.5"" Display, 64GB",Xiaomi,tablet,63033,63033,0,https://picsum.photos/seed/p1829/300/200,3.63,3057,Portable tablet ideal for media and light productivity.
+830,p1830,Microsoft Game Console 1830 - 1TB,Microsoft,gaming_console,36474,42911,15,https://picsum.photos/seed/p1830/300/200,3.88,233,Next-gen console delivering immersive gaming experiences.
+831,p1831,"Samsung Tab 1831 - 10.5"" Display, 64GB",Samsung,tablet,47223,47223,0,https://picsum.photos/seed/p1831/300/200,4.56,3757,Portable tablet ideal for media and light productivity.
+832,p1832,TP-Link AC1201 Router 1832,TP-Link,router,2816,2816,0,https://picsum.photos/seed/p1832/300/200,4.43,1262,Fast dual-band WiFi router with parental controls.
+833,p1833,JBL Wireless Headphones 1833,JBL,headphones,13432,14925,10,https://picsum.photos/seed/p1833/300/200,4.61,1988,Comfortable headphones with active noise cancellation.
+834,p1834,"Realme X1834 - 8GB RAM, 128GB Storage",Realme,smartphone,51351,60413,15,https://picsum.photos/seed/p1834/300/200,3.32,4000,High-performance smartphone with excellent camera and display.
+835,p1835,Sony Game Console 1835 - 1TB,Sony,gaming_console,20063,20063,0,https://picsum.photos/seed/p1835/300/200,3.43,1539,Next-gen console delivering immersive gaming experiences.
+836,p1836,"Dell UltraBook 1836 - 16GB RAM, 512GB SSD",Dell,laptop,57906,64340,10,https://picsum.photos/seed/p1836/300/200,3.26,3454,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+837,p1837,"Samsung Tab 1837 - 10.5"" Display, 64GB",Samsung,tablet,16975,16975,0,https://picsum.photos/seed/p1837/300/200,3.47,1054,Portable tablet ideal for media and light productivity.
+838,p1838,Nintendo Game Console 1838 - 1TB,Nintendo,gaming_console,33111,34854,5,https://picsum.photos/seed/p1838/300/200,4.46,949,Next-gen console delivering immersive gaming experiences.
+839,p1839,Microsoft Game Console 1839 - 1TB,Microsoft,gaming_console,49846,49846,0,https://picsum.photos/seed/p1839/300/200,3.46,2761,Next-gen console delivering immersive gaming experiences.
+840,p1840,Microsoft Game Console 1840 - 1TB,Microsoft,gaming_console,33199,39058,15,https://picsum.photos/seed/p1840/300/200,4.37,2067,Next-gen console delivering immersive gaming experiences.
+841,p1841,D-Link AC2770 Router 1841,D-Link,router,8333,8333,0,https://picsum.photos/seed/p1841/300/200,4.21,2926,Fast dual-band WiFi router with parental controls.
+842,p1842,"Acer UltraBook 1842 - 16GB RAM, 512GB SSD",Acer,laptop,81639,85936,5,https://picsum.photos/seed/p1842/300/200,4.85,1999,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+843,p1843,Boat Wireless Headphones 1843,Boat,headphones,7627,7627,0,https://picsum.photos/seed/p1843/300/200,3.77,2473,Comfortable headphones with active noise cancellation.
+844,p1844,D-Link AC1576 Router 1844,D-Link,router,8171,8601,5,https://picsum.photos/seed/p1844/300/200,4.25,4416,Fast dual-band WiFi router with parental controls.
+845,p1845,"Samsung Smart TV 1845 - 4K UHD, 55""",Samsung,tv,134542,134542,0,https://picsum.photos/seed/p1845/300/200,4.23,1484,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+846,p1846,"Sony Mirrorless 1846 - 24MP, 4K Video",Sony,camera,105585,111142,5,https://picsum.photos/seed/p1846/300/200,3.37,1841,High quality imaging for enthusiasts and vloggers.
+847,p1847,"Apple UltraBook 1847 - 16GB RAM, 512GB SSD",Apple,laptop,51034,56704,10,https://picsum.photos/seed/p1847/300/200,4.78,102,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+848,p1848,Canon InkJet 1848 - Wireless Printing,Canon,printer,22440,22440,0,https://picsum.photos/seed/p1848/300/200,4.32,4680,Reliable home-office printer with low-cost cartridges.
+849,p1849,"Vivo X1849 - 8GB RAM, 128GB Storage",Vivo,smartphone,17002,18891,10,https://picsum.photos/seed/p1849/300/200,3.25,4791,High-performance smartphone with excellent camera and display.
+850,p1850,"Lenovo Tab 1850 - 10.5"" Display, 64GB",Lenovo,tablet,28604,28604,0,https://picsum.photos/seed/p1850/300/200,3.36,1788,Portable tablet ideal for media and light productivity.
+851,p1851,"Samsung Smart TV 1851 - 4K UHD, 55""",Samsung,tv,118892,125150,5,https://picsum.photos/seed/p1851/300/200,3.74,2975,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+852,p1852,"Vivo X1852 - 8GB RAM, 128GB Storage",Vivo,smartphone,53462,59402,10,https://picsum.photos/seed/p1852/300/200,3.69,4363,High-performance smartphone with excellent camera and display.
+853,p1853,Canon InkJet 1853 - Wireless Printing,Canon,printer,18705,18705,0,https://picsum.photos/seed/p1853/300/200,4.24,4123,Reliable home-office printer with low-cost cartridges.
+854,p1854,"Apple X1854 - 8GB RAM, 128GB Storage",Apple,smartphone,43011,50601,15,https://picsum.photos/seed/p1854/300/200,4.7,3189,High-performance smartphone with excellent camera and display.
+855,p1855,Boat Wireless Headphones 1855,Boat,headphones,22150,22150,0,https://picsum.photos/seed/p1855/300/200,4.72,1695,Comfortable headphones with active noise cancellation.
+856,p1856,Microsoft Game Console 1856 - 1TB,Microsoft,gaming_console,22893,25437,10,https://picsum.photos/seed/p1856/300/200,4.43,572,Next-gen console delivering immersive gaming experiences.
+857,p1857,"Apple UltraBook 1857 - 16GB RAM, 512GB SSD",Apple,laptop,124543,146521,15,https://picsum.photos/seed/p1857/300/200,4.42,3592,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+858,p1858,"Dell Curved Monitor 1858 - 27""",Dell,monitor,41525,41525,0,https://picsum.photos/seed/p1858/300/200,3.45,2150,High-refresh IPS panel with thin bezels and adaptive-sync.
+859,p1859,Sony Game Console 1859 - 1TB,Sony,gaming_console,30717,32334,5,https://picsum.photos/seed/p1859/300/200,4.29,606,Next-gen console delivering immersive gaming experiences.
+860,p1860,"Asus Curved Monitor 1860 - 27""",Asus,monitor,45769,53846,15,https://picsum.photos/seed/p1860/300/200,3.26,1147,High-refresh IPS panel with thin bezels and adaptive-sync.
+861,p1861,"Lenovo Tab 1861 - 10.5"" Display, 64GB",Lenovo,tablet,30394,33771,10,https://picsum.photos/seed/p1861/300/200,4.34,1265,Portable tablet ideal for media and light productivity.
+862,p1862,"Samsung Tab 1862 - 10.5"" Display, 64GB",Samsung,tablet,51730,51730,0,https://picsum.photos/seed/p1862/300/200,3.64,4166,Portable tablet ideal for media and light productivity.
+863,p1863,Sennheiser Wireless Headphones 1863,Sennheiser,headphones,25534,25534,0,https://picsum.photos/seed/p1863/300/200,4.68,3948,Comfortable headphones with active noise cancellation.
+864,p1864,"Xiaomi Tab 1864 - 10.5"" Display, 64GB",Xiaomi,tablet,23497,24734,5,https://picsum.photos/seed/p1864/300/200,4.05,4664,Portable tablet ideal for media and light productivity.
+865,p1865,"MSI UltraBook 1865 - 16GB RAM, 512GB SSD",MSI,laptop,79128,93092,15,https://picsum.photos/seed/p1865/300/200,4.83,4405,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+866,p1866,"Oppo X1866 - 8GB RAM, 128GB Storage",Oppo,smartphone,36452,40502,10,https://picsum.photos/seed/p1866/300/200,3.5,4990,High-performance smartphone with excellent camera and display.
+867,p1867,"Sony Mirrorless 1867 - 24MP, 4K Video",Sony,camera,143769,143769,0,https://picsum.photos/seed/p1867/300/200,3.61,4761,High quality imaging for enthusiasts and vloggers.
+868,p1868,"Asus Curved Monitor 1868 - 27""",Asus,monitor,15628,15628,0,https://picsum.photos/seed/p1868/300/200,3.37,4828,High-refresh IPS panel with thin bezels and adaptive-sync.
+869,p1869,"Xiaomi Smart TV 1869 - 4K UHD, 55""",Xiaomi,tv,41850,49235,15,https://picsum.photos/seed/p1869/300/200,4.48,4,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+870,p1870,"Fujifilm Mirrorless 1870 - 24MP, 4K Video",Fujifilm,camera,87777,92397,5,https://picsum.photos/seed/p1870/300/200,3.67,4597,High quality imaging for enthusiasts and vloggers.
+871,p1871,JBL Wireless Headphones 1871,JBL,headphones,10521,11690,10,https://picsum.photos/seed/p1871/300/200,4.34,774,Comfortable headphones with active noise cancellation.
+872,p1872,"Samsung Curved Monitor 1872 - 27""",Samsung,monitor,27523,28972,5,https://picsum.photos/seed/p1872/300/200,4.78,1722,High-refresh IPS panel with thin bezels and adaptive-sync.
+873,p1873,Nintendo Game Console 1873 - 1TB,Nintendo,gaming_console,32709,36343,10,https://picsum.photos/seed/p1873/300/200,4.31,3415,Next-gen console delivering immersive gaming experiences.
+874,p1874,"Nikon Mirrorless 1874 - 24MP, 4K Video",Nikon,camera,61867,68741,10,https://picsum.photos/seed/p1874/300/200,4.16,3417,High quality imaging for enthusiasts and vloggers.
+875,p1875,"MSI UltraBook 1875 - 16GB RAM, 512GB SSD",MSI,laptop,139803,147161,5,https://picsum.photos/seed/p1875/300/200,3.7,3059,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+876,p1876,"Lenovo UltraBook 1876 - 16GB RAM, 512GB SSD",Lenovo,laptop,140245,140245,0,https://picsum.photos/seed/p1876/300/200,3.33,1314,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+877,p1877,Epson InkJet 1877 - Wireless Printing,Epson,printer,23406,27537,15,https://picsum.photos/seed/p1877/300/200,3.84,830,Reliable home-office printer with low-cost cartridges.
+878,p1878,"Apple UltraBook 1878 - 16GB RAM, 512GB SSD",Apple,laptop,136848,136848,0,https://picsum.photos/seed/p1878/300/200,4.2,4702,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+879,p1879,"Samsung Smart TV 1879 - 4K UHD, 65""",Samsung,tv,183536,193196,5,https://picsum.photos/seed/p1879/300/200,4.83,2959,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+880,p1880,"LG Curved Monitor 1880 - 27""",LG,monitor,54141,54141,0,https://picsum.photos/seed/p1880/300/200,3.44,3365,High-refresh IPS panel with thin bezels and adaptive-sync.
+881,p1881,D-Link AC2834 Router 1881,D-Link,router,7238,7619,5,https://picsum.photos/seed/p1881/300/200,4.54,4030,Fast dual-band WiFi router with parental controls.
+882,p1882,"Sony Mirrorless 1882 - 24MP, 4K Video",Sony,camera,114582,127313,10,https://picsum.photos/seed/p1882/300/200,4.24,1563,High quality imaging for enthusiasts and vloggers.
+883,p1883,"Oppo X1883 - 8GB RAM, 128GB Storage",Oppo,smartphone,62138,69042,10,https://picsum.photos/seed/p1883/300/200,4.71,3288,High-performance smartphone with excellent camera and display.
+884,p1884,Microsoft Game Console 1884 - 1TB,Microsoft,gaming_console,50632,53297,5,https://picsum.photos/seed/p1884/300/200,4.11,1641,Next-gen console delivering immersive gaming experiences.
+885,p1885,Microsoft Game Console 1885 - 1TB,Microsoft,gaming_console,22177,23344,5,https://picsum.photos/seed/p1885/300/200,4.82,2682,Next-gen console delivering immersive gaming experiences.
+886,p1886,HP InkJet 1886 - Wireless Printing,HP,printer,12118,12118,0,https://picsum.photos/seed/p1886/300/200,4.62,3072,Reliable home-office printer with low-cost cartridges.
+887,p1887,"Asus UltraBook 1887 - 16GB RAM, 512GB SSD",Asus,laptop,44966,52901,15,https://picsum.photos/seed/p1887/300/200,4.75,4231,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+888,p1888,"OnePlus X1888 - 8GB RAM, 128GB Storage",OnePlus,smartphone,99823,105077,5,https://picsum.photos/seed/p1888/300/200,4.01,4167,High-performance smartphone with excellent camera and display.
+889,p1889,"Realme X1889 - 8GB RAM, 128GB Storage",Realme,smartphone,107639,113304,5,https://picsum.photos/seed/p1889/300/200,3.59,691,High-performance smartphone with excellent camera and display.
+890,p1890,D-Link AC3148 Router 1890,D-Link,router,5579,5579,0,https://picsum.photos/seed/p1890/300/200,3.44,3848,Fast dual-band WiFi router with parental controls.
+891,p1891,"HP UltraBook 1891 - 16GB RAM, 512GB SSD",HP,laptop,116830,116830,0,https://picsum.photos/seed/p1891/300/200,3.82,896,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+892,p1892,"Apple Tab 1892 - 10.5"" Display, 64GB",Apple,tablet,48431,50980,5,https://picsum.photos/seed/p1892/300/200,3.25,3854,Portable tablet ideal for media and light productivity.
+893,p1893,"Apple UltraBook 1893 - 16GB RAM, 512GB SSD",Apple,laptop,146864,146864,0,https://picsum.photos/seed/p1893/300/200,3.79,1824,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+894,p1894,"Realme X1894 - 8GB RAM, 128GB Storage",Realme,smartphone,61987,68874,10,https://picsum.photos/seed/p1894/300/200,4.73,2104,High-performance smartphone with excellent camera and display.
+895,p1895,"Lenovo Tab 1895 - 10.5"" Display, 64GB",Lenovo,tablet,42296,42296,0,https://picsum.photos/seed/p1895/300/200,4.46,3308,Portable tablet ideal for media and light productivity.
+896,p1896,"Canon Mirrorless 1896 - 24MP, 4K Video",Canon,camera,64466,64466,0,https://picsum.photos/seed/p1896/300/200,3.76,3070,High quality imaging for enthusiasts and vloggers.
+897,p1897,"Apple Tab 1897 - 10.5"" Display, 64GB",Apple,tablet,21821,22969,5,https://picsum.photos/seed/p1897/300/200,3.22,3938,Portable tablet ideal for media and light productivity.
+898,p1898,"Samsung Curved Monitor 1898 - 27""",Samsung,monitor,31302,36826,15,https://picsum.photos/seed/p1898/300/200,4.77,2762,High-refresh IPS panel with thin bezels and adaptive-sync.
+899,p1899,"Lenovo Tab 1899 - 10.5"" Display, 64GB",Lenovo,tablet,41375,45972,10,https://picsum.photos/seed/p1899/300/200,4.29,4450,Portable tablet ideal for media and light productivity.
+900,p1900,"Apple Tab 1900 - 10.5"" Display, 64GB",Apple,tablet,15555,17283,10,https://picsum.photos/seed/p1900/300/200,4.14,679,Portable tablet ideal for media and light productivity.
+901,p1901,Bose Wireless Headphones 1901,Bose,headphones,24195,24195,0,https://picsum.photos/seed/p1901/300/200,4.16,4346,Comfortable headphones with active noise cancellation.
+902,p1902,Sony Wireless Headphones 1902,Sony,headphones,10077,11855,15,https://picsum.photos/seed/p1902/300/200,3.58,1245,Comfortable headphones with active noise cancellation.
+903,p1903,Boat Wireless Headphones 1903,Boat,headphones,32230,32230,0,https://picsum.photos/seed/p1903/300/200,4.43,2457,Comfortable headphones with active noise cancellation.
+904,p1904,"HP UltraBook 1904 - 16GB RAM, 512GB SSD",HP,laptop,109516,121685,10,https://picsum.photos/seed/p1904/300/200,4.6,1986,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+905,p1905,TP-Link AC2000 Router 1905,TP-Link,router,5121,6025,15,https://picsum.photos/seed/p1905/300/200,4.81,1243,Fast dual-band WiFi router with parental controls.
+906,p1906,"Xiaomi Smart TV 1906 - 4K UHD, 50""",Xiaomi,tv,20541,22823,10,https://picsum.photos/seed/p1906/300/200,3.59,3590,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+907,p1907,"Canon Mirrorless 1907 - 24MP, 4K Video",Canon,camera,125746,139718,10,https://picsum.photos/seed/p1907/300/200,3.92,1379,High quality imaging for enthusiasts and vloggers.
+908,p1908,"Samsung Curved Monitor 1908 - 27""",Samsung,monitor,23813,23813,0,https://picsum.photos/seed/p1908/300/200,4.28,2295,High-refresh IPS panel with thin bezels and adaptive-sync.
+909,p1909,"Sony Mirrorless 1909 - 24MP, 4K Video",Sony,camera,38255,38255,0,https://picsum.photos/seed/p1909/300/200,4.2,2177,High quality imaging for enthusiasts and vloggers.
+910,p1910,"Oppo X1910 - 8GB RAM, 128GB Storage",Oppo,smartphone,87511,87511,0,https://picsum.photos/seed/p1910/300/200,4.84,1954,High-performance smartphone with excellent camera and display.
+911,p1911,Epson InkJet 1911 - Wireless Printing,Epson,printer,26203,26203,0,https://picsum.photos/seed/p1911/300/200,4.8,3537,Reliable home-office printer with low-cost cartridges.
+912,p1912,"Dell UltraBook 1912 - 16GB RAM, 512GB SSD",Dell,laptop,119923,126235,5,https://picsum.photos/seed/p1912/300/200,3.8,2037,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+913,p1913,"Fujifilm Mirrorless 1913 - 24MP, 4K Video",Fujifilm,camera,125743,125743,0,https://picsum.photos/seed/p1913/300/200,4.64,728,High quality imaging for enthusiasts and vloggers.
+914,p1914,Canon InkJet 1914 - Wireless Printing,Canon,printer,16474,18305,10,https://picsum.photos/seed/p1914/300/200,3.54,3976,Reliable home-office printer with low-cost cartridges.
+915,p1915,Canon InkJet 1915 - Wireless Printing,Canon,printer,4693,5521,15,https://picsum.photos/seed/p1915/300/200,3.7,4586,Reliable home-office printer with low-cost cartridges.
+916,p1916,Bose Wireless Headphones 1916,Bose,headphones,17347,18260,5,https://picsum.photos/seed/p1916/300/200,4.11,3250,Comfortable headphones with active noise cancellation.
+917,p1917,"Xiaomi Tab 1917 - 10.5"" Display, 64GB",Xiaomi,tablet,44994,47362,5,https://picsum.photos/seed/p1917/300/200,3.24,1838,Portable tablet ideal for media and light productivity.
+918,p1918,"Sony Smart TV 1918 - 4K UHD, 50""",Sony,tv,83132,97802,15,https://picsum.photos/seed/p1918/300/200,4.9,1574,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+919,p1919,TP-Link AC2484 Router 1919,TP-Link,router,5527,5818,5,https://picsum.photos/seed/p1919/300/200,4.12,631,Fast dual-band WiFi router with parental controls.
+920,p1920,"Lenovo Tab 1920 - 10.5"" Display, 64GB",Lenovo,tablet,58324,61394,5,https://picsum.photos/seed/p1920/300/200,4.42,4538,Portable tablet ideal for media and light productivity.
+921,p1921,"Xiaomi Smart TV 1921 - 4K UHD, 55""",Xiaomi,tv,121306,134785,10,https://picsum.photos/seed/p1921/300/200,4.15,471,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+922,p1922,Canon InkJet 1922 - Wireless Printing,Canon,printer,13257,13257,0,https://picsum.photos/seed/p1922/300/200,4.88,1762,Reliable home-office printer with low-cost cartridges.
+923,p1923,"Samsung Curved Monitor 1923 - 27""",Samsung,monitor,58220,58220,0,https://picsum.photos/seed/p1923/300/200,4.41,2935,High-refresh IPS panel with thin bezels and adaptive-sync.
+924,p1924,Sony Game Console 1924 - 1TB,Sony,gaming_console,24189,26877,10,https://picsum.photos/seed/p1924/300/200,4.44,2718,Next-gen console delivering immersive gaming experiences.
+925,p1925,"Samsung X1925 - 8GB RAM, 128GB Storage",Samsung,smartphone,107826,113501,5,https://picsum.photos/seed/p1925/300/200,3.5,3525,High-performance smartphone with excellent camera and display.
+926,p1926,"Fujifilm Mirrorless 1926 - 24MP, 4K Video",Fujifilm,camera,60377,71032,15,https://picsum.photos/seed/p1926/300/200,3.64,4965,High quality imaging for enthusiasts and vloggers.
+927,p1927,"Acer UltraBook 1927 - 16GB RAM, 512GB SSD",Acer,laptop,117145,137818,15,https://picsum.photos/seed/p1927/300/200,4.16,568,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+928,p1928,"Samsung Tab 1928 - 10.5"" Display, 64GB",Samsung,tablet,16354,16354,0,https://picsum.photos/seed/p1928/300/200,4.06,3646,Portable tablet ideal for media and light productivity.
+929,p1929,"Acer UltraBook 1929 - 16GB RAM, 512GB SSD",Acer,laptop,64378,71531,10,https://picsum.photos/seed/p1929/300/200,3.53,1271,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+930,p1930,Microsoft Game Console 1930 - 1TB,Microsoft,gaming_console,38966,38966,0,https://picsum.photos/seed/p1930/300/200,4.83,4020,Next-gen console delivering immersive gaming experiences.
+931,p1931,"Xiaomi Smart TV 1931 - 4K UHD, 43""",Xiaomi,tv,183279,192925,5,https://picsum.photos/seed/p1931/300/200,4.75,4612,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+932,p1932,Nintendo Game Console 1932 - 1TB,Nintendo,gaming_console,37343,41492,10,https://picsum.photos/seed/p1932/300/200,3.34,195,Next-gen console delivering immersive gaming experiences.
+933,p1933,"Dell Curved Monitor 1933 - 27""",Dell,monitor,26821,26821,0,https://picsum.photos/seed/p1933/300/200,4.81,2515,High-refresh IPS panel with thin bezels and adaptive-sync.
+934,p1934,Nintendo Game Console 1934 - 1TB,Nintendo,gaming_console,38053,38053,0,https://picsum.photos/seed/p1934/300/200,4.6,3553,Next-gen console delivering immersive gaming experiences.
+935,p1935,Boat Wireless Headphones 1935,Boat,headphones,12512,13170,5,https://picsum.photos/seed/p1935/300/200,3.32,1667,Comfortable headphones with active noise cancellation.
+936,p1936,"LG Curved Monitor 1936 - 27""",LG,monitor,23754,23754,0,https://picsum.photos/seed/p1936/300/200,3.83,3292,High-refresh IPS panel with thin bezels and adaptive-sync.
+937,p1937,"Dell UltraBook 1937 - 16GB RAM, 512GB SSD",Dell,laptop,99305,104532,5,https://picsum.photos/seed/p1937/300/200,3.9,83,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+938,p1938,D-Link AC1769 Router 1938,D-Link,router,1503,1670,10,https://picsum.photos/seed/p1938/300/200,3.42,1826,Fast dual-band WiFi router with parental controls.
+939,p1939,"Vivo X1939 - 8GB RAM, 128GB Storage",Vivo,smartphone,100532,111702,10,https://picsum.photos/seed/p1939/300/200,3.68,2346,High-performance smartphone with excellent camera and display.
+940,p1940,"Sony Mirrorless 1940 - 24MP, 4K Video",Sony,camera,149545,149545,0,https://picsum.photos/seed/p1940/300/200,4.0,895,High quality imaging for enthusiasts and vloggers.
+941,p1941,"OnePlus X1941 - 8GB RAM, 128GB Storage",OnePlus,smartphone,27352,32179,15,https://picsum.photos/seed/p1941/300/200,4.51,4125,High-performance smartphone with excellent camera and display.
+942,p1942,"Sony Smart TV 1942 - 4K UHD, 55""",Sony,tv,77171,85746,10,https://picsum.photos/seed/p1942/300/200,3.85,2390,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+943,p1943,Sony Wireless Headphones 1943,Sony,headphones,16252,17107,5,https://picsum.photos/seed/p1943/300/200,4.15,1174,Comfortable headphones with active noise cancellation.
+944,p1944,JBL Wireless Headphones 1944,JBL,headphones,22080,22080,0,https://picsum.photos/seed/p1944/300/200,4.73,1914,Comfortable headphones with active noise cancellation.
+945,p1945,"Asus UltraBook 1945 - 16GB RAM, 512GB SSD",Asus,laptop,55313,55313,0,https://picsum.photos/seed/p1945/300/200,3.23,3902,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+946,p1946,Nintendo Game Console 1946 - 1TB,Nintendo,gaming_console,51053,56726,10,https://picsum.photos/seed/p1946/300/200,4.76,1254,Next-gen console delivering immersive gaming experiences.
+947,p1947,"Samsung Curved Monitor 1947 - 27""",Samsung,monitor,32122,32122,0,https://picsum.photos/seed/p1947/300/200,3.27,3361,High-refresh IPS panel with thin bezels and adaptive-sync.
+948,p1948,Bose Wireless Headphones 1948,Bose,headphones,27578,30642,10,https://picsum.photos/seed/p1948/300/200,3.82,2670,Comfortable headphones with active noise cancellation.
+949,p1949,TP-Link AC1703 Router 1949,TP-Link,router,12103,13448,10,https://picsum.photos/seed/p1949/300/200,3.84,2514,Fast dual-band WiFi router with parental controls.
+950,p1950,"Xiaomi Smart TV 1950 - 4K UHD, 50""",Xiaomi,tv,138572,138572,0,https://picsum.photos/seed/p1950/300/200,3.77,1283,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+951,p1951,Netgear AC1569 Router 1951,Netgear,router,12428,12428,0,https://picsum.photos/seed/p1951/300/200,4.29,4710,Fast dual-band WiFi router with parental controls.
+952,p1952,"Sony Smart TV 1952 - 4K UHD, 65""",Sony,tv,54224,54224,0,https://picsum.photos/seed/p1952/300/200,3.35,71,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+953,p1953,"Lenovo UltraBook 1953 - 16GB RAM, 512GB SSD",Lenovo,laptop,120154,133505,10,https://picsum.photos/seed/p1953/300/200,3.78,1435,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+954,p1954,"Sony Mirrorless 1954 - 24MP, 4K Video",Sony,camera,36472,40524,10,https://picsum.photos/seed/p1954/300/200,4.39,2303,High quality imaging for enthusiasts and vloggers.
+955,p1955,"Samsung Smart TV 1955 - 4K UHD, 50""",Samsung,tv,30322,30322,0,https://picsum.photos/seed/p1955/300/200,4.2,2968,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+956,p1956,"LG Curved Monitor 1956 - 27""",LG,monitor,13571,13571,0,https://picsum.photos/seed/p1956/300/200,4.26,3224,High-refresh IPS panel with thin bezels and adaptive-sync.
+957,p1957,"Apple Tab 1957 - 10.5"" Display, 64GB",Apple,tablet,50960,56622,10,https://picsum.photos/seed/p1957/300/200,4.89,2991,Portable tablet ideal for media and light productivity.
+958,p1958,"Nikon Mirrorless 1958 - 24MP, 4K Video",Nikon,camera,28635,31817,10,https://picsum.photos/seed/p1958/300/200,3.77,2235,High quality imaging for enthusiasts and vloggers.
+959,p1959,"Dell Curved Monitor 1959 - 27""",Dell,monitor,8333,9259,10,https://picsum.photos/seed/p1959/300/200,3.85,294,High-refresh IPS panel with thin bezels and adaptive-sync.
+960,p1960,"Fujifilm Mirrorless 1960 - 24MP, 4K Video",Fujifilm,camera,78371,78371,0,https://picsum.photos/seed/p1960/300/200,4.03,2184,High quality imaging for enthusiasts and vloggers.
+961,p1961,"Realme X1961 - 8GB RAM, 128GB Storage",Realme,smartphone,74688,74688,0,https://picsum.photos/seed/p1961/300/200,3.83,1261,High-performance smartphone with excellent camera and display.
+962,p1962,Sony Game Console 1962 - 1TB,Sony,gaming_console,22715,25239,10,https://picsum.photos/seed/p1962/300/200,4.27,2710,Next-gen console delivering immersive gaming experiences.
+963,p1963,"Apple X1963 - 8GB RAM, 128GB Storage",Apple,smartphone,34151,34151,0,https://picsum.photos/seed/p1963/300/200,3.56,650,High-performance smartphone with excellent camera and display.
+964,p1964,D-Link AC2174 Router 1964,D-Link,router,7809,9187,15,https://picsum.photos/seed/p1964/300/200,3.21,1440,Fast dual-band WiFi router with parental controls.
+965,p1965,"LG Smart TV 1965 - 4K UHD, 50""",LG,tv,33885,39865,15,https://picsum.photos/seed/p1965/300/200,3.7,3377,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+966,p1966,JBL Wireless Headphones 1966,JBL,headphones,17493,17493,0,https://picsum.photos/seed/p1966/300/200,3.3,4046,Comfortable headphones with active noise cancellation.
+967,p1967,Epson InkJet 1967 - Wireless Printing,Epson,printer,24980,29388,15,https://picsum.photos/seed/p1967/300/200,4.35,539,Reliable home-office printer with low-cost cartridges.
+968,p1968,Microsoft Game Console 1968 - 1TB,Microsoft,gaming_console,35543,35543,0,https://picsum.photos/seed/p1968/300/200,3.59,1397,Next-gen console delivering immersive gaming experiences.
+969,p1969,"Apple UltraBook 1969 - 16GB RAM, 512GB SSD",Apple,laptop,145694,161882,10,https://picsum.photos/seed/p1969/300/200,3.91,200,Powerful laptop for productivity and light gaming. Long battery life and slim design.
+970,p1970,"Lenovo Tab 1970 - 10.5"" Display, 64GB",Lenovo,tablet,33967,33967,0,https://picsum.photos/seed/p1970/300/200,3.57,134,Portable tablet ideal for media and light productivity.
+971,p1971,D-Link AC1754 Router 1971,D-Link,router,5825,6472,10,https://picsum.photos/seed/p1971/300/200,4.23,4088,Fast dual-band WiFi router with parental controls.
+972,p1972,D-Link AC2198 Router 1972,D-Link,router,11107,13067,15,https://picsum.photos/seed/p1972/300/200,4.8,1772,Fast dual-band WiFi router with parental controls.
+973,p1973,D-Link AC3159 Router 1973,D-Link,router,10801,12707,15,https://picsum.photos/seed/p1973/300/200,3.42,2309,Fast dual-band WiFi router with parental controls.
+974,p1974,Epson InkJet 1974 - Wireless Printing,Epson,printer,5301,5580,5,https://picsum.photos/seed/p1974/300/200,4.37,2560,Reliable home-office printer with low-cost cartridges.
+975,p1975,"Samsung Curved Monitor 1975 - 27""",Samsung,monitor,45504,45504,0,https://picsum.photos/seed/p1975/300/200,4.58,2040,High-refresh IPS panel with thin bezels and adaptive-sync.
+976,p1976,"Asus Curved Monitor 1976 - 27""",Asus,monitor,40549,42683,5,https://picsum.photos/seed/p1976/300/200,3.31,3191,High-refresh IPS panel with thin bezels and adaptive-sync.
+977,p1977,"LG Smart TV 1977 - 4K UHD, 50""",LG,tv,74618,78545,5,https://picsum.photos/seed/p1977/300/200,4.83,3970,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+978,p1978,Epson InkJet 1978 - Wireless Printing,Epson,printer,27580,29032,5,https://picsum.photos/seed/p1978/300/200,3.62,3080,Reliable home-office printer with low-cost cartridges.
+979,p1979,Netgear AC1810 Router 1979,Netgear,router,10958,12176,10,https://picsum.photos/seed/p1979/300/200,4.52,1209,Fast dual-band WiFi router with parental controls.
+980,p1980,"Asus Curved Monitor 1980 - 27""",Asus,monitor,24780,26084,5,https://picsum.photos/seed/p1980/300/200,3.48,1052,High-refresh IPS panel with thin bezels and adaptive-sync.
+981,p1981,HP InkJet 1981 - Wireless Printing,HP,printer,14564,15330,5,https://picsum.photos/seed/p1981/300/200,3.87,2675,Reliable home-office printer with low-cost cartridges.
+982,p1982,Sony Game Console 1982 - 1TB,Sony,gaming_console,21701,21701,0,https://picsum.photos/seed/p1982/300/200,4.8,1925,Next-gen console delivering immersive gaming experiences.
+983,p1983,"Oppo X1983 - 8GB RAM, 128GB Storage",Oppo,smartphone,44475,52323,15,https://picsum.photos/seed/p1983/300/200,3.91,3243,High-performance smartphone with excellent camera and display.
+984,p1984,"Apple Tab 1984 - 10.5"" Display, 64GB",Apple,tablet,59988,59988,0,https://picsum.photos/seed/p1984/300/200,4.01,345,Portable tablet ideal for media and light productivity.
+985,p1985,"Sony Smart TV 1985 - 4K UHD, 50""",Sony,tv,99426,104659,5,https://picsum.photos/seed/p1985/300/200,4.04,3399,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+986,p1986,Sony Wireless Headphones 1986,Sony,headphones,5341,6283,15,https://picsum.photos/seed/p1986/300/200,4.73,1344,Comfortable headphones with active noise cancellation.
+987,p1987,TP-Link AC2298 Router 1987,TP-Link,router,10613,10613,0,https://picsum.photos/seed/p1987/300/200,4.48,2099,Fast dual-band WiFi router with parental controls.
+988,p1988,HP InkJet 1988 - Wireless Printing,HP,printer,19799,19799,0,https://picsum.photos/seed/p1988/300/200,3.39,3174,Reliable home-office printer with low-cost cartridges.
+989,p1989,"Vivo X1989 - 8GB RAM, 128GB Storage",Vivo,smartphone,117173,117173,0,https://picsum.photos/seed/p1989/300/200,4.16,2067,High-performance smartphone with excellent camera and display.
+990,p1990,"Samsung Smart TV 1990 - 4K UHD, 55""",Samsung,tv,91407,107538,15,https://picsum.photos/seed/p1990/300/200,4.48,4027,Crisp 4K HDR display with smart OS and multiple HDMI ports.
+991,p1991,"Samsung Curved Monitor 1991 - 27""",Samsung,monitor,23375,25972,10,https://picsum.photos/seed/p1991/300/200,4.44,1306,High-refresh IPS panel with thin bezels and adaptive-sync.
+992,p1992,"Samsung X1992 - 8GB RAM, 128GB Storage",Samsung,smartphone,63465,63465,0,https://picsum.photos/seed/p1992/300/200,3.71,2152,High-performance smartphone with excellent camera and display.
+993,p1993,"LG Curved Monitor 1993 - 27""",LG,monitor,19880,23388,15,https://picsum.photos/seed/p1993/300/200,3.66,184,High-refresh IPS panel with thin bezels and adaptive-sync.
+994,p1994,Microsoft Game Console 1994 - 1TB,Microsoft,gaming_console,39009,43343,10,https://picsum.photos/seed/p1994/300/200,3.5,108,Next-gen console delivering immersive gaming experiences.
+995,p1995,Sony Game Console 1995 - 1TB,Sony,gaming_console,24592,27325,10,https://picsum.photos/seed/p1995/300/200,4.58,361,Next-gen console delivering immersive gaming experiences.
+996,p1996,Microsoft Game Console 1996 - 1TB,Microsoft,gaming_console,38166,44901,15,https://picsum.photos/seed/p1996/300/200,3.48,3041,Next-gen console delivering immersive gaming experiences.
+997,p1997,Boat Wireless Headphones 1997,Boat,headphones,18148,20165,10,https://picsum.photos/seed/p1997/300/200,4.35,3340,Comfortable headphones with active noise cancellation.
+998,p1998,Canon InkJet 1998 - Wireless Printing,Canon,printer,17245,20288,15,https://picsum.photos/seed/p1998/300/200,4.76,1188,Reliable home-office printer with low-cost cartridges.
+999,p1999,Microsoft Game Console 1999 - 1TB,Microsoft,gaming_console,18982,22332,15,https://picsum.photos/seed/p1999/300/200,3.27,850,Next-gen console delivering immersive gaming experiences.
